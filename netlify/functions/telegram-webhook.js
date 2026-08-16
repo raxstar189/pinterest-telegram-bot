@@ -1,4 +1,11 @@
-const { handleTelegramCallback, runDailyMorningProcess } = require('../../src/bot');
+const { 
+  handleTelegramCallback, 
+  runDailyMorningProcess, 
+  getPoolStatusReport, 
+  syncSitemapManually, 
+  getHelpText 
+} = require('../../src/bot');
+const TelegramBotClient = require('../../src/telegram');
 
 /**
  * Netlify Serverless Function endpoint for Telegram Webhook updates.
@@ -16,6 +23,8 @@ exports.handler = async function (event, context) {
     return { statusCode: 405, body: 'Method Not Allowed' };
   }
 
+  const telegram = new TelegramBotClient();
+
   try {
     const payload = JSON.parse(event.body || '{}');
 
@@ -28,16 +37,56 @@ exports.handler = async function (event, context) {
       };
     }
 
-    // Optional manual trigger via Telegram text command "/generate" or "/today"
+    // Handle incoming text commands & menu button taps
     if (payload.message && payload.message.text) {
-      const text = payload.message.text.trim().toLowerCase();
-      if (text === '/generate' || text === '/today' || text === '/start') {
+      const text = payload.message.text.trim();
+      const lower = text.toLowerCase();
+
+      // Trigger daily pin digest
+      if (lower === '/today' || lower === '/generate' || text.includes('Generate Today')) {
         await runDailyMorningProcess();
         return {
           statusCode: 200,
           body: JSON.stringify({ status: 'digest_generated' })
         };
       }
+
+      // Pool status report
+      if (lower === '/status' || text.includes('Pool Status')) {
+        const reportText = await getPoolStatusReport();
+        await telegram.sendMessageWithMenu(reportText);
+        return {
+          statusCode: 200,
+          body: JSON.stringify({ status: 'status_sent' })
+        };
+      }
+
+      // Sitemap sync
+      if (lower === '/sync' || text.includes('Sync Sitemap')) {
+        const syncText = await syncSitemapManually();
+        await telegram.sendMessageWithMenu(syncText);
+        return {
+          statusCode: 200,
+          body: JSON.stringify({ status: 'sync_sent' })
+        };
+      }
+
+      // Start or Help
+      if (lower === '/start' || lower === '/help' || text.includes('Help')) {
+        const helpText = getHelpText();
+        await telegram.sendMessageWithMenu(helpText);
+        return {
+          statusCode: 200,
+          body: JSON.stringify({ status: 'help_sent' })
+        };
+      }
+
+      // Fallback response with persistent menu
+      await telegram.sendMessageWithMenu(`👋 Hi! Use the menu buttons below or send /today to get your daily 10 Pinterest pins!`);
+      return {
+        statusCode: 200,
+        body: JSON.stringify({ status: 'menu_sent' })
+      };
     }
 
     return {
@@ -46,6 +95,11 @@ exports.handler = async function (event, context) {
     };
   } catch (error) {
     console.error('[netlify-webhook] Error processing Telegram update:', error);
+    // Send error message back to user chat so they see what happened
+    try {
+      await telegram.sendMessageWithMenu(`⚠️ *Notice:* ${error.message}`);
+    } catch (e) {}
+
     return {
       statusCode: 500,
       body: JSON.stringify({ error: error.message })

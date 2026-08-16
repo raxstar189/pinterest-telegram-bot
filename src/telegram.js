@@ -9,9 +9,6 @@ class TelegramBotClient {
     this.baseUrl = `https://api.telegram.org/bot${this.token}`;
   }
 
-  /**
-   * Helper to execute Telegram Bot API requests.
-   */
   async _request(method, data = {}) {
     if (!this.token || !this.chatId) {
       throw new Error('[telegram] TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID must be set in environment variables.');
@@ -28,13 +25,39 @@ class TelegramBotClient {
   }
 
   /**
+   * Sets persistent bot commands menu in Telegram chat UI.
+   */
+  async setMyCommands() {
+    const commands = [
+      { command: 'today', description: '📌 Generate today\'s 10 Pinterest pins' },
+      { command: 'status', description: '📊 Check recipe pool status' },
+      { command: 'sync', description: '🔄 Sync latest recipes from sitemap' },
+      { command: 'help', description: '❓ How to use this bot' }
+    ];
+    try {
+      await this._request('setMyCommands', { commands });
+    } catch (e) {
+      console.warn('[telegram] Failed to set bot commands menu:', e.message);
+    }
+  }
+
+  /**
+   * Builds persistent bottom reply keyboard menu.
+   */
+  getPersistentMenuKeyboard() {
+    return {
+      keyboard: [
+        [{ text: '📌 Generate Today\'s Pins' }, { text: '📊 Pool Status' }],
+        [{ text: '🔄 Sync Sitemap' }, { text: '❓ Help' }]
+      ],
+      resize_keyboard: true,
+      persistent: true
+    };
+  }
+
+  /**
    * Formats the 10 recipes into a clean markdown message text and inline keyboard layout.
-   * 
-   * @param {Array<Object>} recipes - 10 selected recipe objects
-   * @param {Object} itemStatuses - Map of slug -> status ('posted' | 'skipped' | 'pending')
-   * @param {boolean} thinPoolWarning - Whether thin-pool warning line should be shown
-   * @param {number} eligiblePoolSize - Number of eligible recipes
-   * @returns {Object} { text, inline_keyboard }
+   * Uses short index-based callback data (e.g. `p:0` and `s:0`) to guarantee Telegram's 64-byte limit is never exceeded.
    */
   buildMorningDigestMessage(recipes, itemStatuses = {}, thinPoolWarning = false, eligiblePoolSize = 0) {
     const today = getTodayDateString();
@@ -61,16 +84,16 @@ class TelegramBotClient {
 
       text += `${num}. [${recipe.title}](${recipe.url})${statusBadge}\n`;
 
-      // Build inline buttons for pending items
+      // Build short inline buttons (p:index and s:index) for pending items
       if (status === 'pending') {
         inline_keyboard.push([
           {
             text: `✅ ${num}. Posted`,
-            callback_data: `pin:post:${recipe.slug}`
+            callback_data: `p:${index}`
           },
           {
             text: `⏭ ${num}. Skip`,
-            callback_data: `pin:skip:${recipe.slug}`
+            callback_data: `s:${index}`
           }
         ]);
       }
@@ -83,11 +106,6 @@ class TelegramBotClient {
 
   /**
    * Sends the morning digest message to the configured Telegram chat ID.
-   * 
-   * @param {Array<Object>} recipes - 10 selected recipe objects
-   * @param {boolean} thinPoolWarning - Thin-pool warning flag
-   * @param {number} eligiblePoolSize - Eligible pool count
-   * @returns {Promise<Object>} Telegram API response with message_id
    */
   async sendMorningDigest(recipes, thinPoolWarning = false, eligiblePoolSize = 0) {
     const itemStatuses = {};
@@ -112,6 +130,20 @@ class TelegramBotClient {
 
     const res = await this._request('sendMessage', payload);
     return res.result;
+  }
+
+  /**
+   * Sends a standard interactive reply message with persistent bottom menu buttons.
+   */
+  async sendMessageWithMenu(text) {
+    const payload = {
+      chat_id: this.chatId,
+      text,
+      parse_mode: 'Markdown',
+      disable_web_page_preview: true,
+      reply_markup: this.getPersistentMenuKeyboard()
+    };
+    return this._request('sendMessage', payload);
   }
 
   /**

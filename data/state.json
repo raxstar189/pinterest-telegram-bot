@@ -1,0 +1,302 @@
+{
+  "known_urls": [
+    "https://newdecr.com/easy-delicious-chicken-curry-your-new-favorite/",
+    "https://newdecr.com/the-perfect-baked-salmon-your-guide-to/",
+    "https://newdecr.com/seriously-good-beef-tacos-your-weeknight/",
+    "https://newdecr.com/creamy-garlic-butter-pasta-your-go-to/",
+    "https://newdecr.com/crispy-baked-chicken-wings/",
+    "https://newdecr.com/homemade-margherita-pizza/",
+    "https://newdecr.com/classic-beef-lasagna/",
+    "https://newdecr.com/spicy-thai-green-curry/",
+    "https://newdecr.com/creamy-mushroom-risotto/",
+    "https://newdecr.com/fluffy-blueberry-pancakes/",
+    "https://newdecr.com/authentic-mexican-street-tacos/",
+    "https://newdecr.com/lemon-herb-grilled-chicken-breast/",
+    "https://newdecr.com/decadent-chocolate-lava-cake/",
+    "https://newdecr.com/fresh-greek-salad-with-feta/",
+    "https://newdecr.com/slow-cooker-pulled-pork-sandwiches/"
+  ],
+  "recipes": {
+    "easy-delicious-chicken-curry-your-new-favorite": {
+      "slug": "easy-delicious-chicken-curry-your-new-favorite",
+      "title": "Easy Delicious Chicken Curry",
+      "url": "https://newdecr.com/easy-delicious-chicken-curry-your-new-favorite/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-15T10:00:00+00:00"
+    },
+    "the-perfect-baked-salmon-your-guide-to": {
+      "slug": "the-perfect-baked-salmon-your-guide-to",
+      "title": "Baked Salmon",
+      "url": "https://newdecr.com/the-perfect-baked-salmon-your-guide-to/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-14T10:00:00+00:00"
+    },
+    "seriously-good-beef-tacos-your-weeknight": {
+      "slug": "seriously-good-beef-tacos-your-weeknight",
+      "title": "Beef Tacos",
+      "url": "https://newdecr.com/seriously-good-beef-tacos-your-weeknight/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-13T10:00:00+00:00"
+    },
+    "creamy-garlic-butter-pasta-your-go-to": {
+      "slug": "creamy-garlic-butter-pasta-your-go-to",
+      "title": "Creamy Garlic Butter Pasta",
+      "url": "https://newdecr.com/creamy-garlic-butter-pasta-your-go-to/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-12T10:00:00+00:00"
+    },
+    "crispy-baked-chicken-wings": {
+      "slug": "crispy-baked-chicken-wings",
+      "title": "Crispy Baked Chicken Wings",
+      "url": "https://newdecr.com/crispy-baked-chicken-wings/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-11T10:00:00+00:00"
+    },
+    "homemade-margherita-pizza": {
+      "slug": "homemade-margherita-pizza",
+      "title": "Homemade Margherita Pizza",
+      "url": "https://newdecr.com/homemade-margherita-pizza/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-10T10:00:00+00:00"
+    },
+    "classic-beef-lasagna": {
+      "slug": "classic-beef-lasagna",
+      "title": "Classic Beef Lasagna",
+      "url": "https://newdecr.com/classic-beef-lasagna/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-09T10:00:00+00:00"
+    },
+    "spicy-thai-green-curry": {
+      "slug": "spicy-thai-green-curry",
+      "title": "Spicy Thai Green Curry",
+      "url": "https://newdecr.com/spicy-thai-green-curry/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-08T10:00:00+00:00"
+    },
+    "creamy-mushroom-risotto": {
+      "slug": "creamy-mushroom-risotto",
+      "title": "Creamy Mushroom Risotto",
+      "url": "https://newdecr.com/creamy-mushroom-risotto/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-07T10:00:00+00:00"
+    },
+    "fluffy-blueberry-pancakes": {
+      "slug": "fluffy-blueberry-pancakes",
+      "title": "Fluffy Blueberry Pancakes",
+      "url": "https://newdecr.com/fluffy-blueberry-pancakes/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-06T10:00:00+00:00"
+    },
+    "authentic-mexican-street-tacos": {
+      "slug": "authentic-mexican-street-tacos",
+      "title": "Authentic Mexican Street Tacos",
+      "url": "https://newdecr.com/authentic-mexican-street-tacos/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-05T10:00:00+00:00"
+    },
+    "lemon-herb-grilled-chicken-breast": {
+      "slug": "lemon-herb-grilled-chicken-breast",
+      "title": "Lemon Herb Grilled Chicken Breast",
+      "url": "https://newdecr.com/lemon-herb-grilled-chicken-breast/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-04T10:00:00+00:00"
+    },
+    "decadent-chocolate-lava-cake": {
+      "slug": "decadent-chocolate-lava-cake",
+      "title": "Decadent Chocolate Lava Cake",
+      "url": "https://newdecr.com/decadent-chocolate-lava-cake/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-03T10:00:00+00:00"
+    },
+    "fresh-greek-salad-with-feta": {
+      "slug": "fresh-greek-salad-with-feta",
+      "title": "Fresh Greek Salad with Feta",
+      "url": "https://newdecr.com/fresh-greek-salad-with-feta/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-02T10:00:00+00:00"
+    },
+    "slow-cooker-pulled-pork-sandwiches": {
+      "slug": "slow-cooker-pulled-pork-sandwiches",
+      "title": "Slow Cooker Pulled Pork Sandwiches",
+      "url": "https://newdecr.com/slow-cooker-pulled-pork-sandwiches/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-17",
+      "is_new": true,
+      "lastmod": "2026-08-01T10:00:00+00:00"
+    }
+  },
+  "pending_messages": {
+    "2": {
+      "date": "2026-08-17",
+      "recipes": [
+        {
+          "slug": "lemon-herb-grilled-chicken-breast",
+          "title": "Lemon Herb Grilled Chicken Breast",
+          "url": "https://newdecr.com/lemon-herb-grilled-chicken-breast/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-04T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "fluffy-blueberry-pancakes",
+          "title": "Fluffy Blueberry Pancakes",
+          "url": "https://newdecr.com/fluffy-blueberry-pancakes/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-06T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "easy-delicious-chicken-curry-your-new-favorite",
+          "title": "Easy Delicious Chicken Curry",
+          "url": "https://newdecr.com/easy-delicious-chicken-curry-your-new-favorite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-15T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-perfect-baked-salmon-your-guide-to",
+          "title": "Baked Salmon",
+          "url": "https://newdecr.com/the-perfect-baked-salmon-your-guide-to/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-14T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-baked-chicken-wings",
+          "title": "Crispy Baked Chicken Wings",
+          "url": "https://newdecr.com/crispy-baked-chicken-wings/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-11T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "creamy-mushroom-risotto",
+          "title": "Creamy Mushroom Risotto",
+          "url": "https://newdecr.com/creamy-mushroom-risotto/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-07T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "seriously-good-beef-tacos-your-weeknight",
+          "title": "Beef Tacos",
+          "url": "https://newdecr.com/seriously-good-beef-tacos-your-weeknight/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-13T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "creamy-garlic-butter-pasta-your-go-to",
+          "title": "Creamy Garlic Butter Pasta",
+          "url": "https://newdecr.com/creamy-garlic-butter-pasta-your-go-to/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-12T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "slow-cooker-pulled-pork-sandwiches",
+          "title": "Slow Cooker Pulled Pork Sandwiches",
+          "url": "https://newdecr.com/slow-cooker-pulled-pork-sandwiches/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-01T10:00:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "classic-beef-lasagna",
+          "title": "Classic Beef Lasagna",
+          "url": "https://newdecr.com/classic-beef-lasagna/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-17",
+          "is_new": true,
+          "lastmod": "2026-08-09T10:00:00+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "lemon-herb-grilled-chicken-breast": "pending",
+        "fluffy-blueberry-pancakes": "pending",
+        "easy-delicious-chicken-curry-your-new-favorite": "pending",
+        "the-perfect-baked-salmon-your-guide-to": "pending",
+        "crispy-baked-chicken-wings": "pending",
+        "creamy-mushroom-risotto": "pending",
+        "seriously-good-beef-tacos-your-weeknight": "pending",
+        "creamy-garlic-butter-pasta-your-go-to": "pending",
+        "slow-cooker-pulled-pork-sandwiches": "pending",
+        "classic-beef-lasagna": "pending"
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 15
+    }
+  }
+}
