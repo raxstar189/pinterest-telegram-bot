@@ -24,9 +24,6 @@ class TelegramBotClient {
     }
   }
 
-  /**
-   * Sets persistent bot commands menu in Telegram chat UI.
-   */
   async setMyCommands() {
     const commands = [
       { command: 'today', description: '📌 Generate today\'s 10 Pinterest pins' },
@@ -41,9 +38,6 @@ class TelegramBotClient {
     }
   }
 
-  /**
-   * Builds persistent bottom reply keyboard menu.
-   */
   getPersistentMenuKeyboard() {
     return {
       keyboard: [
@@ -56,76 +50,48 @@ class TelegramBotClient {
   }
 
   /**
-   * Formats the 10 recipes into a clean markdown message text and inline keyboard layout.
-   * Uses short index-based callback data (e.g. `p:0` and `s:0`) to guarantee Telegram's 64-byte limit is never exceeded.
+   * Builds an individual recipe message card text and clean unnumbered buttons.
    */
-  buildMorningDigestMessage(recipes, itemStatuses = {}, thinPoolWarning = false, eligiblePoolSize = 0) {
-    const today = getTodayDateString();
-
-    let text = `📌 *Pinterest Daily Pin List* (${today})\n`;
-    text += `_Here are today's 10 recommended recipes to pin:_\n\n`;
-
-    if (thinPoolWarning) {
-      text += `⚠️ *Warning:* Content pool is running thin (${eligiblePoolSize} eligible recipes remaining). Consider publishing fresh posts!\n\n`;
-    }
+  buildRecipeCard(recipe, index, status = 'pending') {
+    const num = index + 1;
+    let text = `*${num}.* [${recipe.title}](${recipe.url})\n`;
 
     const inline_keyboard = [];
 
-    recipes.forEach((recipe, index) => {
-      const num = index + 1;
-      const status = itemStatuses[recipe.slug] || 'pending';
-
-      let statusBadge = '';
-      if (status === 'posted') {
-        statusBadge = ' ✅ *[POSTED]*';
-      } else if (status === 'skipped') {
-        statusBadge = ' ⏭ *[SKIPPED]*';
-      }
-
-      text += `${num}. [${recipe.title}](${recipe.url})${statusBadge}\n`;
-
-      // Build short inline buttons (p:index and s:index) for pending items
-      if (status === 'pending') {
-        inline_keyboard.push([
-          {
-            text: `✅ ${num}. Posted`,
-            callback_data: `p:${index}`
-          },
-          {
-            text: `⏭ ${num}. Skip`,
-            callback_data: `s:${index}`
-          }
-        ]);
-      }
-    });
-
-    text += `\n_Tap ✅ when you post a pin to record history, or ⏭ to skip._`;
+    if (status === 'posted') {
+      text += `   └ Status: ✅ *Posted*`;
+    } else if (status === 'skipped') {
+      text += `   └ Status: ⏭ *Skipped*`;
+    } else {
+      text += `   └ Status: ⏳ *Pending Action*`;
+      // Clean unnumbered buttons right under the recipe name!
+      inline_keyboard.push([
+        {
+          text: '✅ Posted',
+          callback_data: `p:${index}`
+        },
+        {
+          text: '⏭ Skip',
+          callback_data: `s:${index}`
+        }
+      ]);
+    }
 
     return { text, inline_keyboard };
   }
 
   /**
-   * Sends the morning digest message to the configured Telegram chat ID.
+   * Sends individual recipe card message.
    */
-  async sendMorningDigest(recipes, thinPoolWarning = false, eligiblePoolSize = 0) {
-    const itemStatuses = {};
-    recipes.forEach(r => { itemStatuses[r.slug] = 'pending'; });
-
-    const { text, inline_keyboard } = this.buildMorningDigestMessage(
-      recipes,
-      itemStatuses,
-      thinPoolWarning,
-      eligiblePoolSize
-    );
+  async sendRecipeCard(recipe, index, status = 'pending') {
+    const { text, inline_keyboard } = this.buildRecipeCard(recipe, index, status);
 
     const payload = {
       chat_id: this.chatId,
       text,
       parse_mode: 'Markdown',
       disable_web_page_preview: true,
-      reply_markup: {
-        inline_keyboard
-      }
+      reply_markup: inline_keyboard.length > 0 ? { inline_keyboard } : undefined
     };
 
     const res = await this._request('sendMessage', payload);
@@ -133,8 +99,27 @@ class TelegramBotClient {
   }
 
   /**
-   * Sends a standard interactive reply message with persistent bottom menu buttons.
+   * Updates an individual recipe card message in-place.
    */
+  async updateRecipeCard(messageId, recipe, index, status = 'pending') {
+    const { text, inline_keyboard } = this.buildRecipeCard(recipe, index, status);
+
+    const payload = {
+      chat_id: this.chatId,
+      message_id: messageId,
+      text,
+      parse_mode: 'Markdown',
+      disable_web_page_preview: true,
+      reply_markup: inline_keyboard.length > 0 ? { inline_keyboard } : { inline_keyboard: [] }
+    };
+
+    try {
+      await this._request('editMessageText', payload);
+    } catch (err) {
+      console.warn('[telegram] Failed to edit recipe card:', err.message);
+    }
+  }
+
   async sendMessageWithMenu(text) {
     const payload = {
       chat_id: this.chatId,
@@ -146,42 +131,11 @@ class TelegramBotClient {
     return this._request('sendMessage', payload);
   }
 
-  /**
-   * Updates an existing morning digest Telegram message in-place to reflect a button tap.
-   */
-  async updateDigestMessage(messageId, recipes, itemStatuses, thinPoolWarning, eligiblePoolSize) {
-    const { text, inline_keyboard } = this.buildMorningDigestMessage(
-      recipes,
-      itemStatuses,
-      thinPoolWarning,
-      eligiblePoolSize
-    );
-
-    const payload = {
-      chat_id: this.chatId,
-      message_id: messageId,
-      text,
-      parse_mode: 'Markdown',
-      disable_web_page_preview: true,
-      reply_markup: {
-        inline_keyboard
-      }
-    };
-
-    try {
-      await this._request('editMessageText', payload);
-    } catch (err) {
-      console.warn('[telegram] Failed to edit message text in-place:', err.message);
-    }
-  }
-
-  /**
-   * Answers a Telegram callback query to dismiss the button loading spinner in the client.
-   */
-  async answerCallbackQuery(callbackQueryId, text = '') {
+  async answerCallbackQuery(callbackQueryId, text = '', showAlert = false) {
     return this._request('answerCallbackQuery', {
       callback_query_id: callbackQueryId,
-      text
+      text,
+      show_alert: showAlert
     });
   }
 }

@@ -12,7 +12,6 @@ async function runDailyMorningProcess() {
   const state = await store.loadState();
   const telegram = new TelegramBotClient();
 
-  // Try setting Telegram commands menu
   telegram.setMyCommands().catch(() => {});
 
   // Step 1: Fetch and parse sitemap
@@ -37,30 +36,46 @@ async function runDailyMorningProcess() {
     throw new Error('No recipes available in state pool.');
   }
 
-  console.log(`[bot] Selected ${selectedRecipes.length} recipes for today (Thin pool warning: ${thinPoolWarning}).`);
+  const today = getTodayDateString();
+  let headerText = `📌 *Pinterest Daily Pin List* (${today})\n_Here are today's 10 recommended recipes to pin:_\n`;
+  if (thinPoolWarning) {
+    headerText += `\n⚠️ *Warning:* Content pool is running thin (${eligiblePoolSize} eligible recipes remaining).`;
+  }
 
-  // Step 4: Send Telegram morning message
-  const telegramResult = await telegram.sendMorningDigest(selectedRecipes, thinPoolWarning, eligiblePoolSize);
-  const messageId = telegramResult.message_id;
+  await telegram.sendMessageWithMenu(headerText);
 
-  // Step 5: Save pending message state for interactive button tracking
+  // Step 4: Send 10 individual recipe cards, each with clean unnumbered buttons directly below the title!
+  const cardMessageIds = {};
   const itemStatuses = {};
-  selectedRecipes.forEach(r => { itemStatuses[r.slug] = 'pending'; });
 
-  state.pending_messages[messageId] = {
-    date: getTodayDateString(),
+  for (let i = 0; i < selectedRecipes.length; i++) {
+    const recipe = selectedRecipes[i];
+    itemStatuses[recipe.slug] = 'pending';
+
+    try {
+      const cardResult = await telegram.sendRecipeCard(recipe, i, 'pending');
+      cardMessageIds[recipe.slug] = cardResult.message_id;
+    } catch (err) {
+      console.error(`[bot] Failed to send recipe card ${i + 1}:`, err.message);
+    }
+  }
+
+  // Step 5: Save pending message mapping
+  state.pending_messages = state.pending_messages || {};
+  state.pending_messages[today] = {
+    date: today,
     recipes: selectedRecipes,
     itemStatuses,
+    cardMessageIds,
     thinPoolWarning,
     eligiblePoolSize
   };
 
-  // Save updated state
   await store.saveState(state);
-  console.log(`[bot] Morning process completed successfully. Message ID: ${messageId}`);
+  console.log(`[bot] Morning process completed successfully for ${today}. Sent ${Object.keys(cardMessageIds).length} recipe cards.`);
 
   return {
-    messageId,
+    today,
     selectedRecipes,
     thinPoolWarning,
     eligiblePoolSize
@@ -142,7 +157,7 @@ function getHelpText() {
     `2. Uses weighted anti-monotony randomness so daily lists vary.\n` +
     `3. Newly published recipes get an automatic priority boost.\n\n` +
     `*Interactive Buttons:*\n` +
-    `• Tap ✅ *Posted* when you pin a recipe to record history.\n` +
+    `• Tap ✅ *Posted* right below a recipe to record history.\n` +
     `• Tap ⏭ *Skip* to leave date untouched.\n\n` +
     `*Available Commands:*\n` +
     `• /today or 📌 *Generate Today's Pins*\n` +
@@ -166,8 +181,9 @@ async function handleTelegramCallback(callbackQuery) {
   const messageId = message.message_id;
   const store = getStore();
   const state = await store.loadState();
+  const today = getTodayDateString();
 
-  const pendingRecord = state.pending_messages[messageId];
+  const pendingRecord = (state.pending_messages && state.pending_messages[today]) || null;
   if (!pendingRecord || !pendingRecord.recipes) {
     return telegram.answerCallbackQuery(callbackId, 'Action recorded.');
   }
@@ -190,7 +206,6 @@ async function handleTelegramCallback(callbackQuery) {
   const selectedRecipe = pendingRecord.recipes[index];
   const slug = selectedRecipe.slug;
   const recipe = state.recipes[slug];
-  const today = getTodayDateString();
 
   if (action === 'post') {
     if (recipe) {
@@ -199,21 +214,21 @@ async function handleTelegramCallback(callbackQuery) {
       recipe.is_new = false;
     }
     pendingRecord.itemStatuses[slug] = 'posted';
-    await telegram.answerCallbackQuery(callbackId, `Marked "${selectedRecipe.title}" as Posted! ✅`);
+    await telegram.answerCallbackQuery(callbackId, `Confirmed: "${selectedRecipe.title}" recorded as Posted! ✅`);
   } else if (action === 'skip') {
     if (recipe) {
       recipe.is_new = false;
     }
     pendingRecord.itemStatuses[slug] = 'skipped';
-    await telegram.answerCallbackQuery(callbackId, `Skipped "${selectedRecipe.title}" ⏭`);
+    await telegram.answerCallbackQuery(callbackId, `"${selectedRecipe.title}" marked as Skipped ⏭`);
   }
 
-  await telegram.updateDigestMessage(
+  // Update specific recipe card message: changes status text and HIDES its button row!
+  await telegram.updateRecipeCard(
     messageId,
-    pendingRecord.recipes,
-    pendingRecord.itemStatuses,
-    pendingRecord.thinPoolWarning,
-    pendingRecord.eligiblePoolSize
+    selectedRecipe,
+    index,
+    pendingRecord.itemStatuses[slug]
   );
 
   await store.saveState(state);
