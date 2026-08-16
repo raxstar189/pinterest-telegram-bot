@@ -12,9 +12,6 @@ const xmlParser = new XMLParser({
 
 /**
  * Parses raw XML content of a sitemap into structured recipe items.
- * 
- * @param {string} xmlText - Raw XML text content
- * @returns {Array<Object>} Array of recipe entries
  */
 function parseSitemapXml(xmlText) {
   if (!xmlText || typeof xmlText !== 'string') return [];
@@ -25,46 +22,63 @@ function parseSitemapXml(xmlText) {
   }
 
   const parsedObj = xmlParser.parse(xmlText);
-  if (!parsedObj || !parsedObj.urlset || !parsedObj.urlset.url) {
-    return [];
-  }
-
-  let urls = parsedObj.urlset.url;
-  if (!Array.isArray(urls)) {
-    urls = [urls];
-  }
+  if (!parsedObj) return [];
 
   const recipes = [];
 
-  for (const item of urls) {
-    const loc = typeof item.loc === 'string' ? item.loc.trim() : '';
-    if (!loc) continue;
+  // Handle standard sitemap urlset
+  if (parsedObj.urlset && parsedObj.urlset.url) {
+    let urls = parsedObj.urlset.url;
+    if (!Array.isArray(urls)) urls = [urls];
 
-    // Filter out homepage / domain root
-    try {
-      const parsedUrl = new URL(loc);
-      const pathname = parsedUrl.pathname.replace(/\/+$/, '');
-      if (!pathname || pathname === '') {
-        continue; // Skip homepage
+    for (const item of urls) {
+      const loc = typeof item.loc === 'string' ? item.loc.trim() : '';
+      if (!loc) continue;
+
+      try {
+        const parsedUrl = new URL(loc);
+        const pathname = parsedUrl.pathname.replace(/\/+$/, '');
+        if (!pathname) continue;
+
+        const pathSegments = pathname.split('/').filter(Boolean);
+        if (pathSegments.length === 0) continue;
+
+        const slug = pathSegments[pathSegments.length - 1];
+        const title = cleanRecipeTitle(slug);
+        const lastmod = item.lastmod || null;
+
+        recipes.push({ url: loc, slug, title, lastmod });
+      } catch (err) {
+        console.warn(`[sitemap] Invalid URL encountered: ${loc}`);
       }
+    }
+  } 
+  // Handle RSS Feed fallback (rss/channel/item)
+  else if (parsedObj.rss && parsedObj.rss.channel && parsedObj.rss.channel.item) {
+    let items = parsedObj.rss.channel.item;
+    if (!Array.isArray(items)) items = [items];
 
-      const pathSegments = pathname.split('/').filter(Boolean);
-      if (pathSegments.length === 0) {
-        continue;
+    for (const item of items) {
+      const loc = typeof item.link === 'string' ? item.link.trim() : '';
+      if (!loc) continue;
+
+      try {
+        const parsedUrl = new URL(loc);
+        const pathname = parsedUrl.pathname.replace(/\/+$/, '');
+        if (!pathname) continue;
+
+        const pathSegments = pathname.split('/').filter(Boolean);
+        if (pathSegments.length === 0) continue;
+
+        const slug = pathSegments[pathSegments.length - 1];
+        const rawTitle = item.title || slug;
+        const title = cleanRecipeTitle(rawTitle);
+        const lastmod = item.pubDate || null;
+
+        recipes.push({ url: loc, slug, title, lastmod });
+      } catch (err) {
+        console.warn(`[sitemap] Invalid RSS link: ${loc}`);
       }
-
-      const slug = pathSegments[pathSegments.length - 1];
-      const title = cleanRecipeTitle(slug);
-      const lastmod = item.lastmod || null;
-
-      recipes.push({
-        url: loc,
-        slug,
-        title,
-        lastmod
-      });
-    } catch (err) {
-      console.warn(`[sitemap] Invalid URL encountered: ${loc}`);
     }
   }
 
@@ -73,10 +87,6 @@ function parseSitemapXml(xmlText) {
 
 /**
  * Fetches and parses recipes from the Yoast SEO post sitemap.
- * Supports HTTP fetch with User-Agent and automatic local file fallback.
- * 
- * @param {string} targetUrl - Optional custom sitemap URL
- * @returns {Promise<Array<Object>>} Array of recipe entries
  */
 async function fetchSitemapRecipes(targetUrl = null) {
   const url = targetUrl || config.sitemapUrl;
@@ -84,12 +94,11 @@ async function fetchSitemapRecipes(targetUrl = null) {
   try {
     console.log(`[sitemap] Fetching sitemap from: ${url}`);
     const response = await axios.get(url, {
-      timeout: 15000,
+      timeout: 12000,
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Cache-Control': 'no-cache'
+        'Accept-Language': 'en-US,en;q=0.9'
       }
     });
 
@@ -100,7 +109,7 @@ async function fetchSitemapRecipes(targetUrl = null) {
   } catch (httpError) {
     console.warn(`[sitemap] HTTP fetch failed or returned firewall challenge: ${httpError.message}`);
 
-    // Check for local sitemap fallback file
+    // Fallback 1: Local sitemap XML file in project folder
     const localPath = config.localSitemapPath;
     if (fs.existsSync(localPath)) {
       console.log(`[sitemap] Falling back to local sitemap file: ${localPath}`);

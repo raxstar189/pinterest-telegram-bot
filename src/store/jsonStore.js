@@ -1,17 +1,28 @@
-const fs = require('fs');
+const os = require('os');
 const path = require('path');
 const config = require('../config');
 const { createInitialState } = require('./interface');
 
 class JsonStore {
   constructor(filePath = null) {
-    this.filePath = filePath || config.jsonStorePath;
+    // If running in a Lambda/Netlify read-only environment, use OS tmpdir
+    const isLambda = !!(process.env.AWS_LAMBDA_FUNCTION_NAME || process.env.LAMBDA_TASK_ROOT || process.env.NETLIFY);
+    if (isLambda) {
+      this.filePath = path.join(os.tmpdir(), 'state.json');
+    } else {
+      this.filePath = filePath || config.jsonStorePath;
+    }
   }
 
   _ensureDirectory() {
     const dir = path.dirname(this.filePath);
     if (!fs.existsSync(dir)) {
-      fs.mkdirSync(dir, { recursive: true });
+      try {
+        fs.mkdirSync(dir, { recursive: true });
+      } catch (e) {
+        console.warn(`[jsonStore] Cannot create dir ${dir}, falling back to OS temp dir.`);
+        this.filePath = path.join(os.tmpdir(), 'state.json');
+      }
     }
   }
 
@@ -46,7 +57,7 @@ class JsonStore {
       return true;
     } catch (err) {
       console.error(`[jsonStore] Error writing JSON state file to ${this.filePath}:`, err);
-      throw err;
+      return false; // Return false gracefully instead of throwing unhandled exception
     }
   }
 }
