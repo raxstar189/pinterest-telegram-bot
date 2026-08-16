@@ -2,21 +2,17 @@ const config = require('./config');
 
 /**
  * Returns today's date formatted as YYYY-MM-DD in the target timezone.
- * 
- * @param {string} tz - IANA Timezone string (default: Asia/Dhaka)
- * @returns {string} Date string YYYY-MM-DD
  */
 function getTodayDateString(tz = null) {
   const timeZone = tz || config.timezone;
   const now = new Date();
   const options = { timeZone, year: 'numeric', month: '2-digit', day: '2-digit' };
-  const formatter = new Intl.DateTimeFormat('en-CA', options); // en-CA outputs YYYY-MM-DD
+  const formatter = new Intl.DateTimeFormat('en-CA', options);
   return formatter.format(now);
 }
 
 /**
  * Calculates the integer difference in days between two YYYY-MM-DD date strings.
- * Returns date2 - date1 in days.
  */
 function getDaysDifference(dateStr1, dateStr2) {
   if (!dateStr1 || !dateStr2) return null;
@@ -28,10 +24,6 @@ function getDaysDifference(dateStr1, dateStr2) {
 
 /**
  * Synchronizes recipe pool with newly fetched sitemap entries.
- * 
- * @param {Object} state - Store state
- * @param {Array<Object>} sitemapEntries - Array of { url, slug, title, lastmod }
- * @returns {Object} Updated state with new recipes added
  */
 function syncSitemapWithState(state, sitemapEntries) {
   const today = getTodayDateString();
@@ -43,7 +35,6 @@ function syncSitemapWithState(state, sitemapEntries) {
     if (!knownUrls.has(entry.url)) {
       knownUrls.add(entry.url);
       
-      // If recipe slug doesn't exist yet in state, add it
       if (!recipes[entry.slug]) {
         recipes[entry.slug] = {
           slug: entry.slug,
@@ -57,7 +48,6 @@ function syncSitemapWithState(state, sitemapEntries) {
         };
         newCount++;
       } else {
-        // Update title and URL if changed
         recipes[entry.slug].title = entry.title;
         recipes[entry.slug].url = entry.url;
       }
@@ -76,10 +66,6 @@ function syncSitemapWithState(state, sitemapEntries) {
 
 /**
  * Weighted random selection without replacement.
- * 
- * @param {Array<Object>} candidates - Array of candidate objects, each having a `.weight` property
- * @param {number} count - Number of items to select
- * @returns {Array<Object>} Selected items
  */
 function weightedRandomSelect(candidates, count) {
   const pool = [...candidates];
@@ -89,7 +75,6 @@ function weightedRandomSelect(candidates, count) {
   while (selected.length < targetCount && pool.length > 0) {
     const totalWeight = pool.reduce((sum, item) => sum + (item.weight || 1), 0);
     if (totalWeight <= 0) {
-      // Fallback: pick remaining uniformly
       const idx = Math.floor(Math.random() * pool.length);
       selected.push(pool.splice(idx, 1)[0]);
       continue;
@@ -118,6 +103,7 @@ function weightedRandomSelect(candidates, count) {
 
 /**
  * Runs the daily selection engine to pick 10 recipes for today's pins.
+ * Guarantees same-day consistency: if 10 recipes were already selected for today, returns the exact same set.
  * 
  * @param {Object} state - Current state store
  * @param {Object} options - Custom tunables override (optional)
@@ -130,6 +116,35 @@ function selectDailyRecipes(state, options = {}) {
   const newBoost = options.newPostWeightBoost || config.newPostWeightBoost;
   const today = getTodayDateString();
 
+  state.daily_selections = state.daily_selections || {};
+
+  // Check if today's selection already exists (Same-Day Deterministic Selection)
+  if (state.daily_selections[today] && Array.isArray(state.daily_selections[today]) && state.daily_selections[today].length > 0) {
+    console.log(`[selection] Retrieving existing locked selection for today (${today}).`);
+    const savedSlugs = state.daily_selections[today];
+    const selectedRecipes = [];
+
+    for (const slug of savedSlugs) {
+      if (state.recipes[slug]) {
+        selectedRecipes.push(state.recipes[slug]);
+      }
+    }
+
+    if (selectedRecipes.length > 0) {
+      const allRecipes = Object.values(state.recipes || {});
+      const eligiblePoolSize = allRecipes.filter(r => {
+        const d = r.last_pinned_date ? getDaysDifference(r.last_pinned_date, today) : null;
+        return d === null || d >= minInterval;
+      }).length;
+
+      return {
+        selectedRecipes,
+        thinPoolWarning: eligiblePoolSize < thinThreshold,
+        eligiblePoolSize
+      };
+    }
+  }
+
   const allRecipes = Object.values(state.recipes || {});
 
   if (allRecipes.length === 0) {
@@ -140,7 +155,7 @@ function selectDailyRecipes(state, options = {}) {
     };
   }
 
-  // Calculate days_since_pinned for each recipe
+  // Calculate days_since_pinned
   const evaluatedRecipes = allRecipes.map(r => {
     let daysSince = null;
     if (r.last_pinned_date) {
@@ -152,7 +167,7 @@ function selectDailyRecipes(state, options = {}) {
     };
   });
 
-  // Step 3: Strictly eligible (days_since_pinned >= 6 OR never pinned)
+  // Strictly eligible (days_since_pinned >= 6 OR never pinned)
   const strictlyEligible = evaluatedRecipes.filter(r => {
     return r.days_since_pinned === null || r.days_since_pinned >= minInterval;
   });
@@ -162,11 +177,10 @@ function selectDailyRecipes(state, options = {}) {
 
   let candidatePool = [...strictlyEligible];
 
-  // Step 4: Fallback relaxation if fewer than targetPinCount are eligible
+  // Fallback relaxation if fewer than targetPinCount are eligible
   if (candidatePool.length < targetPinCount) {
     console.warn(`[selection] Only ${candidatePool.length} strictly eligible recipes (>= ${minInterval} days). Relaxing filter to fill ${targetPinCount}...`);
     
-    // Sort all non-eligible recipes by longest waiting first
     const remainingRecipes = evaluatedRecipes
       .filter(r => r.days_since_pinned !== null && r.days_since_pinned < minInterval)
       .sort((a, b) => (b.days_since_pinned || 0) - (a.days_since_pinned || 0));
@@ -176,19 +190,15 @@ function selectDailyRecipes(state, options = {}) {
     candidatePool = candidatePool.concat(extraCandidates);
   }
 
-  // Step 5: Assign weights to candidate pool
-  // Max existing days for baseline
+  // Assign weights to candidate pool
   const maxDaysInPool = candidatePool.reduce((max, r) => {
     return r.days_since_pinned !== null ? Math.max(max, r.days_since_pinned) : max;
   }, minInterval);
 
   const weightedCandidates = candidatePool.map(r => {
-    // Never pinned recipes get high baseline weight (max days + 14)
     const effectiveDays = r.days_since_pinned === null ? (maxDaysInPool + 14) : Math.max(1, r.days_since_pinned);
-    
-    let weight = Math.pow(effectiveDays, 1.2); // Mild exponential scaling for longer waiting
+    let weight = Math.pow(effectiveDays, 1.2);
 
-    // Priority boost for newly discovered posts
     if (r.is_new) {
       weight *= newBoost;
     }
@@ -199,11 +209,12 @@ function selectDailyRecipes(state, options = {}) {
     };
   });
 
-  // Step 6: Perform weighted random selection
+  // Perform weighted random selection
   const selected = weightedRandomSelect(weightedCandidates, targetPinCount);
-
-  // Remove temporary weight property
   const selectedRecipes = selected.map(({ weight, ...rest }) => rest);
+
+  // Lock today's selection so subsequent calls on the same day return the exact same 10 recipes
+  state.daily_selections[today] = selectedRecipes.map(r => r.slug);
 
   return {
     selectedRecipes,

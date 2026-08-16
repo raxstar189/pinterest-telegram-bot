@@ -9,9 +9,9 @@ const TelegramBotClient = require('../../src/telegram');
 
 /**
  * Netlify Serverless Function endpoint for Telegram Webhook updates.
+ * Always returns HTTP 200 to Telegram so updates are acknowledged and not queued/retried in loops.
  */
 exports.handler = async function (event, context) {
-  // Allow GET requests for simple health check
   if (event.httpMethod === 'GET') {
     return {
       statusCode: 200,
@@ -20,7 +20,7 @@ exports.handler = async function (event, context) {
   }
 
   if (event.httpMethod !== 'POST') {
-    return { statusCode: 405, body: 'Method Not Allowed' };
+    return { statusCode: 200, body: JSON.stringify({ status: 'ignored' }) };
   }
 
   const telegram = new TelegramBotClient();
@@ -28,7 +28,7 @@ exports.handler = async function (event, context) {
   try {
     const payload = JSON.parse(event.body || '{}');
 
-    // Handle button tap callback queries
+    // Handle inline button tap callback queries
     if (payload.callback_query) {
       await handleTelegramCallback(payload.callback_query);
       return {
@@ -80,29 +80,18 @@ exports.handler = async function (event, context) {
           body: JSON.stringify({ status: 'help_sent' })
         };
       }
-
-      // Fallback response with persistent menu
-      await telegram.sendMessageWithMenu(`👋 Hi! Use the menu buttons below or send /today to get your daily 10 Pinterest pins!`);
-      return {
-        statusCode: 200,
-        body: JSON.stringify({ status: 'menu_sent' })
-      };
     }
 
     return {
       statusCode: 200,
-      body: JSON.stringify({ status: 'ignored' })
+      body: JSON.stringify({ status: 'ok' })
     };
   } catch (error) {
-    console.error('[netlify-webhook] Error processing Telegram update:', error);
-    // Send error message back to user chat so they see what happened
-    try {
-      await telegram.sendMessageWithMenu(`⚠️ *Notice:* ${error.message}`);
-    } catch (e) {}
-
+    console.error('[netlify-webhook] Handled error in webhook:', error.message);
+    // Return 200 to Telegram so Telegram does not retry old queued updates in loops
     return {
-      statusCode: 500,
-      body: JSON.stringify({ error: error.message })
+      statusCode: 200,
+      body: JSON.stringify({ status: 'error_logged', error: error.message })
     };
   }
 };
