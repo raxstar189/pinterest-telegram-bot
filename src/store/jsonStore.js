@@ -1,3 +1,4 @@
+const fs = require('fs');
 const os = require('os');
 const path = require('path');
 const config = require('../config');
@@ -41,7 +42,8 @@ class JsonStore {
       return {
         known_urls: data.known_urls || [],
         recipes: data.recipes || {},
-        pending_messages: data.pending_messages || {}
+        pending_messages: data.pending_messages || {},
+        daily_selections: data.daily_selections || {}
       };
     } catch (err) {
       console.error(`[jsonStore] Error reading JSON state file from ${this.filePath}:`, err);
@@ -57,7 +59,7 @@ class JsonStore {
       return true;
     } catch (err) {
       console.error(`[jsonStore] Error writing JSON state file to ${this.filePath}:`, err);
-      return false; // Return false gracefully instead of throwing unhandled exception
+      return false;
     }
   }
 }
