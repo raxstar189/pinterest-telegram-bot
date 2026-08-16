@@ -33,7 +33,7 @@ async function runDailyMorningProcess() {
 
   if (selectedRecipes.length === 0) {
     console.error('[bot] No recipes available in pool to select!');
-    await telegram.sendMessageWithMenu('❌ *No recipes available in pool!* Please add recipes to your sitemap or run 🔄 Sync Sitemap.');
+    await telegram.sendMessageWithMenu('❌ *No recipes available in pool!* Please run 🔄 Sync Sitemap or upload post-sitemap.xml.');
     throw new Error('No recipes available in state pool.');
   }
 
@@ -73,15 +73,33 @@ async function runDailyMorningProcess() {
 async function getPoolStatusReport() {
   const store = getStore();
   const state = await store.loadState();
-  const { selectDailyRecipes } = require('./selection');
 
   const allRecipes = Object.values(state.recipes || {});
-  const { eligiblePoolSize, thinPoolWarning } = selectDailyRecipes(state);
+  const today = getTodayDateString();
+  const config = require('./config');
+  const { getDaysDifference } = require('./selection');
+
+  const minInterval = config.minPinIntervalDays;
+  const thinThreshold = config.thinPoolThreshold;
+
+  const eligiblePoolSize = allRecipes.filter(r => {
+    const d = r.last_pinned_date ? getDaysDifference(r.last_pinned_date, today) : null;
+    return d === null || d >= minInterval;
+  }).length;
+
+  const isThin = eligiblePoolSize < thinThreshold;
 
   let text = `📊 *Pinterest Recipe Pool Status*\n\n`;
   text += `• *Total Recipes in Store:* ${allRecipes.length}\n`;
   text += `• *Eligible Recipes (>= 6 days / Never Pinned):* ${eligiblePoolSize}\n`;
-  text += `• *Status:* ${thinPoolWarning ? '⚠️ Pool Running Thin (< 15 eligible)' : '✅ Healthy Pool'}\n\n`;
+  
+  if (allRecipes.length === 0) {
+    text += `• *Status:* ⚠️ *Empty Pool* (Run 🔄 Sync Sitemap to load recipes)\n\n`;
+  } else if (isThin) {
+    text += `• *Status:* ⚠️ *Pool Running Thin* (< ${thinThreshold} eligible)\n\n`;
+  } else {
+    text += `• *Status:* ✅ *Healthy Pool*\n\n`;
+  }
 
   const neverPinned = allRecipes.filter(r => r.last_pinned_date === null).length;
   text += `• *Never Pinned Recipes:* ${neverPinned}\n`;
@@ -98,18 +116,19 @@ async function syncSitemapManually() {
   const prevCount = Object.keys(state.recipes || {}).length;
 
   let entries = [];
+  let fetchNotice = '';
   try {
     entries = await fetchSitemapRecipes();
     syncSitemapWithState(state, entries);
     await store.saveState(state);
   } catch (err) {
-    return `⚠️ *Sitemap Sync Notice:* Could not fetch live XML over HTTP (${err.message}). Using local backup pool.`;
+    fetchNotice = ` (Using local backup pool)`;
   }
 
   const newCount = Object.keys(state.recipes || {}).length;
   const added = newCount - prevCount;
 
-  return `🔄 *Sitemap Sync Complete!*\n\n• Total Recipes in Pool: ${newCount}\n• New Recipes Discovered: ${added}`;
+  return `🔄 *Sitemap Sync Complete!*${fetchNotice}\n\n• *Total Recipes in Pool:* ${newCount}\n• *New Recipes Discovered:* ${added}`;
 }
 
 /**
@@ -133,7 +152,6 @@ function getHelpText() {
 
 /**
  * Process button callback queries from Telegram when user taps ✅ Posted or ⏭ Skip.
- * Uses short callback_data format `p:index` or `s:index`.
  */
 async function handleTelegramCallback(callbackQuery) {
   const telegram = new TelegramBotClient();
@@ -154,7 +172,6 @@ async function handleTelegramCallback(callbackQuery) {
     return telegram.answerCallbackQuery(callbackId, 'Action recorded.');
   }
 
-  // Parse short callback data format e.g. "p:0" or "s:0"
   let action = null;
   let index = -1;
 
@@ -191,7 +208,6 @@ async function handleTelegramCallback(callbackQuery) {
     await telegram.answerCallbackQuery(callbackId, `Skipped "${selectedRecipe.title}" ⏭`);
   }
 
-  // Update Telegram message in-place to reflect updated badge
   await telegram.updateDigestMessage(
     messageId,
     pendingRecord.recipes,
@@ -200,7 +216,6 @@ async function handleTelegramCallback(callbackQuery) {
     pendingRecord.eligiblePoolSize
   );
 
-  // Save updated state
   await store.saveState(state);
   return { success: true, action, slug };
 }

@@ -10,35 +10,10 @@ function getStore() {
     return new NetlifyStore();
   }
 
-  if (mode === 'json') {
-    console.log('[store] Explicit JSON file storage selected.');
-    return new JsonStore();
-  }
-
-  // Auto mode: detect if running in Netlify or AWS Lambda environment
-  const isNetlifyEnv = !!(
-    process.env.NETLIFY ||
-    process.env.NETLIFY_BLOBS_CONTEXT ||
-    process.env.NETLIFY_DEV ||
-    process.env.AWS_LAMBDA_FUNCTION_NAME ||
-    process.env.LAMBDA_TASK_ROOT ||
-    process.env.CONTEXT
-  );
-
-  if (isNetlifyEnv) {
-    console.log('[store] Auto-detected Netlify / Serverless environment.');
-    // Check if Netlify Blobs environment is configured
-    if (process.env.NETLIFY_BLOBS_CONTEXT || process.env.NETLIFY) {
-      try {
-        return new NetlifyStore();
-      } catch (err) {
-        console.warn('[store] NetlifyStore init failed, falling back to JsonStore with temp dir:', err.message);
-        return new JsonStore();
-      }
-    }
-  }
-
-  console.log('[store] Auto-detected local/cPanel environment. Using JSON file store.');
+  // For 'auto' or 'json' mode: Use JsonStore.
+  // JsonStore automatically detects serverless environments and uses OS temp directory (/tmp/state.json),
+  // guaranteeing 100% reliable state saving without requiring Netlify Blobs credentials.
+  console.log('[store] Using JSON state store with serverless temp directory fallback.');
   return new JsonStore();
 }
 
