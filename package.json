@@ -1,0 +1,28 @@
+{
+  "name": "pinterest-telegram-bot",
+  "version": "1.0.0",
+  "description": "Daily Pinterest Content Calendar Telegram Bot for recipe blogs",
+  "main": "scripts/run-daily.js",
+  "scripts": {
+    "start": "node scripts/server.js",
+    "daily": "node scripts/run-daily.js",
+    "sync-sitemap": "node scripts/sync-sitemap.js",
+    "test": "node test/run-tests.js"
+  },
+  "keywords": [
+    "telegram-bot",
+    "pinterest",
+    "recipe-blog",
+    "content-calendar"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "@netlify/functions": "^3.0.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fast-xml-parser": "^4.5.1"
+  }
+}
