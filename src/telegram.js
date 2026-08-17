@@ -50,6 +50,14 @@ class TelegramBotClient {
   }
 
   /**
+   * Truncates callback payload slug so callback_data never exceeds Telegram's 64-byte limit.
+   */
+  getShortCallbackData(prefix, slug) {
+    const safeSlug = (slug || '').substring(0, 58);
+    return `${prefix}:${safeSlug}`;
+  }
+
+  /**
    * Builds an individual recipe message card text and clean unnumbered buttons.
    */
   buildRecipeCard(recipe, index, status = 'pending') {
@@ -64,15 +72,15 @@ class TelegramBotClient {
       text += `   └ Status: ⏭ *Skipped*`;
     } else {
       text += `   └ Status: ⏳ *Pending Action*`;
-      // Clean unnumbered buttons right under the recipe name!
+      // Buttons carry recipe slug directly so callback handler works statelessly across all serverless invocations
       inline_keyboard.push([
         {
           text: '✅ Posted',
-          callback_data: `p:${index}`
+          callback_data: this.getShortCallbackData('p', recipe.slug)
         },
         {
           text: '⏭ Skip',
-          callback_data: `s:${index}`
+          callback_data: this.getShortCallbackData('s', recipe.slug)
         }
       ]);
     }

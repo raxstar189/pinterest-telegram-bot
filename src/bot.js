@@ -44,7 +44,7 @@ async function runDailyMorningProcess() {
 
   await telegram.sendMessageWithMenu(headerText);
 
-  // Step 4: Send 10 individual recipe cards, each with clean unnumbered buttons directly below the title!
+  // Step 4: Send 10 individual recipe cards with clean unnumbered buttons
   const cardMessageIds = {};
   const itemStatuses = {};
 
@@ -60,7 +60,7 @@ async function runDailyMorningProcess() {
     }
   }
 
-  // Step 5: Save pending message mapping
+  // Step 5: Save pending state
   state.pending_messages = state.pending_messages || {};
   state.pending_messages[today] = {
     date: today,
@@ -89,7 +89,17 @@ async function getPoolStatusReport() {
   const store = getStore();
   const state = await store.loadState();
 
-  const allRecipes = Object.values(state.recipes || {});
+  // If store is empty, attempt sync from local sitemap fallback file
+  let allRecipes = Object.values(state.recipes || {});
+  if (allRecipes.length === 0) {
+    try {
+      const entries = await fetchSitemapRecipes();
+      syncSitemapWithState(state, entries);
+      await store.saveState(state);
+      allRecipes = Object.values(state.recipes || {});
+    } catch (e) {}
+  }
+
   const today = getTodayDateString();
   const config = require('./config');
   const { getDaysDifference } = require('./selection');
@@ -167,6 +177,7 @@ function getHelpText() {
 
 /**
  * Process button callback queries from Telegram when user taps ✅ Posted or ⏭ Skip.
+ * Uses stateless callback_data format `p:<slug>` and `s:<slug>`.
  */
 async function handleTelegramCallback(callbackQuery) {
   const telegram = new TelegramBotClient();
@@ -179,60 +190,81 @@ async function handleTelegramCallback(callbackQuery) {
   }
 
   const messageId = message.message_id;
+  const messageText = message.text || '';
+
+  // Extract action ('post' | 'skip') and target slug from callback_data (e.g. "p:easy-chicken-curry")
+  let action = null;
+  let targetSlug = null;
+
+  if (data.startsWith('p:')) {
+    action = 'post';
+    targetSlug = data.substring(2);
+  } else if (data.startsWith('s:')) {
+    action = 'skip';
+    targetSlug = data.substring(2);
+  }
+
+  if (!action || !targetSlug) {
+    return telegram.answerCallbackQuery(callbackId, 'Invalid callback format.');
+  }
+
   const store = getStore();
   const state = await store.loadState();
   const today = getTodayDateString();
 
-  const pendingRecord = (state.pending_messages && state.pending_messages[today]) || null;
-  if (!pendingRecord || !pendingRecord.recipes) {
-    return telegram.answerCallbackQuery(callbackId, 'Action recorded.');
+  // Find matching recipe in store by slug or prefix match
+  let recipe = state.recipes[targetSlug];
+  if (!recipe) {
+    const matchedKey = Object.keys(state.recipes || {}).find(k => k.startsWith(targetSlug) || targetSlug.startsWith(k));
+    if (matchedKey) {
+      recipe = state.recipes[matchedKey];
+    }
   }
 
-  let action = null;
-  let index = -1;
-
-  if (data.startsWith('p:')) {
-    action = 'post';
-    index = parseInt(data.substring(2), 10);
-  } else if (data.startsWith('s:')) {
-    action = 'skip';
-    index = parseInt(data.substring(2), 10);
+  // Parse card index number from message text (e.g. "*1.* [Title](url)")
+  let cardIndex = 0;
+  const numMatch = messageText.match(/^(\d+)\./);
+  if (numMatch) {
+    cardIndex = parseInt(numMatch[1], 10) - 1;
   }
 
-  if (index < 0 || index >= pendingRecord.recipes.length) {
-    return telegram.answerCallbackQuery(callbackId, 'Invalid item index.');
+  // Fallback recipe object if not yet in state
+  if (!recipe) {
+    recipe = {
+      slug: targetSlug,
+      title: targetSlug.replace(/[-_]+/g, ' '),
+      url: `https://newdecr.com/${targetSlug}/`,
+      last_pinned_date: null,
+      times_pinned: 0
+    };
+    state.recipes[targetSlug] = recipe;
   }
 
-  const selectedRecipe = pendingRecord.recipes[index];
-  const slug = selectedRecipe.slug;
-  const recipe = state.recipes[slug];
+  const recipeTitle = recipe.title || targetSlug;
 
   if (action === 'post') {
-    if (recipe) {
-      recipe.last_pinned_date = today;
-      recipe.times_pinned = (recipe.times_pinned || 0) + 1;
-      recipe.is_new = false;
-    }
-    pendingRecord.itemStatuses[slug] = 'posted';
-    await telegram.answerCallbackQuery(callbackId, `Confirmed: "${selectedRecipe.title}" recorded as Posted! ✅`);
+    recipe.last_pinned_date = today;
+    recipe.times_pinned = (recipe.times_pinned || 0) + 1;
+    recipe.is_new = false;
+    await telegram.answerCallbackQuery(callbackId, `Confirmed: "${recipeTitle}" recorded as Posted! ✅`);
   } else if (action === 'skip') {
-    if (recipe) {
-      recipe.is_new = false;
-    }
-    pendingRecord.itemStatuses[slug] = 'skipped';
-    await telegram.answerCallbackQuery(callbackId, `"${selectedRecipe.title}" marked as Skipped ⏭`);
+    recipe.is_new = false;
+    await telegram.answerCallbackQuery(callbackId, `"${recipeTitle}" marked as Skipped ⏭`);
   }
 
-  // Update specific recipe card message: changes status text and HIDES its button row!
+  // Update specific recipe card in-place and HIDE its button row!
   await telegram.updateRecipeCard(
     messageId,
-    selectedRecipe,
-    index,
-    pendingRecord.itemStatuses[slug]
+    recipe,
+    cardIndex,
+    action === 'post' ? 'posted' : 'skipped'
   );
 
+  // Save updated state
   await store.saveState(state);
-  return { success: true, action, slug };
+  console.log(`[bot] Processed callback for recipe "${targetSlug}": ${action} on date ${today}.`);
+
+  return { success: true, action, slug: targetSlug };
 }
 
 module.exports = {
