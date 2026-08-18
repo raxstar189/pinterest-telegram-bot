@@ -3,8 +3,22 @@ const { createInitialState } = require('./interface');
 
 class GithubStore {
   constructor() {
-    this.token = (process.env.GITHUB_TOKEN || process.env.GH_PAT || '').trim();
-    this.repo = (process.env.GITHUB_REPO || '').trim();
+    // Check custom unreserved environment variable names first to avoid Netlify system overrides
+    this.token = (
+      process.env.GH_TOKEN ||
+      process.env.BOT_GITHUB_TOKEN ||
+      process.env.GITHUB_TOKEN ||
+      process.env.GH_PAT ||
+      ''
+    ).trim();
+
+    this.repo = (
+      process.env.GH_REPO ||
+      process.env.BOT_GITHUB_REPO ||
+      process.env.GITHUB_REPO ||
+      ''
+    ).trim();
+
     this.path = 'data/state.json';
     this.branch = (process.env.GITHUB_BRANCH || 'main').trim();
     this.sha = null;
@@ -23,8 +37,6 @@ class GithubStore {
       return this.resolvedRepo;
     }
 
-    // If GITHUB_REPO is provided without username (e.g. "pinterest-telegram-bot"),
-    // auto-fetch authenticated user info from GitHub API
     try {
       const userRes = await axios.get('https://api.github.com/user', {
         headers: {
@@ -48,7 +60,7 @@ class GithubStore {
 
   async loadState() {
     if (!this.isConfigured()) {
-      console.warn('[githubStore] GITHUB_TOKEN or GITHUB_REPO not configured.');
+      console.warn('[githubStore] GH_TOKEN / GITHUB_TOKEN or GH_REPO / GITHUB_REPO not configured.');
       return null;
     }
 
@@ -83,14 +95,14 @@ class GithubStore {
         await this.saveState(initial);
         return initial;
       }
-      console.error('[githubStore] Failed to load state from GitHub API:', err.message);
+      console.error('[githubStore] Failed to load state from GitHub API:', err.response ? JSON.stringify(err.response.data) : err.message);
     }
     return null;
   }
 
   async saveState(state) {
     if (!this.isConfigured()) {
-      console.warn('[githubStore] GITHUB_TOKEN or GITHUB_REPO not configured for saving.');
+      console.warn('[githubStore] GH_TOKEN / GITHUB_TOKEN or GH_REPO / GITHUB_REPO not configured for saving.');
       return false;
     }
 

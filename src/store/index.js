@@ -9,7 +9,7 @@ function getStore() {
   const githubStore = new GithubStore();
 
   if (githubStore.isConfigured() || mode === 'github') {
-    console.log('[store] GitHub API permanent repository storage active.');
+    console.log(`[store] GitHub API permanent repository storage active. (Repo: ${githubStore.repo})`);
     return githubStore;
   }
 
@@ -18,7 +18,7 @@ function getStore() {
     return new NetlifyStore();
   }
 
-  console.log('[store] Using JSON state store.');
+  console.log('[store] Using JSON state store fallback.');
   return new JsonStore();
 }
 
