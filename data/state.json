@@ -729,6 +729,161 @@
       "lastmod": "2026-08-17T18:13:31+00:00"
     }
   },
-  "pending_messages": {},
-  "daily_selections": {}
+  "pending_messages": {
+    "2026-08-18": {
+      "date": "2026-08-18",
+      "recipes": [
+        {
+          "slug": "key-lime-pound-cake-your-new-zesty-obsession",
+          "title": "Key Lime Pound Cake Your New Zesty Obsession",
+          "url": "https://newdecr.com/key-lime-pound-cake-your-new-zesty-obsession/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:00:59+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+          "title": "Anytime Meal Crispy Air Fried Beef Dumplings",
+          "url": "https://newdecr.com/your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-01T03:22:59+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+          "title": "Your New Favourite Crispy Air Fried Chicken Stuffed Buns",
+          "url": "https://newdecr.com/your-new-favourite-crispy-air-fried-chicken-stuffed-buns/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-04T08:55:39+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "everyones-favorite-sweet-soft-spongy-honey-buns",
+          "title": "Everyones Favorite Sweet Soft Spongy Honey Buns",
+          "url": "https://newdecr.com/everyones-favorite-sweet-soft-spongy-honey-buns/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-05T15:43:40+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+          "title": "Brown Sugar Overnight Oats Your Easy Delicious Morning Fix",
+          "url": "https://newdecr.com/brown-sugar-overnight-oats-your-easy-delicious-morning-fix/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-05T13:09:59+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+          "title": "Rum Soaked Fried Pineapple Tropical Treat",
+          "url": "https://newdecr.com/rum-soaked-fried-pineapple-your-new-favorite-tropical-treat/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-11T06:19:31+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+          "title": "Corndog Crispy Golden and Totally Delicious",
+          "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:56:57+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "key-lime-pound-cake-your-new-zesty-obsession": "pending",
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": "pending",
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending",
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": "pending",
+        "everyones-favorite-sweet-soft-spongy-honey-buns": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending",
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": "pending",
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": "pending",
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending"
+      },
+      "cardMessageIds": {
+        "key-lime-pound-cake-your-new-zesty-obsession": 304,
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": 305,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 306,
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 307,
+        "everyones-favorite-sweet-soft-spongy-honey-buns": 308,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 309,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 310,
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 311,
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 312,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 313
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 66
+    }
+  },
+  "daily_selections": {
+    "2026-08-18": [
+      "key-lime-pound-cake-your-new-zesty-obsession",
+      "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+      "your-new-favorite-spicy-bonchon-sauce-recipe",
+      "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+      "everyones-favorite-sweet-soft-spongy-honey-buns",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+      "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+      "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+      "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious"
+    ]
+  }
 }
