@@ -8,9 +8,8 @@ function getStore() {
 
   const githubStore = new GithubStore();
 
-  // If GITHUB_TOKEN and GITHUB_REPO are configured, or mode === 'github', use GitHub API Store for 100% permanent persistence
   if (githubStore.isConfigured() || mode === 'github') {
-    console.log('[store] GitHub API permanent repository storage selected.');
+    console.log('[store] GitHub API permanent repository storage active.');
     return githubStore;
   }
 

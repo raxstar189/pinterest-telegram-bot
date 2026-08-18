@@ -4,25 +4,59 @@ const { createInitialState } = require('./interface');
 class GithubStore {
   constructor() {
     this.token = (process.env.GITHUB_TOKEN || process.env.GH_PAT || '').trim();
-    this.repo = (process.env.GITHUB_REPO || '').trim(); // e.g., "username/pinterest-telegram-bot"
+    this.repo = (process.env.GITHUB_REPO || '').trim();
     this.path = 'data/state.json';
     this.branch = (process.env.GITHUB_BRANCH || 'main').trim();
     this.sha = null;
+    this.resolvedRepo = null;
   }
 
   isConfigured() {
-    return !!(this.token && this.repo && this.repo.includes('/'));
+    return !!(this.token && this.repo);
+  }
+
+  async _getResolvedRepo() {
+    if (this.resolvedRepo) return this.resolvedRepo;
+    
+    if (this.repo.includes('/')) {
+      this.resolvedRepo = this.repo;
+      return this.resolvedRepo;
+    }
+
+    // If GITHUB_REPO is provided without username (e.g. "pinterest-telegram-bot"),
+    // auto-fetch authenticated user info from GitHub API
+    try {
+      const userRes = await axios.get('https://api.github.com/user', {
+        headers: {
+          'Authorization': `token ${this.token}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'User-Agent': 'PinterestBot'
+        }
+      });
+      if (userRes.data && userRes.data.login) {
+        this.resolvedRepo = `${userRes.data.login}/${this.repo}`;
+        console.log(`[githubStore] Auto-resolved repo path: ${this.resolvedRepo}`);
+        return this.resolvedRepo;
+      }
+    } catch (e) {
+      console.warn('[githubStore] Could not auto-resolve GitHub username:', e.message);
+    }
+
+    this.resolvedRepo = this.repo;
+    return this.resolvedRepo;
   }
 
   async loadState() {
     if (!this.isConfigured()) {
-      console.warn('[githubStore] GITHUB_TOKEN or GITHUB_REPO not properly configured.');
+      console.warn('[githubStore] GITHUB_TOKEN or GITHUB_REPO not configured.');
       return null;
     }
 
-    const url = `https://api.github.com/repos/${this.repo}/contents/${this.path}?ref=${this.branch}`;
+    const fullRepo = await this._getResolvedRepo();
+    const url = `https://api.github.com/repos/${fullRepo}/contents/${this.path}?ref=${this.branch}`;
+
     try {
-      console.log(`[githubStore] Loading state from GitHub repository: ${this.repo}/${this.path}`);
+      console.log(`[githubStore] Loading state from GitHub repository: ${fullRepo}/${this.path}`);
       const res = await axios.get(url, {
         headers: {
           'Authorization': `token ${this.token}`,
@@ -60,9 +94,9 @@ class GithubStore {
       return false;
     }
 
-    const url = `https://api.github.com/repos/${this.repo}/contents/${this.path}`;
-    
-    // If SHA is missing, fetch current file SHA from GitHub API first
+    const fullRepo = await this._getResolvedRepo();
+    const url = `https://api.github.com/repos/${fullRepo}/contents/${this.path}`;
+
     if (!this.sha) {
       try {
         const getUrl = `${url}?ref=${this.branch}`;
@@ -76,9 +110,7 @@ class GithubStore {
         if (getRes.data && getRes.data.sha) {
           this.sha = getRes.data.sha;
         }
-      } catch (e) {
-        // File may not exist yet, which is fine for first creation
-      }
+      } catch (e) {}
     }
 
     const contentStr = JSON.stringify(state, null, 2);
