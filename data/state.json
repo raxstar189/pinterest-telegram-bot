@@ -797,10 +797,10 @@
           "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
           "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
           "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
-          "last_pinned_date": null,
-          "times_pinned": 0,
+          "last_pinned_date": "2026-08-18",
+          "times_pinned": 1,
           "first_seen_date": "2026-08-18",
-          "is_new": true,
+          "is_new": false,
           "lastmod": "2026-06-09T04:05:12+00:00"
         },
         {
@@ -818,7 +818,7 @@
           "title": "Rum Soaked Fried Pineapple Tropical Treat",
           "url": "https://newdecr.com/rum-soaked-fried-pineapple-your-new-favorite-tropical-treat/",
           "last_pinned_date": "2026-08-18",
-          "times_pinned": 1,
+          "times_pinned": 2,
           "first_seen_date": "2026-08-18",
           "is_new": false,
           "lastmod": "2026-04-11T06:19:31+00:00"
@@ -827,10 +827,10 @@
           "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
           "title": "Corndog Crispy Golden and Totally Delicious",
           "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
-          "last_pinned_date": null,
-          "times_pinned": 0,
+          "last_pinned_date": "2026-08-18",
+          "times_pinned": 1,
           "first_seen_date": "2026-08-18",
-          "is_new": true,
+          "is_new": false,
           "lastmod": "2026-04-20T19:56:57+00:00"
         }
       ],
@@ -847,19 +847,19 @@
         "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending"
       },
       "cardMessageIds": {
-        "key-lime-pound-cake-your-new-zesty-obsession": 320,
-        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": 321,
-        "your-new-favorite-spicy-bonchon-sauce-recipe": 322,
-        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 323,
-        "everyones-favorite-sweet-soft-spongy-honey-buns": 324,
-        "seriously-good-mango-habanero-honey-garlic-sauce": 325,
-        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 326,
-        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 327,
-        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 328,
-        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 329
+        "key-lime-pound-cake-your-new-zesty-obsession": 346,
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": 347,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 348,
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 349,
+        "everyones-favorite-sweet-soft-spongy-honey-buns": 350,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 351,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 352,
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 353,
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 354,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 355
       },
       "thinPoolWarning": false,
-      "eligiblePoolSize": 65
+      "eligiblePoolSize": 63
     }
   },
   "daily_selections": {
