@@ -11,13 +11,17 @@ class GithubStore {
       ''
     ).trim();
 
-    this.repo = (
+    let rawRepo = (
       process.env.GH_REPO ||
       process.env.BOT_GITHUB_REPO ||
       process.env.GITHUB_REPO ||
       ''
     ).trim();
 
+    // Sanitize full GitHub URLs like "https://github.com/raxstar189/pinterest-telegram-bot" to "raxstar189/pinterest-telegram-bot"
+    rawRepo = rawRepo.replace(/^https?:\/\/github\.com\//i, '').replace(/\/+$/, '');
+
+    this.repo = rawRepo;
     this.path = 'data/state.json';
     this.branch = (process.env.GITHUB_BRANCH || '').trim();
     this.sha = null;
@@ -96,13 +100,12 @@ class GithubStore {
         }
       } catch (err) {
         if (err.response && err.response.status === 404) {
-          continue; // Try next branch name
+          continue;
         }
         console.error('[githubStore] Failed to load state from GitHub API:', err.response ? JSON.stringify(err.response.data) : err.message);
       }
     }
 
-    // If file doesn't exist on any branch yet, initialize
     console.log('[githubStore] state.json does not exist in GitHub repo yet. Initializing new state file.');
     this.branch = branches[0];
     const initial = createInitialState();
@@ -120,7 +123,6 @@ class GithubStore {
     const targetBranch = this.branch || 'main';
     const url = `https://api.github.com/repos/${fullRepo}/contents/${this.path}`;
 
-    // Fetch latest SHA from GitHub API before saving to avoid 409 conflicts
     try {
       const getUrl = `${url}?ref=${targetBranch}`;
       const getRes = await axios.get(getUrl, {
@@ -133,9 +135,7 @@ class GithubStore {
       if (getRes.data && getRes.data.sha) {
         this.sha = getRes.data.sha;
       }
-    } catch (e) {
-      // File may not exist yet
-    }
+    } catch (e) {}
 
     const contentStr = JSON.stringify(state, null, 2);
     const contentBase64 = Buffer.from(contentStr, 'utf-8').toString('base64');
