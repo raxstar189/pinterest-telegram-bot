@@ -870,6 +870,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 66
+    },
+    "2026-08-19": {
+      "date": "2026-08-19",
+      "recipes": [
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+          "title": "Crispy Air Fryer Shrimp Toast Easy Appetizer",
+          "url": "https://newdecr.com/crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:48:05+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+          "title": "Your New Weeknight Obsession Homemade Easy Stuffed Crust Pizza",
+          "url": "https://newdecr.com/your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-06-11T04:46:03+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "seafood-chowmein-the-perfect-weeknight-delight",
+          "title": "Seafood Chowmein Weeknight Delight",
+          "url": "https://newdecr.com/seafood-chowmein-the-perfect-weeknight-delight/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-06-29T13:49:12+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+          "title": "This Cute Critter Cake for Kids Is Sure to Make Them Smile",
+          "url": "https://newdecr.com/this-cute-critter-cake-for-kids-is-sure-to-make-them-smile/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-05T06:45:10+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "hearty-tomato-minced-beef-soup-recipe",
+          "title": "Hearty Tomato Minced Beef Soup Recipe",
+          "url": "https://newdecr.com/hearty-tomato-minced-beef-soup-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:52:54+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings",
+          "title": "My Secret for Unbelievably Crispy Air Fryer Chicken Wings",
+          "url": "https://newdecr.com/my-secret-for-unbelievably-crispy-air-fryer-chicken-wings/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T21:06:04+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "air-fryer-crispy-mini-blooming-onions",
+          "title": "Air Fryer Crispy Mini Blooming Onions",
+          "url": "https://newdecr.com/air-fryer-crispy-mini-blooming-onions/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:01:48+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea",
+          "title": "Creamy Marry Me Tuscan Chicken Soup Fall Season Date Night Favoritea",
+          "url": "https://newdecr.com/creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-09T17:09:13+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "air-fried-honey-bbq-chicken-wings-the-new-must-have",
+          "title": "Air Fried Honey Bbq Chicken Wings the New Must Have",
+          "url": "https://newdecr.com/air-fried-honey-bbq-chicken-wings-the-new-must-have/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-06-09T18:05:39+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending",
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": "pending",
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": "pending",
+        "seafood-chowmein-the-perfect-weeknight-delight": "pending",
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": "pending",
+        "hearty-tomato-minced-beef-soup-recipe": "pending",
+        "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings": "pending",
+        "air-fryer-crispy-mini-blooming-onions": "pending",
+        "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea": "pending",
+        "air-fried-honey-bbq-chicken-wings-the-new-must-have": "pending"
+      },
+      "cardMessageIds": {
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 383,
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": 384,
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": 385,
+        "seafood-chowmein-the-perfect-weeknight-delight": 386,
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": 387,
+        "hearty-tomato-minced-beef-soup-recipe": 388,
+        "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings": 389,
+        "air-fryer-crispy-mini-blooming-onions": 390,
+        "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea": 391,
+        "air-fried-honey-bbq-chicken-wings-the-new-must-have": 392
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 63
     }
   },
   "daily_selections": {
@@ -884,6 +1025,18 @@
       "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
       "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
       "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets"
+    ],
+    "2026-08-19": [
+      "your-new-favorite-spicy-bonchon-sauce-recipe",
+      "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+      "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+      "seafood-chowmein-the-perfect-weeknight-delight",
+      "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+      "hearty-tomato-minced-beef-soup-recipe",
+      "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings",
+      "air-fryer-crispy-mini-blooming-onions",
+      "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea",
+      "air-fried-honey-bbq-chicken-wings-the-new-must-have"
     ]
   }
 }
