@@ -1011,6 +1011,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 63
+    },
+    "2026-08-20": {
+      "date": "2026-08-20",
+      "recipes": [
+        {
+          "slug": "easy-to-make-spicy-sriracha-wings-for-dinner",
+          "title": "Easy to Make Spicy Sriracha Wings for Dinner",
+          "url": "https://newdecr.com/easy-to-make-spicy-sriracha-wings-for-dinner/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-06-03T09:12:28+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+          "title": "Rum Soaked Fried Pineapple Tropical Treat",
+          "url": "https://newdecr.com/rum-soaked-fried-pineapple-your-new-favorite-tropical-treat/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-11T06:19:31+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+          "title": "Air Fried Alfredo Chicken Pasta Your New Weeknight Obsession",
+          "url": "https://newdecr.com/air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-02T17:03:19+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "sweet-peach-lemonade-your-go-to-summer-sip",
+          "title": "Sweet Peach Lemonade Summer Sip",
+          "url": "https://newdecr.com/sweet-peach-lemonade-your-go-to-summer-sip/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:59:22+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+          "title": "Crispy Air Fried Chicken Dumplings Current New Favorite Appetiser",
+          "url": "https://newdecr.com/crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-01T04:07:10+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+          "title": "Meal Authentic Middle Eastern Beef Shawarma",
+          "url": "https://newdecr.com/your-new-favorite-meal-authentic-middle-eastern-beef-shawarma/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-14T13:54:09+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "everyones-favorite-sweet-soft-spongy-honey-buns",
+          "title": "Everyones Favorite Sweet Soft Spongy Honey Buns",
+          "url": "https://newdecr.com/everyones-favorite-sweet-soft-spongy-honey-buns/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-05T15:43:40+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection",
+          "title": "Lets Try This Easiest Caramel Pudding Silky Smooth Perfection",
+          "url": "https://newdecr.com/lets-try-this-easiest-caramel-pudding-silky-smooth-perfection/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-16T16:11:25+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "how-i-made-the-perfect-cheeseburger",
+          "title": "How I Made Cheeseburger",
+          "url": "https://newdecr.com/how-i-made-the-perfect-cheeseburger/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:42:14+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "easy-to-make-spicy-sriracha-wings-for-dinner": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending",
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": "pending",
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": "pending",
+        "sweet-peach-lemonade-your-go-to-summer-sip": "pending",
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": "pending",
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": "pending",
+        "everyones-favorite-sweet-soft-spongy-honey-buns": "pending",
+        "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection": "pending",
+        "how-i-made-the-perfect-cheeseburger": "pending"
+      },
+      "cardMessageIds": {
+        "easy-to-make-spicy-sriracha-wings-for-dinner": 396,
+        "chicken-wellington-your-next-dinner-party-showstopper": 397,
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 398,
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": 399,
+        "sweet-peach-lemonade-your-go-to-summer-sip": 400,
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": 401,
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": 402,
+        "everyones-favorite-sweet-soft-spongy-honey-buns": 403,
+        "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection": 404,
+        "how-i-made-the-perfect-cheeseburger": 405
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 53
     }
   },
   "daily_selections": {
@@ -1037,6 +1178,18 @@
       "air-fryer-crispy-mini-blooming-onions",
       "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea",
       "air-fried-honey-bbq-chicken-wings-the-new-must-have"
+    ],
+    "2026-08-20": [
+      "easy-to-make-spicy-sriracha-wings-for-dinner",
+      "chicken-wellington-your-next-dinner-party-showstopper",
+      "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+      "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+      "sweet-peach-lemonade-your-go-to-summer-sip",
+      "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+      "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+      "everyones-favorite-sweet-soft-spongy-honey-buns",
+      "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection",
+      "how-i-made-the-perfect-cheeseburger"
     ]
   }
 }
