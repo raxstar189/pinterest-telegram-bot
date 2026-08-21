@@ -66,7 +66,12 @@
     "https://newdecr.com/sweet-potato-turkey-chili-fall-dinner-hack/",
     "https://newdecr.com/creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea/",
     "https://newdecr.com/crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish/",
-    "https://newdecr.com/fudgy-brown-butter-brownies-explosion-of-flavor/"
+    "https://newdecr.com/fudgy-brown-butter-brownies-explosion-of-flavor/",
+    "https://newdecr.com/nutella-cookies-pie-my-childrens-new-fav/",
+    "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
+    "https://newdecr.com/spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies/",
+    "https://newdecr.com/loaded-potato-taco-bowl-weeknight-obsession-justified/",
+    "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -738,6 +743,56 @@
       "first_seen_date": "2026-08-21",
       "is_new": true,
       "lastmod": "2026-08-20T18:47:42+00:00"
+    },
+    "nutella-cookies-pie-my-childrens-new-fav": {
+      "slug": "nutella-cookies-pie-my-childrens-new-fav",
+      "title": "Nutella Cookies Pie My Childrens New Fav",
+      "url": "https://newdecr.com/nutella-cookies-pie-my-childrens-new-fav/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-21",
+      "is_new": true,
+      "lastmod": "2026-08-21T06:17:18+00:00"
+    },
+    "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": {
+      "slug": "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+      "title": "The Best Vegan Pumpkin Spice Cake Youll Ever Bake",
+      "url": "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-21",
+      "is_new": true,
+      "lastmod": "2026-08-21T07:23:25+00:00"
+    },
+    "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": {
+      "slug": "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+      "title": "Spooky Sweet Fun Full Guide to Making Best Halloween Decorative Cookies",
+      "url": "https://newdecr.com/spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-21",
+      "is_new": true,
+      "lastmod": "2026-08-21T07:48:39+00:00"
+    },
+    "loaded-potato-taco-bowl-weeknight-obsession-justified": {
+      "slug": "loaded-potato-taco-bowl-weeknight-obsession-justified",
+      "title": "Loaded Potato Taco Bowl Weeknight Obsession Justified",
+      "url": "https://newdecr.com/loaded-potato-taco-bowl-weeknight-obsession-justified/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-21",
+      "is_new": true,
+      "lastmod": "2026-08-21T16:27:24+00:00"
+    },
+    "classic-italian-lasagna-sharing-my-family-recipe": {
+      "slug": "classic-italian-lasagna-sharing-my-family-recipe",
+      "title": "Classic Italian Lasagna Sharing My Family Recipe",
+      "url": "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-21",
+      "is_new": true,
+      "lastmod": "2026-08-21T16:47:36+00:00"
     }
   },
   "pending_messages": {
