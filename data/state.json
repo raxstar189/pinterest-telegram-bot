@@ -71,7 +71,10 @@
     "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
     "https://newdecr.com/spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies/",
     "https://newdecr.com/loaded-potato-taco-bowl-weeknight-obsession-justified/",
-    "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/"
+    "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/",
+    "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+    "https://newdecr.com/comforting-pumpkin-shepherds-pie-comforting-fall-meal/",
+    "https://newdecr.com/ghost-oreo-balls-spooky-sweet-treats-for-halloween/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -793,6 +796,36 @@
       "first_seen_date": "2026-08-21",
       "is_new": true,
       "lastmod": "2026-08-21T16:47:36+00:00"
+    },
+    "pumpkin-smores-very-unique-recipe": {
+      "slug": "pumpkin-smores-very-unique-recipe",
+      "title": "Pumpkin Smores Very Unique Recipe",
+      "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-22",
+      "is_new": true,
+      "lastmod": "2026-08-22T17:07:44+00:00"
+    },
+    "comforting-pumpkin-shepherds-pie-comforting-fall-meal": {
+      "slug": "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+      "title": "Comforting Pumpkin Shepherds Pie Comforting Fall Meal",
+      "url": "https://newdecr.com/comforting-pumpkin-shepherds-pie-comforting-fall-meal/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-22",
+      "is_new": true,
+      "lastmod": "2026-08-22T17:28:40+00:00"
+    },
+    "ghost-oreo-balls-spooky-sweet-treats-for-halloween": {
+      "slug": "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+      "title": "Ghost Oreo Balls Spooky Sweet Treats for Halloween",
+      "url": "https://newdecr.com/ghost-oreo-balls-spooky-sweet-treats-for-halloween/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-22",
+      "is_new": true,
+      "lastmod": "2026-08-22T17:45:21+00:00"
     }
   },
   "pending_messages": {
