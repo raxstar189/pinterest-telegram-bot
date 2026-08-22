@@ -1359,6 +1359,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 44
+    },
+    "2026-08-22": {
+      "date": "2026-08-22",
+      "recipes": [
+        {
+          "slug": "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+          "title": "Cowboy Butter Tortellini Nice Steak Bites Your New Weeknight Hero",
+          "url": "https://newdecr.com/cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:59:39+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "youll-never-make-bad-potato-wedges-ever-again",
+          "title": "Youll Never Make Bad Potato Wedges Ever Again",
+          "url": "https://newdecr.com/youll-never-make-bad-potato-wedges-ever-again/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-26T07:10:06+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "spicy-miso-ramen-your-ultimate-comfort-bowl",
+          "title": "Spicy Miso Ramen Your Ultimate Comfort Bowl",
+          "url": "https://newdecr.com/spicy-miso-ramen-your-ultimate-comfort-bowl/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:52:46+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+          "title": "Beat the Heat with Refreshing Blue Raspberry Lemonade",
+          "url": "https://newdecr.com/beat-the-heat-with-refreshing-blue-raspberry-lemonade/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:56:28+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "how-to-make-puff-pastry-patties-in-haitian-style",
+          "title": "Puff Pastry Patties in Haitian Style",
+          "url": "https://newdecr.com/how-to-make-puff-pastry-patties-in-haitian-style/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-06-02T17:38:23+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "fudgy-brown-butter-brownies-explosion-of-flavor",
+          "title": "Fudgy Brown Butter Brownies Explosion of Flavor",
+          "url": "https://newdecr.com/fudgy-brown-butter-brownies-explosion-of-flavor/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-21",
+          "is_new": true,
+          "lastmod": "2026-08-20T18:47:42+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix",
+          "title": "Vegetable Egg Drop Soup Your Quick Cozy Comfort Fix",
+          "url": "https://newdecr.com/vegetable-egg-drop-soup-your-quick-cozy-comfort-fix/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:55:08+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+          "title": "Mushroom Stuffed Chicken Breast Your New Weeknight Favorite",
+          "url": "https://newdecr.com/mushroom-stuffed-chicken-breast-your-new-weeknight-favorite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:04:16+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "loaded-potato-taco-bowl-weeknight-obsession-justified",
+          "title": "Loaded Potato Taco Bowl Weeknight Obsession Justified",
+          "url": "https://newdecr.com/loaded-potato-taco-bowl-weeknight-obsession-justified/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-21",
+          "is_new": true,
+          "lastmod": "2026-08-21T16:27:24+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+          "title": "Bacon Ranch Chopped Salad Your New Weeknight Hero",
+          "url": "https://newdecr.com/bacon-ranch-chopped-salad-your-new-weeknight-hero/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:53:04+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": "pending",
+        "youll-never-make-bad-potato-wedges-ever-again": "pending",
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": "pending",
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": "pending",
+        "how-to-make-puff-pastry-patties-in-haitian-style": "pending",
+        "fudgy-brown-butter-brownies-explosion-of-flavor": "pending",
+        "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix": "pending",
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": "pending",
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": "pending",
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": "pending"
+      },
+      "cardMessageIds": {
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": 428,
+        "youll-never-make-bad-potato-wedges-ever-again": 429,
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": 430,
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": 431,
+        "how-to-make-puff-pastry-patties-in-haitian-style": 432,
+        "fudgy-brown-butter-brownies-explosion-of-flavor": 433,
+        "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix": 434,
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": 435,
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": 436,
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": 437
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 39
     }
   },
   "daily_selections": {
@@ -1409,6 +1550,18 @@
       "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
       "cajun-potato-soup-your-new-favorite-comfort-food",
       "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail"
+    ],
+    "2026-08-22": [
+      "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+      "youll-never-make-bad-potato-wedges-ever-again",
+      "spicy-miso-ramen-your-ultimate-comfort-bowl",
+      "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+      "how-to-make-puff-pastry-patties-in-haitian-style",
+      "fudgy-brown-butter-brownies-explosion-of-flavor",
+      "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix",
+      "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+      "loaded-potato-taco-bowl-weeknight-obsession-justified",
+      "bacon-ranch-chopped-salad-your-new-weeknight-hero"
     ]
   }
 }
