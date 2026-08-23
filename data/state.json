@@ -1533,6 +1533,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 39
+    },
+    "2026-08-23": {
+      "date": "2026-08-23",
+      "recipes": [
+        {
+          "slug": "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+          "title": "The Best Vegan Pumpkin Spice Cake Youll Ever Bake",
+          "url": "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-21",
+          "is_new": true,
+          "lastmod": "2026-08-21T07:23:25+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+          "title": "Brown Sugar Overnight Oats Your Easy Delicious Morning Fix",
+          "url": "https://newdecr.com/brown-sugar-overnight-oats-your-easy-delicious-morning-fix/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-05T13:09:59+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right",
+          "title": "My Go to One Pan Garlic Steak Tortellini Seriously Easy Dinner Done Right",
+          "url": "https://newdecr.com/my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-09T10:34:08+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+          "title": "Crispy Air Fryer Fried Pickles Super Easy 15 Min Snack",
+          "url": "https://newdecr.com/crispy-air-fryer-fried-pickles-super-easy-15-min-snack/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-16T20:16:49+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "classic-italian-lasagna-sharing-my-family-recipe",
+          "title": "Classic Italian Lasagna Sharing My Family Recipe",
+          "url": "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-21",
+          "is_new": true,
+          "lastmod": "2026-08-21T16:47:36+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
+          "title": "Whip Up This Restaurant Style Hot Honey Ranch Sauce at Home",
+          "url": "https://newdecr.com/whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:01:24+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "pumpkin-smores-very-unique-recipe",
+          "title": "Pumpkin Smores Very Unique Recipe",
+          "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-22",
+          "is_new": true,
+          "lastmod": "2026-08-22T17:07:44+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+          "title": "This Is the Best Chocolate Cake Recipe You Will Ever Make",
+          "url": "https://newdecr.com/this-is-the-best-chocolate-cake-recipe-you-will-ever-make/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-20T09:29:27+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": "pending",
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": "pending",
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": "pending",
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": "pending",
+        "classic-italian-lasagna-sharing-my-family-recipe": "pending",
+        "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home": "pending",
+        "pumpkin-smores-very-unique-recipe": "pending",
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": "pending",
+        "air-fried-crispy-chicken-drumsticks": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending"
+      },
+      "cardMessageIds": {
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": 441,
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 442,
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": 443,
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": 444,
+        "classic-italian-lasagna-sharing-my-family-recipe": 445,
+        "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home": 446,
+        "pumpkin-smores-very-unique-recipe": 447,
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 448,
+        "air-fried-crispy-chicken-drumsticks": 449,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 450
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 32
     }
   },
   "daily_selections": {
@@ -1595,6 +1736,18 @@
       "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
       "loaded-potato-taco-bowl-weeknight-obsession-justified",
       "bacon-ranch-chopped-salad-your-new-weeknight-hero"
+    ],
+    "2026-08-23": [
+      "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+      "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+      "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right",
+      "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+      "classic-italian-lasagna-sharing-my-family-recipe",
+      "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
+      "pumpkin-smores-very-unique-recipe",
+      "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+      "air-fried-crispy-chicken-drumsticks",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe"
     ]
   }
 }
