@@ -1674,6 +1674,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 32
+    },
+    "2026-08-24": {
+      "date": "2026-08-24",
+      "recipes": [
+        {
+          "slug": "key-lime-pound-cake-your-new-zesty-obsession",
+          "title": "Key Lime Pound Cake Your New Zesty Obsession",
+          "url": "https://newdecr.com/key-lime-pound-cake-your-new-zesty-obsession/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:00:59+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+          "title": "Anytime Meal Crispy Air Fried Beef Dumplings",
+          "url": "https://newdecr.com/your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-01T03:22:59+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "baked-feta-eggs-your-new-favorite-easy-meal",
+          "title": "Baked Feta Eggs Easy Meal",
+          "url": "https://newdecr.com/baked-feta-eggs-your-new-favorite-easy-meal/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-05T06:38:51+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit",
+          "title": "Your New Go to Simple Italian Pasta Salad Thats Always a Hit",
+          "url": "https://newdecr.com/your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:55:10+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+          "title": "Blueberry Cream Cheese Muffin Cake",
+          "url": "https://newdecr.com/your-new-favorite-blueberry-cream-cheese-muffin-cake/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:51:25+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-real-thai-comfort-authentic-tom-yum-soup",
+          "title": "The Real Thai Comfort Authentic Tom Yum Soup",
+          "url": "https://newdecr.com/the-real-thai-comfort-authentic-tom-yum-soup/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-06-23T15:11:34+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "hot-honey-shrimp-your-new-weeknight-obsession",
+          "title": "Hot Honey Shrimp Your New Weeknight Obsession",
+          "url": "https://newdecr.com/hot-honey-shrimp-your-new-weeknight-obsession/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:00:08+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "sweet-potato-turkey-chili-fall-dinner-hack",
+          "title": "Sweet Potato Turkey Chili Fall Dinner Hack",
+          "url": "https://newdecr.com/sweet-potato-turkey-chili-fall-dinner-hack/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-06T13:30:48+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+          "title": "Crispy Flavorful Easy Air Fried Chicken Bread Roll",
+          "url": "https://newdecr.com/crispy-flavorful-easy-air-fried-chicken-bread-roll/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-07-28T05:14:40+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "key-lime-pound-cake-your-new-zesty-obsession": "pending",
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "baked-feta-eggs-your-new-favorite-easy-meal": "pending",
+        "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit": "pending",
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": "pending",
+        "the-real-thai-comfort-authentic-tom-yum-soup": "pending",
+        "hot-honey-shrimp-your-new-weeknight-obsession": "pending",
+        "sweet-potato-turkey-chili-fall-dinner-hack": "pending",
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": "pending"
+      },
+      "cardMessageIds": {
+        "key-lime-pound-cake-your-new-zesty-obsession": 454,
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": 455,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 456,
+        "baked-feta-eggs-your-new-favorite-easy-meal": 457,
+        "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit": 458,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 459,
+        "the-real-thai-comfort-authentic-tom-yum-soup": 460,
+        "hot-honey-shrimp-your-new-weeknight-obsession": 461,
+        "sweet-potato-turkey-chili-fall-dinner-hack": 462,
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": 463
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 25
     }
   },
   "daily_selections": {
@@ -1748,6 +1889,18 @@
       "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
       "air-fried-crispy-chicken-drumsticks",
       "easy-to-make-asian-style-beef-crescent-roll-recipe"
+    ],
+    "2026-08-24": [
+      "key-lime-pound-cake-your-new-zesty-obsession",
+      "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "baked-feta-eggs-your-new-favorite-easy-meal",
+      "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit",
+      "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+      "the-real-thai-comfort-authentic-tom-yum-soup",
+      "hot-honey-shrimp-your-new-weeknight-obsession",
+      "sweet-potato-turkey-chili-fall-dinner-hack",
+      "crispy-flavorful-easy-air-fried-chicken-bread-roll"
     ]
   }
 }
