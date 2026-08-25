@@ -1815,6 +1815,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 25
+    },
+    "2026-08-25": {
+      "date": "2026-08-25",
+      "recipes": [
+        {
+          "slug": "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+          "title": "Creamy Mushroom Chicken Comfort Dream",
+          "url": "https://newdecr.com/creamy-mushroom-chicken-your-weeknight-comfort-dream/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-10T17:04:16+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "hearty-tomato-minced-beef-soup-recipe",
+          "title": "Hearty Tomato Minced Beef Soup Recipe",
+          "url": "https://newdecr.com/hearty-tomato-minced-beef-soup-recipe/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:54+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+          "title": "Crispy Garlic Parmesan Sweet Potato One of the Easiest Side Dish",
+          "url": "https://newdecr.com/crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-17T18:13:31+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+          "title": "Homemade Gulab Jamun Your Guide of Sweet Perfection of Indian Culture",
+          "url": "https://newdecr.com/homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-04T04:55:07+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+          "title": "Ghost Oreo Balls Spooky Sweet Treats for Halloween",
+          "url": "https://newdecr.com/ghost-oreo-balls-spooky-sweet-treats-for-halloween/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-22",
+          "is_new": true,
+          "lastmod": "2026-08-22T17:45:21+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here",
+          "title": "Your Hunt for Crispy Cast Iron Skillet Pizza Ends Here",
+          "url": "https://newdecr.com/your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-09T10:16:30+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+          "title": "Spooky Sweet Fun Full Guide to Making Best Halloween Decorative Cookies",
+          "url": "https://newdecr.com/spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-21",
+          "is_new": true,
+          "lastmod": "2026-08-21T07:48:39+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
+          "title": "Homemade Gelato Ice Cream Italian Perfection",
+          "url": "https://newdecr.com/homemade-gelato-ice-cream-your-guide-to-italian-perfection/",
+          "last_pinned_date": "2026-08-18",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:35+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": "2026-08-18",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings",
+          "title": "My Secret for Unbelievably Crispy Air Fryer Chicken Wings",
+          "url": "https://newdecr.com/my-secret-for-unbelievably-crispy-air-fryer-chicken-wings/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T21:06:04+00:00",
+          "days_since_pinned": 6
+        }
+      ],
+      "itemStatuses": {
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": "pending",
+        "hearty-tomato-minced-beef-soup-recipe": "pending",
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": "pending",
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": "pending",
+        "ghost-oreo-balls-spooky-sweet-treats-for-halloween": "pending",
+        "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here": "pending",
+        "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": "pending",
+        "homemade-gelato-ice-cream-your-guide-to-italian-perfection": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending",
+        "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings": "pending"
+      },
+      "cardMessageIds": {
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": 465,
+        "hearty-tomato-minced-beef-soup-recipe": 466,
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": 467,
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": 468,
+        "ghost-oreo-balls-spooky-sweet-treats-for-halloween": 469,
+        "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here": 470,
+        "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": 471,
+        "homemade-gelato-ice-cream-your-guide-to-italian-perfection": 472,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 473,
+        "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings": 474
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 25
     }
   },
   "daily_selections": {
@@ -1901,6 +2042,18 @@
       "hot-honey-shrimp-your-new-weeknight-obsession",
       "sweet-potato-turkey-chili-fall-dinner-hack",
       "crispy-flavorful-easy-air-fried-chicken-bread-roll"
+    ],
+    "2026-08-25": [
+      "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+      "hearty-tomato-minced-beef-soup-recipe",
+      "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+      "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+      "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+      "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here",
+      "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+      "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+      "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings"
     ]
   }
 }
