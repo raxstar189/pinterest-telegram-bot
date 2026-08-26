@@ -1956,6 +1956,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 25
+    },
+    "2026-08-26": {
+      "date": "2026-08-26",
+      "recipes": [
+        {
+          "slug": "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal",
+          "title": "Creamy Smothered Chicken and Rice Weeknight Meal",
+          "url": "https://newdecr.com/creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:51:11+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+          "title": "Crispy Air Fryer Shrimp Toast Easy Appetizer",
+          "url": "https://newdecr.com/crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:48:05+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
+          "title": "One Pot Pumpkin Mac and Cheese My New Fall Favorite",
+          "url": "https://newdecr.com/one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-08-06T12:49:15+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
+          "title": "The Best Chicken Avocado Cherry Tomato Salad Easy Fresh",
+          "url": "https://newdecr.com/the-best-chicken-avocado-cherry-tomato-salad-easy-fresh/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:50:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea",
+          "title": "Creamy Marry Me Tuscan Chicken Soup Fall Season Date Night Favoritea",
+          "url": "https://newdecr.com/creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-09T17:09:13+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "sweet-peach-lemonade-your-go-to-summer-sip",
+          "title": "Sweet Peach Lemonade Summer Sip",
+          "url": "https://newdecr.com/sweet-peach-lemonade-your-go-to-summer-sip/",
+          "last_pinned_date": "2026-08-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:22+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+          "title": "Comforting Pumpkin Shepherds Pie Comforting Fall Meal",
+          "url": "https://newdecr.com/comforting-pumpkin-shepherds-pie-comforting-fall-meal/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-22",
+          "is_new": true,
+          "lastmod": "2026-08-22T17:28:40+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "air-fryer-crispy-mini-blooming-onions",
+          "title": "Air Fryer Crispy Mini Blooming Onions",
+          "url": "https://newdecr.com/air-fryer-crispy-mini-blooming-onions/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:48+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "nutella-cookies-pie-my-childrens-new-fav",
+          "title": "Nutella Cookies Pie My Childrens New Fav",
+          "url": "https://newdecr.com/nutella-cookies-pie-my-childrens-new-fav/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-21",
+          "is_new": true,
+          "lastmod": "2026-08-21T06:17:18+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast",
+          "title": "My Go to Cinnamon Breakfast Roll Recipe for Breakfast",
+          "url": "https://newdecr.com/my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-18",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:54:53+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal": "pending",
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": "pending",
+        "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite": "pending",
+        "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh": "pending",
+        "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea": "pending",
+        "sweet-peach-lemonade-your-go-to-summer-sip": "pending",
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": "pending",
+        "air-fryer-crispy-mini-blooming-onions": "pending",
+        "nutella-cookies-pie-my-childrens-new-fav": "pending",
+        "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast": "pending"
+      },
+      "cardMessageIds": {
+        "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal": 478,
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": 479,
+        "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite": 480,
+        "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh": 481,
+        "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea": 482,
+        "sweet-peach-lemonade-your-go-to-summer-sip": 483,
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": 484,
+        "air-fryer-crispy-mini-blooming-onions": 485,
+        "nutella-cookies-pie-my-childrens-new-fav": 486,
+        "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast": 487
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 25
     }
   },
   "daily_selections": {
@@ -2054,6 +2195,18 @@
       "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
       "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
       "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings"
+    ],
+    "2026-08-26": [
+      "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal",
+      "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+      "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
+      "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
+      "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea",
+      "sweet-peach-lemonade-your-go-to-summer-sip",
+      "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+      "air-fryer-crispy-mini-blooming-onions",
+      "nutella-cookies-pie-my-childrens-new-fav",
+      "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast"
     ]
   }
 }
