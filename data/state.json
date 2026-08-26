@@ -74,7 +74,10 @@
     "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/",
     "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
     "https://newdecr.com/comforting-pumpkin-shepherds-pie-comforting-fall-meal/",
-    "https://newdecr.com/ghost-oreo-balls-spooky-sweet-treats-for-halloween/"
+    "https://newdecr.com/ghost-oreo-balls-spooky-sweet-treats-for-halloween/",
+    "https://newdecr.com/cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll/",
+    "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+    "https://newdecr.com/bacon-mushroom-pasta-easy-dinner-recipe/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -826,6 +829,36 @@
       "first_seen_date": "2026-08-22",
       "is_new": false,
       "lastmod": "2026-08-22T17:45:21+00:00"
+    },
+    "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": {
+      "slug": "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+      "title": "Cinnamon Roll Apple Lasagna the Upgraded Cinnamon Roll",
+      "url": "https://newdecr.com/cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-26",
+      "is_new": true,
+      "lastmod": "2026-08-26T05:08:08+00:00"
+    },
+    "coconut-chia-pudding-easiest-creamiest-breakfast-ever": {
+      "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+      "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-26",
+      "is_new": true,
+      "lastmod": "2026-08-26T05:30:26+00:00"
+    },
+    "bacon-mushroom-pasta-easy-dinner-recipe": {
+      "slug": "bacon-mushroom-pasta-easy-dinner-recipe",
+      "title": "Bacon Mushroom Pasta Easy Dinner Recipe",
+      "url": "https://newdecr.com/bacon-mushroom-pasta-easy-dinner-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-26",
+      "is_new": true,
+      "lastmod": "2026-08-26T06:08:33+00:00"
     }
   },
   "pending_messages": {
