@@ -2130,6 +2130,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 25
+    },
+    "2026-08-27": {
+      "date": "2026-08-27",
+      "recipes": [
+        {
+          "slug": "easy-to-make-spicy-sriracha-wings-for-dinner",
+          "title": "Easy to Make Spicy Sriracha Wings for Dinner",
+          "url": "https://newdecr.com/easy-to-make-spicy-sriracha-wings-for-dinner/",
+          "last_pinned_date": "2026-08-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-03T09:12:28+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+          "title": "Your New Favourite Crispy Air Fried Chicken Stuffed Buns",
+          "url": "https://newdecr.com/your-new-favourite-crispy-air-fried-chicken-stuffed-buns/",
+          "last_pinned_date": "2026-08-21",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T08:55:39+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "bacon-mushroom-pasta-easy-dinner-recipe",
+          "title": "Bacon Mushroom Pasta Easy Dinner Recipe",
+          "url": "https://newdecr.com/bacon-mushroom-pasta-easy-dinner-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-26",
+          "is_new": true,
+          "lastmod": "2026-08-26T06:08:33+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-26",
+          "is_new": true,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "cajun-potato-soup-your-new-favorite-comfort-food",
+          "title": "Cajun Potato Soup Comfort Food",
+          "url": "https://newdecr.com/cajun-potato-soup-your-new-favorite-comfort-food/",
+          "last_pinned_date": "2026-08-21",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:59+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "air-fried-honey-bbq-chicken-wings-the-new-must-have",
+          "title": "Air Fried Honey Bbq Chicken Wings the New Must Have",
+          "url": "https://newdecr.com/air-fried-honey-bbq-chicken-wings-the-new-must-have/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T18:05:39+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "seafood-chowmein-the-perfect-weeknight-delight",
+          "title": "Seafood Chowmein Weeknight Delight",
+          "url": "https://newdecr.com/seafood-chowmein-the-perfect-weeknight-delight/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-29T13:49:12+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+          "title": "Crispy Air Fried Chicken Dumplings Current New Favorite Appetiser",
+          "url": "https://newdecr.com/crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser/",
+          "last_pinned_date": "2026-08-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T04:07:10+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "seriously-good-garlic-cheese-bread-breakfast-done-right",
+          "title": "Garlic Cheese Bread Breakfast Done Right",
+          "url": "https://newdecr.com/seriously-good-garlic-cheese-bread-breakfast-done-right/",
+          "last_pinned_date": "2026-08-21",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:41+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+          "title": "This Cute Critter Cake for Kids Is Sure to Make Them Smile",
+          "url": "https://newdecr.com/this-cute-critter-cake-for-kids-is-sure-to-make-them-smile/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:45:10+00:00",
+          "days_since_pinned": 8
+        }
+      ],
+      "itemStatuses": {
+        "easy-to-make-spicy-sriracha-wings-for-dinner": "pending",
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": "pending",
+        "bacon-mushroom-pasta-easy-dinner-recipe": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "cajun-potato-soup-your-new-favorite-comfort-food": "pending",
+        "air-fried-honey-bbq-chicken-wings-the-new-must-have": "pending",
+        "seafood-chowmein-the-perfect-weeknight-delight": "pending",
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": "pending",
+        "seriously-good-garlic-cheese-bread-breakfast-done-right": "pending",
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": "pending"
+      },
+      "cardMessageIds": {
+        "easy-to-make-spicy-sriracha-wings-for-dinner": 493,
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 494,
+        "bacon-mushroom-pasta-easy-dinner-recipe": 495,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 496,
+        "cajun-potato-soup-your-new-favorite-comfort-food": 497,
+        "air-fried-honey-bbq-chicken-wings-the-new-must-have": 498,
+        "seafood-chowmein-the-perfect-weeknight-delight": 499,
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": 500,
+        "seriously-good-garlic-cheese-bread-breakfast-done-right": 501,
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": 502
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 28
     }
   },
   "daily_selections": {
@@ -2240,6 +2381,18 @@
       "air-fryer-crispy-mini-blooming-onions",
       "nutella-cookies-pie-my-childrens-new-fav",
       "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast"
+    ],
+    "2026-08-27": [
+      "easy-to-make-spicy-sriracha-wings-for-dinner",
+      "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+      "bacon-mushroom-pasta-easy-dinner-recipe",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "cajun-potato-soup-your-new-favorite-comfort-food",
+      "air-fried-honey-bbq-chicken-wings-the-new-must-have",
+      "seafood-chowmein-the-perfect-weeknight-delight",
+      "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+      "seriously-good-garlic-cheese-bread-breakfast-done-right",
+      "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile"
     ]
   }
 }
