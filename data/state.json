@@ -2479,6 +2479,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 26
+    },
+    "2026-08-29": {
+      "date": "2026-08-29",
+      "recipes": [
+        {
+          "slug": "start-the-healing-process-healthy-chia-tiramisu",
+          "title": "Start the Healing Process Healthy Chia Tiramisu",
+          "url": "https://newdecr.com/start-the-healing-process-healthy-chia-tiramisu/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-28",
+          "is_new": true,
+          "lastmod": "2026-08-27T17:08:52+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+          "title": "Escape to the Tropics with This Easy Pina Colada Chia Pudding",
+          "url": "https://newdecr.com/escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-28",
+          "is_new": true,
+          "lastmod": "2026-08-27T16:19:22+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+          "title": "Hearty Italian Meatball Soup My Cherished Comfort Dish",
+          "url": "https://newdecr.com/hearty-italian-meatball-soup-my-cherished-comfort-dish/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-28",
+          "is_new": true,
+          "lastmod": "2026-08-27T16:47:38+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "youll-never-make-bad-potato-wedges-ever-again",
+          "title": "Youll Never Make Bad Potato Wedges Ever Again",
+          "url": "https://newdecr.com/youll-never-make-bad-potato-wedges-ever-again/",
+          "last_pinned_date": "2026-08-22",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-26T07:10:06+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "easy-french-dip-sliders-fun-and-easy-snacks-solution",
+          "title": "Easy French Dip Sliders Fun and Easy Snacks Solution",
+          "url": "https://newdecr.com/easy-french-dip-sliders-fun-and-easy-snacks-solution/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-28",
+          "is_new": true,
+          "lastmod": "2026-08-27T15:58:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "caramel-apple-pie-one-of-the-best-fall-dessert",
+          "title": "Caramel Apple Pie One of the Best Fall Dessert",
+          "url": "https://newdecr.com/caramel-apple-pie-one-of-the-best-fall-dessert/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:59:04+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+          "title": "Corndog Crispy Golden and Totally Delicious",
+          "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
+          "last_pinned_date": "2026-08-21",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:57+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "fudgy-irresistible-red-velvet-brownies",
+          "title": "Fudgy Irresistible Red Velvet Brownies",
+          "url": "https://newdecr.com/fudgy-irresistible-red-velvet-brownies/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-28",
+          "is_new": true,
+          "lastmod": "2026-08-27T16:32:16+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+          "title": "Brown Sugar Overnight Oats Your Easy Delicious Morning Fix",
+          "url": "https://newdecr.com/brown-sugar-overnight-oats-your-easy-delicious-morning-fix/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T13:09:59+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+          "title": "This Is the Best Chocolate Cake Recipe You Will Ever Make",
+          "url": "https://newdecr.com/this-is-the-best-chocolate-cake-recipe-you-will-ever-make/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-20T09:29:27+00:00",
+          "days_since_pinned": 6
+        }
+      ],
+      "itemStatuses": {
+        "start-the-healing-process-healthy-chia-tiramisu": "pending",
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": "pending",
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": "pending",
+        "youll-never-make-bad-potato-wedges-ever-again": "pending",
+        "easy-french-dip-sliders-fun-and-easy-snacks-solution": "pending",
+        "caramel-apple-pie-one-of-the-best-fall-dessert": "pending",
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending",
+        "fudgy-irresistible-red-velvet-brownies": "pending",
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": "pending",
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": "pending"
+      },
+      "cardMessageIds": {
+        "start-the-healing-process-healthy-chia-tiramisu": 533,
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": 534,
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": 535,
+        "youll-never-make-bad-potato-wedges-ever-again": 536,
+        "easy-french-dip-sliders-fun-and-easy-snacks-solution": 537,
+        "caramel-apple-pie-one-of-the-best-fall-dessert": 538,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 539,
+        "fudgy-irresistible-red-velvet-brownies": 540,
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 541,
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 542
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 36
     }
   },
   "daily_selections": {
@@ -2613,6 +2754,18 @@
       "everyones-favorite-sweet-soft-spongy-honey-buns",
       "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
       "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal"
+    ],
+    "2026-08-29": [
+      "start-the-healing-process-healthy-chia-tiramisu",
+      "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+      "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+      "youll-never-make-bad-potato-wedges-ever-again",
+      "easy-french-dip-sliders-fun-and-easy-snacks-solution",
+      "caramel-apple-pie-one-of-the-best-fall-dessert",
+      "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+      "fudgy-irresistible-red-velvet-brownies",
+      "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+      "this-is-the-best-chocolate-cake-recipe-you-will-ever-make"
     ]
   }
 }
