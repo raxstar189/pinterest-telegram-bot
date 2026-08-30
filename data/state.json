@@ -2761,6 +2761,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 36
+    },
+    "2026-08-31": {
+      "date": "2026-08-31",
+      "recipes": [
+        {
+          "slug": "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+          "title": "Surely Better Than Takeout Crispy Juicy Homemade Chicken Nuggets",
+          "url": "https://newdecr.com/surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets/",
+          "last_pinned_date": "2026-08-21",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-30T09:44:58+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+          "title": "The Best Vegan Pumpkin Spice Cake Youll Ever Bake",
+          "url": "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T07:23:25+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+          "title": "Mushroom Stuffed Chicken Breast Your New Weeknight Favorite",
+          "url": "https://newdecr.com/mushroom-stuffed-chicken-breast-your-new-weeknight-favorite/",
+          "last_pinned_date": "2026-08-22",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:04:16+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+          "title": "Creamy Mushroom Chicken Comfort Dream",
+          "url": "https://newdecr.com/creamy-mushroom-chicken-your-weeknight-comfort-dream/",
+          "last_pinned_date": "2026-08-25",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-10T17:04:16+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+          "title": "Bacon Ranch Chopped Salad Your New Weeknight Hero",
+          "url": "https://newdecr.com/bacon-ranch-chopped-salad-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-08-22",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:53:04+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "spicy-miso-ramen-your-ultimate-comfort-bowl",
+          "title": "Spicy Miso Ramen Your Ultimate Comfort Bowl",
+          "url": "https://newdecr.com/spicy-miso-ramen-your-ultimate-comfort-bowl/",
+          "last_pinned_date": "2026-08-22",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:46+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail",
+          "title": "The Electric Blue Dream Blue Lagoon Cocktail",
+          "url": "https://newdecr.com/the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail/",
+          "last_pinned_date": "2026-08-21",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:54:39+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "key-lime-pound-cake-your-new-zesty-obsession",
+          "title": "Key Lime Pound Cake Your New Zesty Obsession",
+          "url": "https://newdecr.com/key-lime-pound-cake-your-new-zesty-obsession/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:59+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "pumpkin-smores-very-unique-recipe",
+          "title": "Pumpkin Smores Very Unique Recipe",
+          "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:07:44+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+          "title": "Homemade Gulab Jamun Your Guide of Sweet Perfection of Indian Culture",
+          "url": "https://newdecr.com/homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture/",
+          "last_pinned_date": "2026-08-25",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T04:55:07+00:00",
+          "days_since_pinned": 6
+        }
+      ],
+      "itemStatuses": {
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": "pending",
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": "pending",
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": "pending",
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": "pending",
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": "pending",
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": "pending",
+        "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail": "pending",
+        "key-lime-pound-cake-your-new-zesty-obsession": "pending",
+        "pumpkin-smores-very-unique-recipe": "pending",
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": "pending"
+      },
+      "cardMessageIds": {
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": 560,
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": 561,
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": 562,
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": 563,
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": 564,
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": 565,
+        "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail": 566,
+        "key-lime-pound-cake-your-new-zesty-obsession": 567,
+        "pumpkin-smores-very-unique-recipe": 568,
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": 569
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 36
     }
   },
   "daily_selections": {
@@ -2919,6 +3060,18 @@
       "easy-to-make-asian-style-beef-crescent-roll-recipe",
       "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
       "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma"
+    ],
+    "2026-08-31": [
+      "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+      "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+      "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+      "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+      "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+      "spicy-miso-ramen-your-ultimate-comfort-bowl",
+      "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail",
+      "key-lime-pound-cake-your-new-zesty-obsession",
+      "pumpkin-smores-very-unique-recipe",
+      "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture"
     ]
   }
 }
