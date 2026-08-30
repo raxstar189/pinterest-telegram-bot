@@ -2620,6 +2620,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 36
+    },
+    "2026-08-30": {
+      "date": "2026-08-30",
+      "recipes": [
+        {
+          "slug": "sweet-potato-turkey-chili-fall-dinner-hack",
+          "title": "Sweet Potato Turkey Chili Fall Dinner Hack",
+          "url": "https://newdecr.com/sweet-potato-turkey-chili-fall-dinner-hack/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-06T13:30:48+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+          "title": "Air Fried Alfredo Chicken Pasta Your New Weeknight Obsession",
+          "url": "https://newdecr.com/air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-08-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-02T17:03:19+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "how-i-made-the-perfect-cheeseburger",
+          "title": "How I Made Cheeseburger",
+          "url": "https://newdecr.com/how-i-made-the-perfect-cheeseburger/",
+          "last_pinned_date": "2026-08-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:42:14+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right",
+          "title": "My Go to One Pan Garlic Steak Tortellini Seriously Easy Dinner Done Right",
+          "url": "https://newdecr.com/my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-09T10:34:08+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "baked-feta-eggs-your-new-favorite-easy-meal",
+          "title": "Baked Feta Eggs Easy Meal",
+          "url": "https://newdecr.com/baked-feta-eggs-your-new-favorite-easy-meal/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:38:51+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+          "title": "Beat the Heat with Refreshing Blue Raspberry Lemonade",
+          "url": "https://newdecr.com/beat-the-heat-with-refreshing-blue-raspberry-lemonade/",
+          "last_pinned_date": "2026-08-22",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:28+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+          "title": "Anytime Meal Crispy Air Fried Beef Dumplings",
+          "url": "https://newdecr.com/your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T03:22:59+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+          "title": "Meal Authentic Middle Eastern Beef Shawarma",
+          "url": "https://newdecr.com/your-new-favorite-meal-authentic-middle-eastern-beef-shawarma/",
+          "last_pinned_date": "2026-08-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-14T13:54:09+00:00",
+          "days_since_pinned": 10
+        }
+      ],
+      "itemStatuses": {
+        "sweet-potato-turkey-chili-fall-dinner-hack": "pending",
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending",
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": "pending",
+        "how-i-made-the-perfect-cheeseburger": "pending",
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": "pending",
+        "baked-feta-eggs-your-new-favorite-easy-meal": "pending",
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending",
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": "pending",
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": "pending"
+      },
+      "cardMessageIds": {
+        "sweet-potato-turkey-chili-fall-dinner-hack": 546,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 547,
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": 548,
+        "how-i-made-the-perfect-cheeseburger": 549,
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": 550,
+        "baked-feta-eggs-your-new-favorite-easy-meal": 551,
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": 552,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 553,
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": 554,
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": 555
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 36
     }
   },
   "daily_selections": {
@@ -2766,6 +2907,18 @@
       "fudgy-irresistible-red-velvet-brownies",
       "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
       "this-is-the-best-chocolate-cake-recipe-you-will-ever-make"
+    ],
+    "2026-08-30": [
+      "sweet-potato-turkey-chili-fall-dinner-hack",
+      "your-new-favorite-spicy-bonchon-sauce-recipe",
+      "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+      "how-i-made-the-perfect-cheeseburger",
+      "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right",
+      "baked-feta-eggs-your-new-favorite-easy-meal",
+      "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe",
+      "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+      "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma"
     ]
   }
 }
