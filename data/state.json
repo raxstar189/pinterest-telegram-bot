@@ -84,7 +84,13 @@
     "https://newdecr.com/fudgy-irresistible-red-velvet-brownies/",
     "https://newdecr.com/hearty-italian-meatball-soup-my-cherished-comfort-dish/",
     "https://newdecr.com/caramel-apple-pie-one-of-the-best-fall-dessert/",
-    "https://newdecr.com/start-the-healing-process-healthy-chia-tiramisu/"
+    "https://newdecr.com/start-the-healing-process-healthy-chia-tiramisu/",
+    "https://newdecr.com/easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks/",
+    "https://newdecr.com/the-unbelievably-delicious-homemade-granola-bars-youll-crave/",
+    "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
+    "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
+    "https://newdecr.com/easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat/",
+    "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -936,6 +942,66 @@
       "first_seen_date": "2026-08-28",
       "is_new": false,
       "lastmod": "2026-08-27T17:08:52+00:00"
+    },
+    "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": {
+      "slug": "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks",
+      "title": "Easy Duchess Potatoes Fluffy and Full of Flavor Evening Snacks",
+      "url": "https://newdecr.com/easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-31",
+      "is_new": true,
+      "lastmod": "2026-08-31T14:45:04+00:00"
+    },
+    "the-unbelievably-delicious-homemade-granola-bars-youll-crave": {
+      "slug": "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+      "title": "The Unbelievably Delicious Homemade Granola Bars Youll Crave",
+      "url": "https://newdecr.com/the-unbelievably-delicious-homemade-granola-bars-youll-crave/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-31",
+      "is_new": true,
+      "lastmod": "2026-08-31T15:59:39+00:00"
+    },
+    "versatile-mini-pancake-bites-perfect-for-any-meal": {
+      "slug": "versatile-mini-pancake-bites-perfect-for-any-meal",
+      "title": "Versatile Mini Pancake Bites Perfect for Any Meal",
+      "url": "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-31",
+      "is_new": true,
+      "lastmod": "2026-08-31T17:01:05+00:00"
+    },
+    "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": {
+      "slug": "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+      "title": "Fresh Mango Crepe Rolls Smooth and Buttery Dessert",
+      "url": "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-31",
+      "is_new": true,
+      "lastmod": "2026-08-31T17:12:07+00:00"
+    },
+    "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat": {
+      "slug": "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat",
+      "title": "Easy Ham and Cheese Muffins Grab and Go Treat",
+      "url": "https://newdecr.com/easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-31",
+      "is_new": true,
+      "lastmod": "2026-08-31T17:28:05+00:00"
+    },
+    "get-ready-for-the-best-homemade-soft-pretzel-bites": {
+      "slug": "get-ready-for-the-best-homemade-soft-pretzel-bites",
+      "title": "Get Ready for the Best Homemade Soft Pretzel Bites",
+      "url": "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-08-31",
+      "is_new": true,
+      "lastmod": "2026-08-31T17:36:07+00:00"
     }
   },
   "pending_messages": {
