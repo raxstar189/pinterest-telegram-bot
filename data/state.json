@@ -2958,6 +2958,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 36
+    },
+    "2026-09-01": {
+      "date": "2026-09-01",
+      "recipes": [
+        {
+          "slug": "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+          "title": "Fresh Mango Crepe Rolls Smooth and Buttery Dessert",
+          "url": "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-31",
+          "is_new": true,
+          "lastmod": "2026-08-31T17:12:07+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+          "title": "Crispy Flavorful Easy Air Fried Chicken Bread Roll",
+          "url": "https://newdecr.com/crispy-flavorful-easy-air-fried-chicken-bread-roll/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-28T05:14:40+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "nutella-cookies-pie-my-childrens-new-fav",
+          "title": "Nutella Cookies Pie My Childrens New Fav",
+          "url": "https://newdecr.com/nutella-cookies-pie-my-childrens-new-fav/",
+          "last_pinned_date": "2026-08-26",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T06:17:18+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "how-to-make-puff-pastry-patties-in-haitian-style",
+          "title": "Puff Pastry Patties in Haitian Style",
+          "url": "https://newdecr.com/how-to-make-puff-pastry-patties-in-haitian-style/",
+          "last_pinned_date": "2026-08-22",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-02T17:38:23+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+          "title": "The Unbelievably Delicious Homemade Granola Bars Youll Crave",
+          "url": "https://newdecr.com/the-unbelievably-delicious-homemade-granola-bars-youll-crave/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-31",
+          "is_new": true,
+          "lastmod": "2026-08-31T15:59:39+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+          "title": "Crispy Garlic Parmesan Sweet Potato One of the Easiest Side Dish",
+          "url": "https://newdecr.com/crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish/",
+          "last_pinned_date": "2026-08-25",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-17T18:13:31+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks",
+          "title": "Easy Duchess Potatoes Fluffy and Full of Flavor Evening Snacks",
+          "url": "https://newdecr.com/easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-31",
+          "is_new": true,
+          "lastmod": "2026-08-31T14:45:04+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+          "title": "Rum Soaked Fried Pineapple Tropical Treat",
+          "url": "https://newdecr.com/rum-soaked-fried-pineapple-your-new-favorite-tropical-treat/",
+          "last_pinned_date": "2026-08-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-11T06:19:31+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "versatile-mini-pancake-bites-perfect-for-any-meal",
+          "title": "Versatile Mini Pancake Bites Perfect for Any Meal",
+          "url": "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-31",
+          "is_new": true,
+          "lastmod": "2026-08-31T17:01:05+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "get-ready-for-the-best-homemade-soft-pretzel-bites",
+          "title": "Get Ready for the Best Homemade Soft Pretzel Bites",
+          "url": "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-08-31",
+          "is_new": true,
+          "lastmod": "2026-08-31T17:36:07+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": "pending",
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": "pending",
+        "nutella-cookies-pie-my-childrens-new-fav": "pending",
+        "how-to-make-puff-pastry-patties-in-haitian-style": "pending",
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": "pending",
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": "pending",
+        "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": "pending",
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": "pending",
+        "versatile-mini-pancake-bites-perfect-for-any-meal": "pending",
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": "pending"
+      },
+      "cardMessageIds": {
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": 587,
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": 588,
+        "nutella-cookies-pie-my-childrens-new-fav": 589,
+        "how-to-make-puff-pastry-patties-in-haitian-style": 590,
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": 591,
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": 592,
+        "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": 593,
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 594,
+        "versatile-mini-pancake-bites-perfect-for-any-meal": 595,
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": 596
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 42
     }
   },
   "daily_selections": {
@@ -3128,6 +3269,18 @@
       "key-lime-pound-cake-your-new-zesty-obsession",
       "pumpkin-smores-very-unique-recipe",
       "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture"
+    ],
+    "2026-09-01": [
+      "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+      "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+      "nutella-cookies-pie-my-childrens-new-fav",
+      "how-to-make-puff-pastry-patties-in-haitian-style",
+      "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+      "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+      "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks",
+      "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+      "versatile-mini-pancake-bites-perfect-for-any-meal",
+      "get-ready-for-the-best-homemade-soft-pretzel-bites"
     ]
   }
 }
