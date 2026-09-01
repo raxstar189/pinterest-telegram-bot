@@ -90,7 +90,12 @@
     "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
     "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
     "https://newdecr.com/easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat/",
-    "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/"
+    "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/",
+    "https://newdecr.com/taco-sandwich-a-completeoy-new-take-on-sandwich/",
+    "https://newdecr.com/the-flavor-secret-behind-amazing-christmas-crockpot-candy/",
+    "https://newdecr.com/sweet-tangy-garlic-herb-roasted-turkey-delight/",
+    "https://newdecr.com/the-unforgettable-peppermint-bark-brownies-recipe/",
+    "https://newdecr.com/budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1002,6 +1007,56 @@
       "first_seen_date": "2026-08-31",
       "is_new": false,
       "lastmod": "2026-08-31T17:36:07+00:00"
+    },
+    "taco-sandwich-a-completeoy-new-take-on-sandwich": {
+      "slug": "taco-sandwich-a-completeoy-new-take-on-sandwich",
+      "title": "Taco Sandwich a Completeoy New Take on Sandwich",
+      "url": "https://newdecr.com/taco-sandwich-a-completeoy-new-take-on-sandwich/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-01",
+      "is_new": true,
+      "lastmod": "2026-09-01T04:14:20+00:00"
+    },
+    "the-flavor-secret-behind-amazing-christmas-crockpot-candy": {
+      "slug": "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+      "title": "The Flavor Secret Behind Amazing Christmas Crockpot Candy",
+      "url": "https://newdecr.com/the-flavor-secret-behind-amazing-christmas-crockpot-candy/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-01",
+      "is_new": true,
+      "lastmod": "2026-09-01T04:51:50+00:00"
+    },
+    "sweet-tangy-garlic-herb-roasted-turkey-delight": {
+      "slug": "sweet-tangy-garlic-herb-roasted-turkey-delight",
+      "title": "Sweet Tangy Garlic Herb Roasted Turkey Delight",
+      "url": "https://newdecr.com/sweet-tangy-garlic-herb-roasted-turkey-delight/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-01",
+      "is_new": true,
+      "lastmod": "2026-09-01T09:12:46+00:00"
+    },
+    "the-unforgettable-peppermint-bark-brownies-recipe": {
+      "slug": "the-unforgettable-peppermint-bark-brownies-recipe",
+      "title": "The Unforgettable Peppermint Bark Brownies Recipe",
+      "url": "https://newdecr.com/the-unforgettable-peppermint-bark-brownies-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-01",
+      "is_new": true,
+      "lastmod": "2026-09-01T09:32:31+00:00"
+    },
+    "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost": {
+      "slug": "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost",
+      "title": "Budget Friendly Mummy Jalapeno Poppers 50 Taste 5 Cost",
+      "url": "https://newdecr.com/budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-01",
+      "is_new": true,
+      "lastmod": "2026-09-01T09:42:03+00:00"
     }
   },
   "pending_messages": {
