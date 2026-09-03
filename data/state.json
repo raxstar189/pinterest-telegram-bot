@@ -3285,6 +3285,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 47
+    },
+    "2026-09-03": {
+      "date": "2026-09-03",
+      "recipes": [
+        {
+          "slug": "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+          "title": "Comforting Pumpkin Shepherds Pie Comforting Fall Meal",
+          "url": "https://newdecr.com/comforting-pumpkin-shepherds-pie-comforting-fall-meal/",
+          "last_pinned_date": "2026-08-26",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:28:40+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+          "title": "Blueberry Cream Cheese Muffin Cake",
+          "url": "https://newdecr.com/your-new-favorite-blueberry-cream-cheese-muffin-cake/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:25+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": "2026-08-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+          "title": "Your New Weeknight Obsession Homemade Easy Stuffed Crust Pizza",
+          "url": "https://newdecr.com/your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza/",
+          "last_pinned_date": "2026-08-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-11T04:46:03+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "taco-sandwich-a-completeoy-new-take-on-sandwich",
+          "title": "Taco Sandwich a Completeoy New Take on Sandwich",
+          "url": "https://newdecr.com/taco-sandwich-a-completeoy-new-take-on-sandwich/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-01",
+          "is_new": true,
+          "lastmod": "2026-09-01T04:14:20+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
+          "title": "Homemade Gelato Ice Cream Italian Perfection",
+          "url": "https://newdecr.com/homemade-gelato-ice-cream-your-guide-to-italian-perfection/",
+          "last_pinned_date": "2026-08-25",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:35+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "seafood-chowmein-the-perfect-weeknight-delight",
+          "title": "Seafood Chowmein Weeknight Delight",
+          "url": "https://newdecr.com/seafood-chowmein-the-perfect-weeknight-delight/",
+          "last_pinned_date": "2026-08-27",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-29T13:49:12+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+          "title": "Your New Favourite Crispy Air Fried Chicken Stuffed Buns",
+          "url": "https://newdecr.com/your-new-favourite-crispy-air-fried-chicken-stuffed-buns/",
+          "last_pinned_date": "2026-08-27",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T08:55:39+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+          "title": "Crispy Air Fryer Fried Pickles Super Easy 15 Min Snack",
+          "url": "https://newdecr.com/crispy-air-fryer-fried-pickles-super-easy-15-min-snack/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-16T20:16:49+00:00",
+          "days_since_pinned": 11
+        }
+      ],
+      "itemStatuses": {
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": "pending",
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending",
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": "pending",
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": "pending",
+        "homemade-gelato-ice-cream-your-guide-to-italian-perfection": "pending",
+        "seafood-chowmein-the-perfect-weeknight-delight": "pending",
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": "pending"
+      },
+      "cardMessageIds": {
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": 625,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 626,
+        "chicken-wellington-your-next-dinner-party-showstopper": 627,
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": 628,
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": 629,
+        "homemade-gelato-ice-cream-your-guide-to-italian-perfection": 630,
+        "seafood-chowmein-the-perfect-weeknight-delight": 631,
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 632,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 633,
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": 634
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 46
     }
   },
   "daily_selections": {
@@ -3479,6 +3620,18 @@
       "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
       "bacon-mushroom-pasta-easy-dinner-recipe",
       "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat"
+    ],
+    "2026-09-03": [
+      "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+      "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+      "chicken-wellington-your-next-dinner-party-showstopper",
+      "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+      "taco-sandwich-a-completeoy-new-take-on-sandwich",
+      "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
+      "seafood-chowmein-the-perfect-weeknight-delight",
+      "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "crispy-air-fryer-fried-pickles-super-easy-15-min-snack"
     ]
   }
 }
