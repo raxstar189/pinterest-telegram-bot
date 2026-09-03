@@ -95,7 +95,13 @@
     "https://newdecr.com/the-flavor-secret-behind-amazing-christmas-crockpot-candy/",
     "https://newdecr.com/sweet-tangy-garlic-herb-roasted-turkey-delight/",
     "https://newdecr.com/the-unforgettable-peppermint-bark-brownies-recipe/",
-    "https://newdecr.com/budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost/"
+    "https://newdecr.com/budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost/",
+    "https://newdecr.com/can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever/",
+    "https://newdecr.com/are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong/",
+    "https://newdecr.com/savory-umami-creamy-ravioli-soup-a-comforting-bowl/",
+    "https://newdecr.com/tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert/",
+    "https://newdecr.com/weekend-brunch-favorite-crispy-salt-and-vinegar-wings/",
+    "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1057,6 +1063,66 @@
       "first_seen_date": "2026-09-01",
       "is_new": false,
       "lastmod": "2026-09-01T09:42:03+00:00"
+    },
+    "can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever": {
+      "slug": "can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever",
+      "title": "Can Just 5 Ingredients Really Make the Best Corn Cheese Balls Ever",
+      "url": "https://newdecr.com/can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-03",
+      "is_new": true,
+      "lastmod": "2026-09-03T16:09:03+00:00"
+    },
+    "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong": {
+      "slug": "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong",
+      "title": "Are You Baking Your Pumpkin Cream Cheese Muffins All Wrong",
+      "url": "https://newdecr.com/are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-03",
+      "is_new": true,
+      "lastmod": "2026-09-03T16:20:17+00:00"
+    },
+    "savory-umami-creamy-ravioli-soup-a-comforting-bowl": {
+      "slug": "savory-umami-creamy-ravioli-soup-a-comforting-bowl",
+      "title": "Savory Umami Creamy Ravioli Soup a Comforting Bowl",
+      "url": "https://newdecr.com/savory-umami-creamy-ravioli-soup-a-comforting-bowl/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-03",
+      "is_new": true,
+      "lastmod": "2026-09-03T16:29:21+00:00"
+    },
+    "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": {
+      "slug": "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+      "title": "Tropical Mango Mousse Your Foolproof Guide to Perfect Dessert",
+      "url": "https://newdecr.com/tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-03",
+      "is_new": true,
+      "lastmod": "2026-09-03T16:39:00+00:00"
+    },
+    "weekend-brunch-favorite-crispy-salt-and-vinegar-wings": {
+      "slug": "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
+      "title": "Weekend Brunch Favorite Crispy Salt and Vinegar Wings",
+      "url": "https://newdecr.com/weekend-brunch-favorite-crispy-salt-and-vinegar-wings/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-03",
+      "is_new": true,
+      "lastmod": "2026-09-03T16:47:27+00:00"
+    },
+    "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": {
+      "slug": "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+      "title": "The Showstopping Halloween Cheesecake a Holiday Menu Hero",
+      "url": "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-03",
+      "is_new": true,
+      "lastmod": "2026-09-03T16:57:11+00:00"
     }
   },
   "pending_messages": {
