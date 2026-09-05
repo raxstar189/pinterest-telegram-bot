@@ -101,7 +101,12 @@
     "https://newdecr.com/savory-umami-creamy-ravioli-soup-a-comforting-bowl/",
     "https://newdecr.com/tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert/",
     "https://newdecr.com/weekend-brunch-favorite-crispy-salt-and-vinegar-wings/",
-    "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/"
+    "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/",
+    "https://newdecr.com/the-picky-eater-approved-strawberry-chia-pudding/",
+    "https://newdecr.com/light-zesty-completely-satisfying-crab-balls/",
+    "https://newdecr.com/tornado-potatoes-a-5-snack-with-50-restaurant-appeal/",
+    "https://newdecr.com/60-minute-weeknight-baked-potato-fluffy-crispy/",
+    "https://newdecr.com/mini-lunchbox-pizza-back-to-school-favorite/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1123,6 +1128,56 @@
       "first_seen_date": "2026-09-03",
       "is_new": true,
       "lastmod": "2026-09-03T16:57:11+00:00"
+    },
+    "the-picky-eater-approved-strawberry-chia-pudding": {
+      "slug": "the-picky-eater-approved-strawberry-chia-pudding",
+      "title": "The Picky Eater Approved Strawberry Chia Pudding",
+      "url": "https://newdecr.com/the-picky-eater-approved-strawberry-chia-pudding/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-05",
+      "is_new": true,
+      "lastmod": "2026-09-04T03:47:58+00:00"
+    },
+    "light-zesty-completely-satisfying-crab-balls": {
+      "slug": "light-zesty-completely-satisfying-crab-balls",
+      "title": "Light Zesty Completely Satisfying Crab Balls",
+      "url": "https://newdecr.com/light-zesty-completely-satisfying-crab-balls/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-05",
+      "is_new": true,
+      "lastmod": "2026-09-04T04:00:32+00:00"
+    },
+    "tornado-potatoes-a-5-snack-with-50-restaurant-appeal": {
+      "slug": "tornado-potatoes-a-5-snack-with-50-restaurant-appeal",
+      "title": "Tornado Potatoes a 5 Snack with 50 Restaurant Appeal",
+      "url": "https://newdecr.com/tornado-potatoes-a-5-snack-with-50-restaurant-appeal/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-05",
+      "is_new": true,
+      "lastmod": "2026-09-04T04:28:20+00:00"
+    },
+    "60-minute-weeknight-baked-potato-fluffy-crispy": {
+      "slug": "60-minute-weeknight-baked-potato-fluffy-crispy",
+      "title": "60 Minute Weeknight Baked Potato Fluffy Crispy",
+      "url": "https://newdecr.com/60-minute-weeknight-baked-potato-fluffy-crispy/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-05",
+      "is_new": true,
+      "lastmod": "2026-09-04T08:42:44+00:00"
+    },
+    "mini-lunchbox-pizza-back-to-school-favorite": {
+      "slug": "mini-lunchbox-pizza-back-to-school-favorite",
+      "title": "Mini Lunchbox Pizza Back to School Favorite",
+      "url": "https://newdecr.com/mini-lunchbox-pizza-back-to-school-favorite/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-05",
+      "is_new": true,
+      "lastmod": "2026-09-04T09:07:13+00:00"
     }
   },
   "pending_messages": {
@@ -3633,6 +3688,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 52
+    },
+    "2026-09-05": {
+      "date": "2026-09-05",
+      "recipes": [
+        {
+          "slug": "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+          "title": "Escape to the Tropics with This Easy Pina Colada Chia Pudding",
+          "url": "https://newdecr.com/escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding/",
+          "last_pinned_date": "2026-08-29",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:19:22+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
+          "title": "Weekend Brunch Favorite Crispy Salt and Vinegar Wings",
+          "url": "https://newdecr.com/weekend-brunch-favorite-crispy-salt-and-vinegar-wings/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-03",
+          "is_new": true,
+          "lastmod": "2026-09-03T16:47:27+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "classic-italian-lasagna-sharing-my-family-recipe",
+          "title": "Classic Italian Lasagna Sharing My Family Recipe",
+          "url": "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T16:47:36+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+          "title": "Crispy Air Fryer Shrimp Toast Easy Appetizer",
+          "url": "https://newdecr.com/crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer/",
+          "last_pinned_date": "2026-08-26",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:48:05+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits",
+          "title": "Make Perfect Easy Sponge Cake Your Fluffy Dreamy Dessert Awaits",
+          "url": "https://newdecr.com/make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits/",
+          "last_pinned_date": "2026-08-21",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-07T04:57:56+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+          "title": "Tropical Mango Mousse Your Foolproof Guide to Perfect Dessert",
+          "url": "https://newdecr.com/tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-03",
+          "is_new": true,
+          "lastmod": "2026-09-03T16:39:00+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "mini-lunchbox-pizza-back-to-school-favorite",
+          "title": "Mini Lunchbox Pizza Back to School Favorite",
+          "url": "https://newdecr.com/mini-lunchbox-pizza-back-to-school-favorite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-05",
+          "is_new": true,
+          "lastmod": "2026-09-04T09:07:13+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-real-thai-comfort-authentic-tom-yum-soup",
+          "title": "The Real Thai Comfort Authentic Tom Yum Soup",
+          "url": "https://newdecr.com/the-real-thai-comfort-authentic-tom-yum-soup/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-23T15:11:34+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": "2026-08-25",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": 11
+        }
+      ],
+      "itemStatuses": {
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": "pending",
+        "weekend-brunch-favorite-crispy-salt-and-vinegar-wings": "pending",
+        "classic-italian-lasagna-sharing-my-family-recipe": "pending",
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": "pending",
+        "make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits": "pending",
+        "air-fried-crispy-chicken-drumsticks": "pending",
+        "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": "pending",
+        "mini-lunchbox-pizza-back-to-school-favorite": "pending",
+        "the-real-thai-comfort-authentic-tom-yum-soup": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending"
+      },
+      "cardMessageIds": {
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": 649,
+        "weekend-brunch-favorite-crispy-salt-and-vinegar-wings": 650,
+        "classic-italian-lasagna-sharing-my-family-recipe": 651,
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": 652,
+        "make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits": 653,
+        "air-fried-crispy-chicken-drumsticks": 654,
+        "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": 655,
+        "mini-lunchbox-pizza-back-to-school-favorite": 656,
+        "the-real-thai-comfort-authentic-tom-yum-soup": 657,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 658
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 57
     }
   },
   "daily_selections": {
@@ -3851,6 +4047,18 @@
       "can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever",
       "hot-honey-shrimp-your-new-weeknight-obsession",
       "easy-to-make-spicy-sriracha-wings-for-dinner"
+    ],
+    "2026-09-05": [
+      "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+      "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
+      "classic-italian-lasagna-sharing-my-family-recipe",
+      "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+      "make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits",
+      "air-fried-crispy-chicken-drumsticks",
+      "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+      "mini-lunchbox-pizza-back-to-school-favorite",
+      "the-real-thai-comfort-authentic-tom-yum-soup",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite"
     ]
   }
 }
