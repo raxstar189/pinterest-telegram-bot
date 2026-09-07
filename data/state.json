@@ -3970,6 +3970,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 58
+    },
+    "2026-09-07": {
+      "date": "2026-09-07",
+      "recipes": [
+        {
+          "slug": "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+          "title": "This Cute Critter Cake for Kids Is Sure to Make Them Smile",
+          "url": "https://newdecr.com/this-cute-critter-cake-for-kids-is-sure-to-make-them-smile/",
+          "last_pinned_date": "2026-08-27",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:45:10+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+          "title": "Cowboy Butter Tortellini Nice Steak Bites Your New Weeknight Hero",
+          "url": "https://newdecr.com/cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-08-28",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:39+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+          "title": "The Showstopping Halloween Cheesecake a Holiday Menu Hero",
+          "url": "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-03",
+          "is_new": true,
+          "lastmod": "2026-09-03T16:57:11+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+          "title": "Air Fried Alfredo Chicken Pasta Your New Weeknight Obsession",
+          "url": "https://newdecr.com/air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-02T17:03:19+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "sweet-peach-lemonade-your-go-to-summer-sip",
+          "title": "Sweet Peach Lemonade Summer Sip",
+          "url": "https://newdecr.com/sweet-peach-lemonade-your-go-to-summer-sip/",
+          "last_pinned_date": "2026-08-26",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:22+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+          "title": "Cinnamon Roll Apple Lasagna the Upgraded Cinnamon Roll",
+          "url": "https://newdecr.com/cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll/",
+          "last_pinned_date": "2026-08-28",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:08:08+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "mini-lunchbox-pizza-back-to-school-favorite",
+          "title": "Mini Lunchbox Pizza Back to School Favorite",
+          "url": "https://newdecr.com/mini-lunchbox-pizza-back-to-school-favorite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T09:07:13+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+          "title": "The Unbelievably Delicious Homemade Granola Bars Youll Crave",
+          "url": "https://newdecr.com/the-unbelievably-delicious-homemade-granola-bars-youll-crave/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T15:59:39+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+          "title": "Beat the Heat with Refreshing Blue Raspberry Lemonade",
+          "url": "https://newdecr.com/beat-the-heat-with-refreshing-blue-raspberry-lemonade/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:28+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right",
+          "title": "My Go to One Pan Garlic Steak Tortellini Seriously Easy Dinner Done Right",
+          "url": "https://newdecr.com/my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-09T10:34:08+00:00",
+          "days_since_pinned": 8
+        }
+      ],
+      "itemStatuses": {
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": "pending",
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": "pending",
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": "pending",
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": "pending",
+        "sweet-peach-lemonade-your-go-to-summer-sip": "pending",
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": "pending",
+        "mini-lunchbox-pizza-back-to-school-favorite": "pending",
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": "pending",
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": "pending",
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": "pending"
+      },
+      "cardMessageIds": {
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": 673,
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": 674,
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": 675,
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": 676,
+        "sweet-peach-lemonade-your-go-to-summer-sip": 677,
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": 678,
+        "mini-lunchbox-pizza-back-to-school-favorite": 679,
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": 680,
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": 681,
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": 682
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 58
     }
   },
   "daily_selections": {
@@ -4212,6 +4353,18 @@
       "loaded-potato-taco-bowl-weeknight-obsession-justified",
       "the-picky-eater-approved-strawberry-chia-pudding",
       "light-zesty-completely-satisfying-crab-balls"
+    ],
+    "2026-09-07": [
+      "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+      "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+      "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+      "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+      "sweet-peach-lemonade-your-go-to-summer-sip",
+      "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+      "mini-lunchbox-pizza-back-to-school-favorite",
+      "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+      "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+      "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right"
     ]
   }
 }
