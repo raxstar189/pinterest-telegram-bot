@@ -4111,6 +4111,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 58
+    },
+    "2026-09-08": {
+      "date": "2026-09-08",
+      "recipes": [
+        {
+          "slug": "pumpkin-smores-very-unique-recipe",
+          "title": "Pumpkin Smores Very Unique Recipe",
+          "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+          "last_pinned_date": "2026-08-31",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:07:44+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+          "title": "Air Fryer Garlic Parmesan Shrimp Your New Weeknight Hero",
+          "url": "https://newdecr.com/air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-08-28",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:53+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+          "title": "Crispy Flavorful Easy Air Fried Chicken Bread Roll",
+          "url": "https://newdecr.com/crispy-flavorful-easy-air-fried-chicken-bread-roll/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-28T05:14:40+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "churu-chicken-amarillo-your-next-favorite-comfort-food",
+          "title": "Churu Chicken Amarillo Your Next Favorite Comfort Food",
+          "url": "https://newdecr.com/churu-chicken-amarillo-your-next-favorite-comfort-food/",
+          "last_pinned_date": "2026-08-21",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:58:18+00:00",
+          "days_since_pinned": 18
+        },
+        {
+          "slug": "sweet-potato-turkey-chili-fall-dinner-hack",
+          "title": "Sweet Potato Turkey Chili Fall Dinner Hack",
+          "url": "https://newdecr.com/sweet-potato-turkey-chili-fall-dinner-hack/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-06T13:30:48+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "how-i-made-the-perfect-cheeseburger",
+          "title": "How I Made Cheeseburger",
+          "url": "https://newdecr.com/how-i-made-the-perfect-cheeseburger/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:42:14+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+          "title": "The Best Vegan Pumpkin Spice Cake Youll Ever Bake",
+          "url": "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
+          "last_pinned_date": "2026-08-31",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T07:23:25+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost",
+          "title": "Budget Friendly Mummy Jalapeno Poppers 50 Taste 5 Cost",
+          "url": "https://newdecr.com/budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost/",
+          "last_pinned_date": "2026-09-02",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:42:03+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "seriously-good-garlic-cheese-bread-breakfast-done-right",
+          "title": "Garlic Cheese Bread Breakfast Done Right",
+          "url": "https://newdecr.com/seriously-good-garlic-cheese-bread-breakfast-done-right/",
+          "last_pinned_date": "2026-08-27",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:41+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "hearty-tomato-minced-beef-soup-recipe",
+          "title": "Hearty Tomato Minced Beef Soup Recipe",
+          "url": "https://newdecr.com/hearty-tomato-minced-beef-soup-recipe/",
+          "last_pinned_date": "2026-08-25",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:54+00:00",
+          "days_since_pinned": 14
+        }
+      ],
+      "itemStatuses": {
+        "pumpkin-smores-very-unique-recipe": "pending",
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": "pending",
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": "pending",
+        "churu-chicken-amarillo-your-next-favorite-comfort-food": "pending",
+        "sweet-potato-turkey-chili-fall-dinner-hack": "pending",
+        "how-i-made-the-perfect-cheeseburger": "pending",
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": "pending",
+        "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost": "pending",
+        "seriously-good-garlic-cheese-bread-breakfast-done-right": "pending",
+        "hearty-tomato-minced-beef-soup-recipe": "pending"
+      },
+      "cardMessageIds": {
+        "pumpkin-smores-very-unique-recipe": 684,
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": 685,
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": 686,
+        "churu-chicken-amarillo-your-next-favorite-comfort-food": 687,
+        "sweet-potato-turkey-chili-fall-dinner-hack": 688,
+        "how-i-made-the-perfect-cheeseburger": 689,
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": 690,
+        "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost": 691,
+        "seriously-good-garlic-cheese-bread-breakfast-done-right": 692,
+        "hearty-tomato-minced-beef-soup-recipe": 693
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 58
     }
   },
   "daily_selections": {
@@ -4365,6 +4506,18 @@
       "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
       "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
       "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right"
+    ],
+    "2026-09-08": [
+      "pumpkin-smores-very-unique-recipe",
+      "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+      "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+      "churu-chicken-amarillo-your-next-favorite-comfort-food",
+      "sweet-potato-turkey-chili-fall-dinner-hack",
+      "how-i-made-the-perfect-cheeseburger",
+      "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+      "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost",
+      "seriously-good-garlic-cheese-bread-breakfast-done-right",
+      "hearty-tomato-minced-beef-soup-recipe"
     ]
   }
 }
