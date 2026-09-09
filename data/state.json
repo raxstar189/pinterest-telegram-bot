@@ -4252,6 +4252,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 58
+    },
+    "2026-09-09": {
+      "date": "2026-09-09",
+      "recipes": [
+        {
+          "slug": "taco-sandwich-a-completeoy-new-take-on-sandwich",
+          "title": "Taco Sandwich a Completeoy New Take on Sandwich",
+          "url": "https://newdecr.com/taco-sandwich-a-completeoy-new-take-on-sandwich/",
+          "last_pinned_date": "2026-09-03",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T04:14:20+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
+          "title": "Whip Up This Restaurant Style Hot Honey Ranch Sauce at Home",
+          "url": "https://newdecr.com/whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home/",
+          "last_pinned_date": "2026-08-23",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:24+00:00",
+          "days_since_pinned": 17
+        },
+        {
+          "slug": "everyones-favorite-sweet-soft-spongy-honey-buns",
+          "title": "Everyones Favorite Sweet Soft Spongy Honey Buns",
+          "url": "https://newdecr.com/everyones-favorite-sweet-soft-spongy-honey-buns/",
+          "last_pinned_date": "2026-08-28",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T15:43:40+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit",
+          "title": "Your New Go to Simple Italian Pasta Salad Thats Always a Hit",
+          "url": "https://newdecr.com/your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit/",
+          "last_pinned_date": "2026-08-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:55:10+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "easy-french-dip-sliders-fun-and-easy-snacks-solution",
+          "title": "Easy French Dip Sliders Fun and Easy Snacks Solution",
+          "url": "https://newdecr.com/easy-french-dip-sliders-fun-and-easy-snacks-solution/",
+          "last_pinned_date": "2026-08-29",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T15:58:00+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+          "title": "Mushroom Stuffed Chicken Breast Your New Weeknight Favorite",
+          "url": "https://newdecr.com/mushroom-stuffed-chicken-breast-your-new-weeknight-favorite/",
+          "last_pinned_date": "2026-08-31",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:04:16+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+          "title": "Homemade Gulab Jamun Your Guide of Sweet Perfection of Indian Culture",
+          "url": "https://newdecr.com/homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture/",
+          "last_pinned_date": "2026-08-31",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T04:55:07+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+          "title": "Anytime Meal Crispy Air Fried Beef Dumplings",
+          "url": "https://newdecr.com/your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T03:22:59+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+          "title": "Hearty Italian Meatball Soup My Cherished Comfort Dish",
+          "url": "https://newdecr.com/hearty-italian-meatball-soup-my-cherished-comfort-dish/",
+          "last_pinned_date": "2026-08-29",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:47:38+00:00",
+          "days_since_pinned": 11
+        }
+      ],
+      "itemStatuses": {
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": "pending",
+        "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home": "pending",
+        "everyones-favorite-sweet-soft-spongy-honey-buns": "pending",
+        "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit": "pending",
+        "easy-french-dip-sliders-fun-and-easy-snacks-solution": "pending",
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": "pending",
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": "pending",
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending",
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": "pending"
+      },
+      "cardMessageIds": {
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": 695,
+        "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home": 696,
+        "everyones-favorite-sweet-soft-spongy-honey-buns": 697,
+        "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit": 698,
+        "easy-french-dip-sliders-fun-and-easy-snacks-solution": 699,
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": 700,
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": 701,
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": 702,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 703,
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": 704
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 58
     }
   },
   "daily_selections": {
@@ -4518,6 +4659,18 @@
       "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost",
       "seriously-good-garlic-cheese-bread-breakfast-done-right",
       "hearty-tomato-minced-beef-soup-recipe"
+    ],
+    "2026-09-09": [
+      "taco-sandwich-a-completeoy-new-take-on-sandwich",
+      "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
+      "everyones-favorite-sweet-soft-spongy-honey-buns",
+      "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit",
+      "easy-french-dip-sliders-fun-and-easy-snacks-solution",
+      "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+      "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+      "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe",
+      "hearty-italian-meatball-soup-my-cherished-comfort-dish"
     ]
   }
 }
