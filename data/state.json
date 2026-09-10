@@ -106,7 +106,9 @@
     "https://newdecr.com/light-zesty-completely-satisfying-crab-balls/",
     "https://newdecr.com/tornado-potatoes-a-5-snack-with-50-restaurant-appeal/",
     "https://newdecr.com/60-minute-weeknight-baked-potato-fluffy-crispy/",
-    "https://newdecr.com/mini-lunchbox-pizza-back-to-school-favorite/"
+    "https://newdecr.com/mini-lunchbox-pizza-back-to-school-favorite/",
+    "https://newdecr.com/delicious-wholesome-pumpkin-spice-latte-your-home-brew/",
+    "https://newdecr.com/sundays-best-turkey-leftover-sandwich-for-family-dinner/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1178,6 +1180,26 @@
       "first_seen_date": "2026-09-05",
       "is_new": false,
       "lastmod": "2026-09-04T09:07:13+00:00"
+    },
+    "delicious-wholesome-pumpkin-spice-latte-your-home-brew": {
+      "slug": "delicious-wholesome-pumpkin-spice-latte-your-home-brew",
+      "title": "Delicious Wholesome Pumpkin Spice Latte Your Home Brew",
+      "url": "https://newdecr.com/delicious-wholesome-pumpkin-spice-latte-your-home-brew/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-11",
+      "is_new": true,
+      "lastmod": "2026-09-10T17:46:13+00:00"
+    },
+    "sundays-best-turkey-leftover-sandwich-for-family-dinner": {
+      "slug": "sundays-best-turkey-leftover-sandwich-for-family-dinner",
+      "title": "Sundays Best Turkey Leftover Sandwich for Family Dinner",
+      "url": "https://newdecr.com/sundays-best-turkey-leftover-sandwich-for-family-dinner/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-11",
+      "is_new": true,
+      "lastmod": "2026-09-10T17:58:15+00:00"
     }
   },
   "pending_messages": {
@@ -4524,6 +4546,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 58
+    },
+    "2026-09-11": {
+      "date": "2026-09-11",
+      "recipes": [
+        {
+          "slug": "delicious-wholesome-pumpkin-spice-latte-your-home-brew",
+          "title": "Delicious Wholesome Pumpkin Spice Latte Your Home Brew",
+          "url": "https://newdecr.com/delicious-wholesome-pumpkin-spice-latte-your-home-brew/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-11",
+          "is_new": true,
+          "lastmod": "2026-09-10T17:46:13+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "sundays-best-turkey-leftover-sandwich-for-family-dinner",
+          "title": "Sundays Best Turkey Leftover Sandwich for Family Dinner",
+          "url": "https://newdecr.com/sundays-best-turkey-leftover-sandwich-for-family-dinner/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-11",
+          "is_new": true,
+          "lastmod": "2026-09-10T17:58:15+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": "2026-09-04",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "youll-never-make-bad-potato-wedges-ever-again",
+          "title": "Youll Never Make Bad Potato Wedges Ever Again",
+          "url": "https://newdecr.com/youll-never-make-bad-potato-wedges-ever-again/",
+          "last_pinned_date": "2026-08-29",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-26T07:10:06+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+          "title": "This Is the Best Chocolate Cake Recipe You Will Ever Make",
+          "url": "https://newdecr.com/this-is-the-best-chocolate-cake-recipe-you-will-ever-make/",
+          "last_pinned_date": "2026-08-29",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-20T09:29:27+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks",
+          "title": "Easy Duchess Potatoes Fluffy and Full of Flavor Evening Snacks",
+          "url": "https://newdecr.com/easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T14:45:04+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+          "title": "Crispy Garlic Parmesan Sweet Potato One of the Easiest Side Dish",
+          "url": "https://newdecr.com/crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-17T18:13:31+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+          "title": "Blueberry Cream Cheese Muffin Cake",
+          "url": "https://newdecr.com/your-new-favorite-blueberry-cream-cheese-muffin-cake/",
+          "last_pinned_date": "2026-09-03",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:25+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "classic-italian-lasagna-sharing-my-family-recipe",
+          "title": "Classic Italian Lasagna Sharing My Family Recipe",
+          "url": "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/",
+          "last_pinned_date": "2026-09-05",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T16:47:36+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "caramel-apple-pie-one-of-the-best-fall-dessert",
+          "title": "Caramel Apple Pie One of the Best Fall Dessert",
+          "url": "https://newdecr.com/caramel-apple-pie-one-of-the-best-fall-dessert/",
+          "last_pinned_date": "2026-08-29",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:59:04+00:00",
+          "days_since_pinned": 13
+        }
+      ],
+      "itemStatuses": {
+        "delicious-wholesome-pumpkin-spice-latte-your-home-brew": "pending",
+        "sundays-best-turkey-leftover-sandwich-for-family-dinner": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "youll-never-make-bad-potato-wedges-ever-again": "pending",
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": "pending",
+        "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": "pending",
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": "pending",
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": "pending",
+        "classic-italian-lasagna-sharing-my-family-recipe": "pending",
+        "caramel-apple-pie-one-of-the-best-fall-dessert": "pending"
+      },
+      "cardMessageIds": {
+        "delicious-wholesome-pumpkin-spice-latte-your-home-brew": 740,
+        "sundays-best-turkey-leftover-sandwich-for-family-dinner": 741,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 742,
+        "youll-never-make-bad-potato-wedges-ever-again": 743,
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 744,
+        "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": 745,
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": 746,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 747,
+        "classic-italian-lasagna-sharing-my-family-recipe": 748,
+        "caramel-apple-pie-one-of-the-best-fall-dessert": 749
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 59
     }
   },
   "daily_selections": {
@@ -4814,6 +4977,18 @@
       "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
       "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
       "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero"
+    ],
+    "2026-09-11": [
+      "delicious-wholesome-pumpkin-spice-latte-your-home-brew",
+      "sundays-best-turkey-leftover-sandwich-for-family-dinner",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "youll-never-make-bad-potato-wedges-ever-again",
+      "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+      "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks",
+      "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+      "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+      "classic-italian-lasagna-sharing-my-family-recipe",
+      "caramel-apple-pie-one-of-the-best-fall-dessert"
     ]
   }
 }
