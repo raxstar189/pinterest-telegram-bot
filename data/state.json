@@ -4393,6 +4393,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 58
+    },
+    "2026-09-10": {
+      "date": "2026-09-10",
+      "recipes": [
+        {
+          "slug": "seafood-chowmein-the-perfect-weeknight-delight",
+          "title": "Seafood Chowmein Weeknight Delight",
+          "url": "https://newdecr.com/seafood-chowmein-the-perfect-weeknight-delight/",
+          "last_pinned_date": "2026-09-03",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-29T13:49:12+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+          "title": "Corndog Crispy Golden and Totally Delicious",
+          "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
+          "last_pinned_date": "2026-08-29",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:57+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+          "title": "Ghost Oreo Balls Spooky Sweet Treats for Halloween",
+          "url": "https://newdecr.com/ghost-oreo-balls-spooky-sweet-treats-for-halloween/",
+          "last_pinned_date": "2026-09-02",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:45:21+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": "2026-09-03",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "versatile-mini-pancake-bites-perfect-for-any-meal",
+          "title": "Versatile Mini Pancake Bites Perfect for Any Meal",
+          "url": "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:01:05+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+          "title": "Surely Better Than Takeout Crispy Juicy Homemade Chicken Nuggets",
+          "url": "https://newdecr.com/surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets/",
+          "last_pinned_date": "2026-08-31",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-30T09:44:58+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+          "title": "Bacon Ranch Chopped Salad Your New Weeknight Hero",
+          "url": "https://newdecr.com/bacon-ranch-chopped-salad-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-08-31",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:53:04+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
+          "title": "One Pot Pumpkin Mac and Cheese My New Fall Favorite",
+          "url": "https://newdecr.com/one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite/",
+          "last_pinned_date": "2026-08-26",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-06T12:49:15+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+          "title": "Your New Favourite Crispy Air Fried Chicken Stuffed Buns",
+          "url": "https://newdecr.com/your-new-favourite-crispy-air-fried-chicken-stuffed-buns/",
+          "last_pinned_date": "2026-09-03",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T08:55:39+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero",
+          "title": "Hearty Sausage Egg and Cheese Breakfast Casserole Your Weekend Brunch Hero",
+          "url": "https://newdecr.com/hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero/",
+          "last_pinned_date": "2026-08-28",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T19:28:55+00:00",
+          "days_since_pinned": 13
+        }
+      ],
+      "itemStatuses": {
+        "seafood-chowmein-the-perfect-weeknight-delight": "pending",
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending",
+        "ghost-oreo-balls-spooky-sweet-treats-for-halloween": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending",
+        "versatile-mini-pancake-bites-perfect-for-any-meal": "pending",
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": "pending",
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": "pending",
+        "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite": "pending",
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": "pending",
+        "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero": "pending"
+      },
+      "cardMessageIds": {
+        "seafood-chowmein-the-perfect-weeknight-delight": 706,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 707,
+        "ghost-oreo-balls-spooky-sweet-treats-for-halloween": 708,
+        "chicken-wellington-your-next-dinner-party-showstopper": 709,
+        "versatile-mini-pancake-bites-perfect-for-any-meal": 710,
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": 711,
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": 712,
+        "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite": 713,
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 714,
+        "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero": 715
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 58
     }
   },
   "daily_selections": {
@@ -4671,6 +4812,18 @@
       "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
       "easy-to-make-asian-style-beef-crescent-roll-recipe",
       "hearty-italian-meatball-soup-my-cherished-comfort-dish"
+    ],
+    "2026-09-10": [
+      "seafood-chowmein-the-perfect-weeknight-delight",
+      "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+      "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+      "chicken-wellington-your-next-dinner-party-showstopper",
+      "versatile-mini-pancake-bites-perfect-for-any-meal",
+      "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+      "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+      "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
+      "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+      "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero"
     ]
   }
 }
