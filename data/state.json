@@ -108,7 +108,11 @@
     "https://newdecr.com/60-minute-weeknight-baked-potato-fluffy-crispy/",
     "https://newdecr.com/mini-lunchbox-pizza-back-to-school-favorite/",
     "https://newdecr.com/delicious-wholesome-pumpkin-spice-latte-your-home-brew/",
-    "https://newdecr.com/sundays-best-turkey-leftover-sandwich-for-family-dinner/"
+    "https://newdecr.com/sundays-best-turkey-leftover-sandwich-for-family-dinner/",
+    "https://newdecr.com/make-ahead-friendly-spider-deviled-eggs-a-spooky-treat/",
+    "https://newdecr.com/unforgettably-flavorful-strawberry-cream-cheese-muffins/",
+    "https://newdecr.com/no-fuss-gingerbread-cookies-chewy-spicy-perfection/",
+    "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1200,6 +1204,46 @@
       "first_seen_date": "2026-09-11",
       "is_new": true,
       "lastmod": "2026-09-10T17:58:15+00:00"
+    },
+    "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat": {
+      "slug": "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat",
+      "title": "Make Ahead Friendly Spider Deviled Eggs a Spooky Treat",
+      "url": "https://newdecr.com/make-ahead-friendly-spider-deviled-eggs-a-spooky-treat/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-11",
+      "is_new": true,
+      "lastmod": "2026-09-10T18:11:04+00:00"
+    },
+    "unforgettably-flavorful-strawberry-cream-cheese-muffins": {
+      "slug": "unforgettably-flavorful-strawberry-cream-cheese-muffins",
+      "title": "Unforgettably Flavorful Strawberry Cream Cheese Muffins",
+      "url": "https://newdecr.com/unforgettably-flavorful-strawberry-cream-cheese-muffins/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-11",
+      "is_new": true,
+      "lastmod": "2026-09-10T18:27:45+00:00"
+    },
+    "no-fuss-gingerbread-cookies-chewy-spicy-perfection": {
+      "slug": "no-fuss-gingerbread-cookies-chewy-spicy-perfection",
+      "title": "No Fuss Gingerbread Cookies Chewy Spicy Perfection",
+      "url": "https://newdecr.com/no-fuss-gingerbread-cookies-chewy-spicy-perfection/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-11",
+      "is_new": true,
+      "lastmod": "2026-09-10T18:55:23+00:00"
+    },
+    "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": {
+      "slug": "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+      "title": "Your New Signature Blueberry Cobbler the Simple Sweet Treat",
+      "url": "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-11",
+      "is_new": true,
+      "lastmod": "2026-09-10T19:06:04+00:00"
     }
   },
   "pending_messages": {
@@ -4558,8 +4602,7 @@
           "times_pinned": 0,
           "first_seen_date": "2026-09-11",
           "is_new": true,
-          "lastmod": "2026-09-10T17:46:13+00:00",
-          "days_since_pinned": null
+          "lastmod": "2026-09-10T17:46:13+00:00"
         },
         {
           "slug": "sundays-best-turkey-leftover-sandwich-for-family-dinner",
@@ -4569,8 +4612,7 @@
           "times_pinned": 0,
           "first_seen_date": "2026-09-11",
           "is_new": true,
-          "lastmod": "2026-09-10T17:58:15+00:00",
-          "days_since_pinned": null
+          "lastmod": "2026-09-10T17:58:15+00:00"
         },
         {
           "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
@@ -4580,8 +4622,7 @@
           "times_pinned": 2,
           "first_seen_date": "2026-08-26",
           "is_new": false,
-          "lastmod": "2026-08-26T05:30:26+00:00",
-          "days_since_pinned": 7
+          "lastmod": "2026-08-26T05:30:26+00:00"
         },
         {
           "slug": "youll-never-make-bad-potato-wedges-ever-again",
@@ -4591,8 +4632,7 @@
           "times_pinned": 2,
           "first_seen_date": "2026-08-18",
           "is_new": false,
-          "lastmod": "2026-04-26T07:10:06+00:00",
-          "days_since_pinned": 13
+          "lastmod": "2026-04-26T07:10:06+00:00"
         },
         {
           "slug": "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
@@ -4602,8 +4642,7 @@
           "times_pinned": 2,
           "first_seen_date": "2026-08-18",
           "is_new": false,
-          "lastmod": "2026-07-20T09:29:27+00:00",
-          "days_since_pinned": 13
+          "lastmod": "2026-07-20T09:29:27+00:00"
         },
         {
           "slug": "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks",
@@ -4613,8 +4652,7 @@
           "times_pinned": 1,
           "first_seen_date": "2026-08-31",
           "is_new": false,
-          "lastmod": "2026-08-31T14:45:04+00:00",
-          "days_since_pinned": 10
+          "lastmod": "2026-08-31T14:45:04+00:00"
         },
         {
           "slug": "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
@@ -4624,8 +4662,7 @@
           "times_pinned": 2,
           "first_seen_date": "2026-08-18",
           "is_new": false,
-          "lastmod": "2026-08-17T18:13:31+00:00",
-          "days_since_pinned": 10
+          "lastmod": "2026-08-17T18:13:31+00:00"
         },
         {
           "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
@@ -4635,8 +4672,7 @@
           "times_pinned": 2,
           "first_seen_date": "2026-08-18",
           "is_new": false,
-          "lastmod": "2026-04-20T19:51:25+00:00",
-          "days_since_pinned": 8
+          "lastmod": "2026-04-20T19:51:25+00:00"
         },
         {
           "slug": "classic-italian-lasagna-sharing-my-family-recipe",
@@ -4646,8 +4682,7 @@
           "times_pinned": 2,
           "first_seen_date": "2026-08-21",
           "is_new": false,
-          "lastmod": "2026-08-21T16:47:36+00:00",
-          "days_since_pinned": 6
+          "lastmod": "2026-08-21T16:47:36+00:00"
         },
         {
           "slug": "caramel-apple-pie-one-of-the-best-fall-dessert",
@@ -4657,8 +4692,7 @@
           "times_pinned": 1,
           "first_seen_date": "2026-08-28",
           "is_new": false,
-          "lastmod": "2026-08-27T16:59:04+00:00",
-          "days_since_pinned": 13
+          "lastmod": "2026-08-27T16:59:04+00:00"
         }
       ],
       "itemStatuses": {
@@ -4674,19 +4708,19 @@
         "caramel-apple-pie-one-of-the-best-fall-dessert": "pending"
       },
       "cardMessageIds": {
-        "delicious-wholesome-pumpkin-spice-latte-your-home-brew": 740,
-        "sundays-best-turkey-leftover-sandwich-for-family-dinner": 741,
-        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 742,
-        "youll-never-make-bad-potato-wedges-ever-again": 743,
-        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 744,
-        "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": 745,
-        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": 746,
-        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 747,
-        "classic-italian-lasagna-sharing-my-family-recipe": 748,
-        "caramel-apple-pie-one-of-the-best-fall-dessert": 749
+        "delicious-wholesome-pumpkin-spice-latte-your-home-brew": 751,
+        "sundays-best-turkey-leftover-sandwich-for-family-dinner": 752,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 753,
+        "youll-never-make-bad-potato-wedges-ever-again": 754,
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 755,
+        "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": 756,
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": 757,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 758,
+        "classic-italian-lasagna-sharing-my-family-recipe": 759,
+        "caramel-apple-pie-one-of-the-best-fall-dessert": 760
       },
       "thinPoolWarning": false,
-      "eligiblePoolSize": 59
+      "eligiblePoolSize": 63
     }
   },
   "daily_selections": {
