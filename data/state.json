@@ -112,7 +112,8 @@
     "https://newdecr.com/make-ahead-friendly-spider-deviled-eggs-a-spooky-treat/",
     "https://newdecr.com/unforgettably-flavorful-strawberry-cream-cheese-muffins/",
     "https://newdecr.com/no-fuss-gingerbread-cookies-chewy-spicy-perfection/",
-    "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/"
+    "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/",
+    "https://newdecr.com/the-cant-fail-garlic-mashed-potatoes-recipe/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1244,6 +1245,16 @@
       "first_seen_date": "2026-09-11",
       "is_new": true,
       "lastmod": "2026-09-10T19:06:04+00:00"
+    },
+    "the-cant-fail-garlic-mashed-potatoes-recipe": {
+      "slug": "the-cant-fail-garlic-mashed-potatoes-recipe",
+      "title": "The Cant Fail Garlic Mashed Potatoes Recipe",
+      "url": "https://newdecr.com/the-cant-fail-garlic-mashed-potatoes-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-12",
+      "is_new": true,
+      "lastmod": "2026-09-11T06:49:03+00:00"
     }
   },
   "pending_messages": {
@@ -4721,6 +4732,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 63
+    },
+    "2026-09-12": {
+      "date": "2026-09-12",
+      "recipes": [
+        {
+          "slug": "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+          "title": "Crispy Air Fried Chicken Dumplings Current New Favorite Appetiser",
+          "url": "https://newdecr.com/crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser/",
+          "last_pinned_date": "2026-08-27",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T04:07:10+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "savory-umami-creamy-ravioli-soup-a-comforting-bowl",
+          "title": "Savory Umami Creamy Ravioli Soup a Comforting Bowl",
+          "url": "https://newdecr.com/savory-umami-creamy-ravioli-soup-a-comforting-bowl/",
+          "last_pinned_date": "2026-09-04",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:29:21+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "the-cant-fail-garlic-mashed-potatoes-recipe",
+          "title": "The Cant Fail Garlic Mashed Potatoes Recipe",
+          "url": "https://newdecr.com/the-cant-fail-garlic-mashed-potatoes-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-12",
+          "is_new": true,
+          "lastmod": "2026-09-11T06:49:03+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong",
+          "title": "Are You Baking Your Pumpkin Cream Cheese Muffins All Wrong",
+          "url": "https://newdecr.com/are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong/",
+          "last_pinned_date": "2026-09-04",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:20:17+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "no-fuss-gingerbread-cookies-chewy-spicy-perfection",
+          "title": "No Fuss Gingerbread Cookies Chewy Spicy Perfection",
+          "url": "https://newdecr.com/no-fuss-gingerbread-cookies-chewy-spicy-perfection/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-11",
+          "is_new": true,
+          "lastmod": "2026-09-10T18:55:23+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat",
+          "title": "Make Ahead Friendly Spider Deviled Eggs a Spooky Treat",
+          "url": "https://newdecr.com/make-ahead-friendly-spider-deviled-eggs-a-spooky-treat/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-11",
+          "is_new": true,
+          "lastmod": "2026-09-10T18:11:04+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+          "title": "Rum Soaked Fried Pineapple Tropical Treat",
+          "url": "https://newdecr.com/rum-soaked-fried-pineapple-your-new-favorite-tropical-treat/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-11T06:19:31+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "the-real-thai-comfort-authentic-tom-yum-soup",
+          "title": "The Real Thai Comfort Authentic Tom Yum Soup",
+          "url": "https://newdecr.com/the-real-thai-comfort-authentic-tom-yum-soup/",
+          "last_pinned_date": "2026-09-05",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-23T15:11:34+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time",
+          "title": "Sheet Pan Chicken Pita Lifesaver When You Have Little Time",
+          "url": "https://newdecr.com/sheet-pan-chicken-pita-lifesaver-when-you-have-little-time/",
+          "last_pinned_date": "2026-08-28",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T04:03:33+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "unforgettably-flavorful-strawberry-cream-cheese-muffins",
+          "title": "Unforgettably Flavorful Strawberry Cream Cheese Muffins",
+          "url": "https://newdecr.com/unforgettably-flavorful-strawberry-cream-cheese-muffins/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-11",
+          "is_new": true,
+          "lastmod": "2026-09-10T18:27:45+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": "pending",
+        "savory-umami-creamy-ravioli-soup-a-comforting-bowl": "pending",
+        "the-cant-fail-garlic-mashed-potatoes-recipe": "pending",
+        "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong": "pending",
+        "no-fuss-gingerbread-cookies-chewy-spicy-perfection": "pending",
+        "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat": "pending",
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": "pending",
+        "the-real-thai-comfort-authentic-tom-yum-soup": "pending",
+        "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time": "pending",
+        "unforgettably-flavorful-strawberry-cream-cheese-muffins": "pending"
+      },
+      "cardMessageIds": {
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": 762,
+        "savory-umami-creamy-ravioli-soup-a-comforting-bowl": 763,
+        "the-cant-fail-garlic-mashed-potatoes-recipe": 764,
+        "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong": 765,
+        "no-fuss-gingerbread-cookies-chewy-spicy-perfection": 766,
+        "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat": 767,
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 768,
+        "the-real-thai-comfort-authentic-tom-yum-soup": 769,
+        "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time": 770,
+        "unforgettably-flavorful-strawberry-cream-cheese-muffins": 771
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 64
     }
   },
   "daily_selections": {
@@ -5023,6 +5175,18 @@
       "your-new-favorite-blueberry-cream-cheese-muffin-cake",
       "classic-italian-lasagna-sharing-my-family-recipe",
       "caramel-apple-pie-one-of-the-best-fall-dessert"
+    ],
+    "2026-09-12": [
+      "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+      "savory-umami-creamy-ravioli-soup-a-comforting-bowl",
+      "the-cant-fail-garlic-mashed-potatoes-recipe",
+      "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong",
+      "no-fuss-gingerbread-cookies-chewy-spicy-perfection",
+      "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat",
+      "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+      "the-real-thai-comfort-authentic-tom-yum-soup",
+      "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time",
+      "unforgettably-flavorful-strawberry-cream-cheese-muffins"
     ]
   }
 }
