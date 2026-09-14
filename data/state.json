@@ -5015,6 +5015,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 65
+    },
+    "2026-09-14": {
+      "date": "2026-09-14",
+      "recipes": [
+        {
+          "slug": "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat",
+          "title": "Easy Ham and Cheese Muffins Grab and Go Treat",
+          "url": "https://newdecr.com/easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat/",
+          "last_pinned_date": "2026-09-02",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:28:05+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+          "title": "Air Fried Alfredo Chicken Pasta Your New Weeknight Obsession",
+          "url": "https://newdecr.com/air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-09-07",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-02T17:03:19+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+          "title": "Fresh Mango Crepe Rolls Smooth and Buttery Dessert",
+          "url": "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:12:07+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+          "title": "The Showstopping Halloween Cheesecake a Holiday Menu Hero",
+          "url": "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/",
+          "last_pinned_date": "2026-09-07",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:57:11+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "key-lime-pound-cake-your-new-zesty-obsession",
+          "title": "Key Lime Pound Cake Your New Zesty Obsession",
+          "url": "https://newdecr.com/key-lime-pound-cake-your-new-zesty-obsession/",
+          "last_pinned_date": "2026-09-06",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:59+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea",
+          "title": "Creamy Marry Me Tuscan Chicken Soup Fall Season Date Night Favoritea",
+          "url": "https://newdecr.com/creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea/",
+          "last_pinned_date": "2026-09-04",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-09T17:09:13+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+          "title": "Crispy Flavorful Easy Air Fried Chicken Bread Roll",
+          "url": "https://newdecr.com/crispy-flavorful-easy-air-fried-chicken-bread-roll/",
+          "last_pinned_date": "2026-09-08",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-28T05:14:40+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "nutella-cookies-pie-my-childrens-new-fav",
+          "title": "Nutella Cookies Pie My Childrens New Fav",
+          "url": "https://newdecr.com/nutella-cookies-pie-my-childrens-new-fav/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T06:17:18+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+          "title": "Meal Authentic Middle Eastern Beef Shawarma",
+          "url": "https://newdecr.com/your-new-favorite-meal-authentic-middle-eastern-beef-shawarma/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-14T13:54:09+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "the-unforgettable-peppermint-bark-brownies-recipe",
+          "title": "The Unforgettable Peppermint Bark Brownies Recipe",
+          "url": "https://newdecr.com/the-unforgettable-peppermint-bark-brownies-recipe/",
+          "last_pinned_date": "2026-09-02",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:32:31+00:00",
+          "days_since_pinned": 12
+        }
+      ],
+      "itemStatuses": {
+        "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat": "pending",
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": "pending",
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": "pending",
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": "pending",
+        "key-lime-pound-cake-your-new-zesty-obsession": "pending",
+        "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea": "pending",
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": "pending",
+        "nutella-cookies-pie-my-childrens-new-fav": "pending",
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": "pending",
+        "the-unforgettable-peppermint-bark-brownies-recipe": "pending"
+      },
+      "cardMessageIds": {
+        "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat": 796,
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": 797,
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": 798,
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": 799,
+        "key-lime-pound-cake-your-new-zesty-obsession": 800,
+        "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea": 801,
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": 802,
+        "nutella-cookies-pie-my-childrens-new-fav": 803,
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": 804,
+        "the-unforgettable-peppermint-bark-brownies-recipe": 805
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 65
     }
   },
   "daily_selections": {
@@ -5341,6 +5482,18 @@
       "60-minute-weeknight-baked-potato-fluffy-crispy",
       "air-fryer-crispy-mini-blooming-onions",
       "get-ready-for-the-best-homemade-soft-pretzel-bites"
+    ],
+    "2026-09-14": [
+      "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat",
+      "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+      "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+      "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+      "key-lime-pound-cake-your-new-zesty-obsession",
+      "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea",
+      "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+      "nutella-cookies-pie-my-childrens-new-fav",
+      "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+      "the-unforgettable-peppermint-bark-brownies-recipe"
     ]
   }
 }
