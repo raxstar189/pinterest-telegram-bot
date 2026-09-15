@@ -114,7 +114,11 @@
     "https://newdecr.com/no-fuss-gingerbread-cookies-chewy-spicy-perfection/",
     "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/",
     "https://newdecr.com/the-cant-fail-garlic-mashed-potatoes-recipe/",
-    "https://newdecr.com/mess-free-classic-pecan-pie-a-clean-kitchen-bake/"
+    "https://newdecr.com/mess-free-classic-pecan-pie-a-clean-kitchen-bake/",
+    "https://newdecr.com/biscoff-cheesecake-your-favorite-cozy-cafe-dessert/",
+    "https://newdecr.com/how-restaurant-chefs-make-a-perfect-prime-rib-roast/",
+    "https://newdecr.com/shareable-irresistible-crab-rangoon-rolls-recipe/",
+    "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1266,6 +1270,46 @@
       "first_seen_date": "2026-09-13",
       "is_new": true,
       "lastmod": "2026-09-12T08:23:17+00:00"
+    },
+    "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": {
+      "slug": "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+      "title": "Biscoff Cheesecake Your Favorite Cozy Cafe Dessert",
+      "url": "https://newdecr.com/biscoff-cheesecake-your-favorite-cozy-cafe-dessert/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-15",
+      "is_new": true,
+      "lastmod": "2026-09-14T18:29:22+00:00"
+    },
+    "how-restaurant-chefs-make-a-perfect-prime-rib-roast": {
+      "slug": "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+      "title": "How Restaurant Chefs Make a Perfect Prime Rib Roast",
+      "url": "https://newdecr.com/how-restaurant-chefs-make-a-perfect-prime-rib-roast/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-15",
+      "is_new": true,
+      "lastmod": "2026-09-14T18:37:38+00:00"
+    },
+    "shareable-irresistible-crab-rangoon-rolls-recipe": {
+      "slug": "shareable-irresistible-crab-rangoon-rolls-recipe",
+      "title": "Shareable Irresistible Crab Rangoon Rolls Recipe",
+      "url": "https://newdecr.com/shareable-irresistible-crab-rangoon-rolls-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-15",
+      "is_new": true,
+      "lastmod": "2026-09-14T18:47:45+00:00"
+    },
+    "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": {
+      "slug": "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+      "title": "Time Saving Scalloped Potatoes Rich Flavor Zero Compromise",
+      "url": "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-15",
+      "is_new": true,
+      "lastmod": "2026-09-14T18:58:18+00:00"
     }
   },
   "pending_messages": {
@@ -5156,6 +5200,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 65
+    },
+    "2026-09-15": {
+      "date": "2026-09-15",
+      "recipes": [
+        {
+          "slug": "hot-honey-shrimp-your-new-weeknight-obsession",
+          "title": "Hot Honey Shrimp Your New Weeknight Obsession",
+          "url": "https://newdecr.com/hot-honey-shrimp-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-09-04",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:08+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+          "title": "Time Saving Scalloped Potatoes Rich Flavor Zero Compromise",
+          "url": "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-15",
+          "is_new": true,
+          "lastmod": "2026-09-14T18:58:18+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "loaded-potato-taco-bowl-weeknight-obsession-justified",
+          "title": "Loaded Potato Taco Bowl Weeknight Obsession Justified",
+          "url": "https://newdecr.com/loaded-potato-taco-bowl-weeknight-obsession-justified/",
+          "last_pinned_date": "2026-09-06",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T16:27:24+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "shareable-irresistible-crab-rangoon-rolls-recipe",
+          "title": "Shareable Irresistible Crab Rangoon Rolls Recipe",
+          "url": "https://newdecr.com/shareable-irresistible-crab-rangoon-rolls-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-15",
+          "is_new": true,
+          "lastmod": "2026-09-14T18:47:45+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+          "title": "Crispy Air Fryer Fried Pickles Super Easy 15 Min Snack",
+          "url": "https://newdecr.com/crispy-air-fryer-fried-pickles-super-easy-15-min-snack/",
+          "last_pinned_date": "2026-09-03",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-16T20:16:49+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "easy-to-make-spicy-sriracha-wings-for-dinner",
+          "title": "Easy to Make Spicy Sriracha Wings for Dinner",
+          "url": "https://newdecr.com/easy-to-make-spicy-sriracha-wings-for-dinner/",
+          "last_pinned_date": "2026-09-04",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-03T09:12:28+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "fudgy-irresistible-red-velvet-brownies",
+          "title": "Fudgy Irresistible Red Velvet Brownies",
+          "url": "https://newdecr.com/fudgy-irresistible-red-velvet-brownies/",
+          "last_pinned_date": "2026-08-29",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:32:16+00:00",
+          "days_since_pinned": 17
+        },
+        {
+          "slug": "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+          "title": "Mushroom Stuffed Chicken Breast Your New Weeknight Favorite",
+          "url": "https://newdecr.com/mushroom-stuffed-chicken-breast-your-new-weeknight-favorite/",
+          "last_pinned_date": "2026-09-09",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:04:16+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
+          "title": "The Best Chicken Avocado Cherry Tomato Salad Easy Fresh",
+          "url": "https://newdecr.com/the-best-chicken-avocado-cherry-tomato-salad-easy-fresh/",
+          "last_pinned_date": "2026-08-26",
+          "times_pinned": 1,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:00+00:00",
+          "days_since_pinned": 20
+        },
+        {
+          "slug": "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal",
+          "title": "Sweet and Spicy Jalapeno Raspberry Chicken Weeknight Meal",
+          "url": "https://newdecr.com/sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal/",
+          "last_pinned_date": "2026-08-28",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-08T19:04:49+00:00",
+          "days_since_pinned": 18
+        }
+      ],
+      "itemStatuses": {
+        "hot-honey-shrimp-your-new-weeknight-obsession": "pending",
+        "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": "pending",
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": "pending",
+        "shareable-irresistible-crab-rangoon-rolls-recipe": "pending",
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": "pending",
+        "easy-to-make-spicy-sriracha-wings-for-dinner": "pending",
+        "fudgy-irresistible-red-velvet-brownies": "pending",
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": "pending",
+        "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh": "pending",
+        "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": "pending"
+      },
+      "cardMessageIds": {
+        "hot-honey-shrimp-your-new-weeknight-obsession": 807,
+        "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": 808,
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": 809,
+        "shareable-irresistible-crab-rangoon-rolls-recipe": 810,
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": 811,
+        "easy-to-make-spicy-sriracha-wings-for-dinner": 812,
+        "fudgy-irresistible-red-velvet-brownies": 813,
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": 814,
+        "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh": 815,
+        "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": 816
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 69
     }
   },
   "daily_selections": {
@@ -5494,6 +5679,18 @@
       "nutella-cookies-pie-my-childrens-new-fav",
       "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
       "the-unforgettable-peppermint-bark-brownies-recipe"
+    ],
+    "2026-09-15": [
+      "hot-honey-shrimp-your-new-weeknight-obsession",
+      "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+      "loaded-potato-taco-bowl-weeknight-obsession-justified",
+      "shareable-irresistible-crab-rangoon-rolls-recipe",
+      "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+      "easy-to-make-spicy-sriracha-wings-for-dinner",
+      "fudgy-irresistible-red-velvet-brownies",
+      "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+      "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
+      "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal"
     ]
   }
 }
