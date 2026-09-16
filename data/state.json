@@ -118,7 +118,10 @@
     "https://newdecr.com/biscoff-cheesecake-your-favorite-cozy-cafe-dessert/",
     "https://newdecr.com/how-restaurant-chefs-make-a-perfect-prime-rib-roast/",
     "https://newdecr.com/shareable-irresistible-crab-rangoon-rolls-recipe/",
-    "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/"
+    "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/",
+    "https://newdecr.com/spooky-witch-finger-cookies-a-family-sunday-dinner-treat/",
+    "https://newdecr.com/ditch-the-store-bake-your-best-homemade-carrot-cake/",
+    "https://newdecr.com/cajun-hot-honey-shrimp-better-than-storebought-so-easy/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1310,6 +1313,36 @@
       "first_seen_date": "2026-09-15",
       "is_new": false,
       "lastmod": "2026-09-14T18:58:18+00:00"
+    },
+    "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": {
+      "slug": "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+      "title": "Spooky Witch Finger Cookies a Family Sunday Dinner Treat",
+      "url": "https://newdecr.com/spooky-witch-finger-cookies-a-family-sunday-dinner-treat/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-16",
+      "is_new": true,
+      "lastmod": "2026-09-15T04:46:01+00:00"
+    },
+    "ditch-the-store-bake-your-best-homemade-carrot-cake": {
+      "slug": "ditch-the-store-bake-your-best-homemade-carrot-cake",
+      "title": "Ditch the Store Bake Your Best Homemade Carrot Cake",
+      "url": "https://newdecr.com/ditch-the-store-bake-your-best-homemade-carrot-cake/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-16",
+      "is_new": true,
+      "lastmod": "2026-09-15T04:57:06+00:00"
+    },
+    "cajun-hot-honey-shrimp-better-than-storebought-so-easy": {
+      "slug": "cajun-hot-honey-shrimp-better-than-storebought-so-easy",
+      "title": "Cajun Hot Honey Shrimp Better Than Storebought So Easy",
+      "url": "https://newdecr.com/cajun-hot-honey-shrimp-better-than-storebought-so-easy/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-16",
+      "is_new": true,
+      "lastmod": "2026-09-15T05:25:23+00:00"
     }
   },
   "pending_messages": {
@@ -5341,6 +5374,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 69
+    },
+    "2026-09-16": {
+      "date": "2026-09-16",
+      "recipes": [
+        {
+          "slug": "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+          "title": "How Restaurant Chefs Make a Perfect Prime Rib Roast",
+          "url": "https://newdecr.com/how-restaurant-chefs-make-a-perfect-prime-rib-roast/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-15",
+          "is_new": true,
+          "lastmod": "2026-09-14T18:37:38+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "cajun-hot-honey-shrimp-better-than-storebought-so-easy",
+          "title": "Cajun Hot Honey Shrimp Better Than Storebought So Easy",
+          "url": "https://newdecr.com/cajun-hot-honey-shrimp-better-than-storebought-so-easy/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-16",
+          "is_new": true,
+          "lastmod": "2026-09-15T05:25:23+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+          "title": "Mess Free Classic Pecan Pie a Clean Kitchen Bake",
+          "url": "https://newdecr.com/mess-free-classic-pecan-pie-a-clean-kitchen-bake/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-13",
+          "is_new": true,
+          "lastmod": "2026-09-12T08:23:17+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+          "title": "The Flavor Secret Behind Amazing Christmas Crockpot Candy",
+          "url": "https://newdecr.com/the-flavor-secret-behind-amazing-christmas-crockpot-candy/",
+          "last_pinned_date": "2026-09-02",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T04:51:50+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": "2026-09-05",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "how-to-make-puff-pastry-patties-in-haitian-style",
+          "title": "Puff Pastry Patties in Haitian Style",
+          "url": "https://newdecr.com/how-to-make-puff-pastry-patties-in-haitian-style/",
+          "last_pinned_date": "2026-09-01",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-02T17:38:23+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+          "title": "Hearty Italian Meatball Soup My Cherished Comfort Dish",
+          "url": "https://newdecr.com/hearty-italian-meatball-soup-my-cherished-comfort-dish/",
+          "last_pinned_date": "2026-09-09",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:47:38+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "light-zesty-completely-satisfying-crab-balls",
+          "title": "Light Zesty Completely Satisfying Crab Balls",
+          "url": "https://newdecr.com/light-zesty-completely-satisfying-crab-balls/",
+          "last_pinned_date": "2026-09-06",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T04:00:32+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+          "title": "Your New Weeknight Obsession Homemade Easy Stuffed Crust Pizza",
+          "url": "https://newdecr.com/your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza/",
+          "last_pinned_date": "2026-09-03",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-11T04:46:03+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+          "title": "Creamy Mushroom Chicken Comfort Dream",
+          "url": "https://newdecr.com/creamy-mushroom-chicken-your-weeknight-comfort-dream/",
+          "last_pinned_date": "2026-08-31",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-10T17:04:16+00:00",
+          "days_since_pinned": 16
+        }
+      ],
+      "itemStatuses": {
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": "pending",
+        "cajun-hot-honey-shrimp-better-than-storebought-so-easy": "pending",
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": "pending",
+        "the-flavor-secret-behind-amazing-christmas-crockpot-candy": "pending",
+        "air-fried-crispy-chicken-drumsticks": "pending",
+        "how-to-make-puff-pastry-patties-in-haitian-style": "pending",
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": "pending",
+        "light-zesty-completely-satisfying-crab-balls": "pending",
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": "pending",
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": "pending"
+      },
+      "cardMessageIds": {
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": 818,
+        "cajun-hot-honey-shrimp-better-than-storebought-so-easy": 819,
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": 820,
+        "the-flavor-secret-behind-amazing-christmas-crockpot-candy": 821,
+        "air-fried-crispy-chicken-drumsticks": 822,
+        "how-to-make-puff-pastry-patties-in-haitian-style": 823,
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": 824,
+        "light-zesty-completely-satisfying-crab-balls": 825,
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": 826,
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": 827
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 62
     }
   },
   "daily_selections": {
@@ -5691,6 +5865,18 @@
       "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
       "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
       "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal"
+    ],
+    "2026-09-16": [
+      "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+      "cajun-hot-honey-shrimp-better-than-storebought-so-easy",
+      "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+      "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+      "air-fried-crispy-chicken-drumsticks",
+      "how-to-make-puff-pastry-patties-in-haitian-style",
+      "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+      "light-zesty-completely-satisfying-crab-balls",
+      "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+      "creamy-mushroom-chicken-your-weeknight-comfort-dream"
     ]
   }
 }
