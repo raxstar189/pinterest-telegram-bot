@@ -121,7 +121,10 @@
     "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/",
     "https://newdecr.com/spooky-witch-finger-cookies-a-family-sunday-dinner-treat/",
     "https://newdecr.com/ditch-the-store-bake-your-best-homemade-carrot-cake/",
-    "https://newdecr.com/cajun-hot-honey-shrimp-better-than-storebought-so-easy/"
+    "https://newdecr.com/cajun-hot-honey-shrimp-better-than-storebought-so-easy/",
+    "https://newdecr.com/graveyard-pudding-cups-spooky-fun-made-easy/",
+    "https://newdecr.com/lets-make-delicious-homemade-eggnog-that-youll-crave-again/",
+    "https://newdecr.com/warm-family-tradition-perfect-mango-sticky-rice-recipe/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1343,6 +1346,36 @@
       "first_seen_date": "2026-09-16",
       "is_new": false,
       "lastmod": "2026-09-15T05:25:23+00:00"
+    },
+    "graveyard-pudding-cups-spooky-fun-made-easy": {
+      "slug": "graveyard-pudding-cups-spooky-fun-made-easy",
+      "title": "Graveyard Pudding Cups Spooky Fun Made Easy",
+      "url": "https://newdecr.com/graveyard-pudding-cups-spooky-fun-made-easy/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-17",
+      "is_new": true,
+      "lastmod": "2026-09-16T19:25:29+00:00"
+    },
+    "lets-make-delicious-homemade-eggnog-that-youll-crave-again": {
+      "slug": "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+      "title": "Lets Make Delicious Homemade Eggnog That Youll Crave Again",
+      "url": "https://newdecr.com/lets-make-delicious-homemade-eggnog-that-youll-crave-again/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-17",
+      "is_new": true,
+      "lastmod": "2026-09-16T19:34:17+00:00"
+    },
+    "warm-family-tradition-perfect-mango-sticky-rice-recipe": {
+      "slug": "warm-family-tradition-perfect-mango-sticky-rice-recipe",
+      "title": "Warm Family Tradition Perfect Mango Sticky Rice Recipe",
+      "url": "https://newdecr.com/warm-family-tradition-perfect-mango-sticky-rice-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-17",
+      "is_new": true,
+      "lastmod": "2026-09-16T19:44:44+00:00"
     }
   },
   "pending_messages": {
@@ -5515,6 +5548,147 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 62
+    },
+    "2026-09-17": {
+      "date": "2026-09-17",
+      "recipes": [
+        {
+          "slug": "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+          "title": "Spooky Witch Finger Cookies a Family Sunday Dinner Treat",
+          "url": "https://newdecr.com/spooky-witch-finger-cookies-a-family-sunday-dinner-treat/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-16",
+          "is_new": true,
+          "lastmod": "2026-09-15T04:46:01+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": "2026-08-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": 18
+        },
+        {
+          "slug": "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+          "title": "Ghost Oreo Balls Spooky Sweet Treats for Halloween",
+          "url": "https://newdecr.com/ghost-oreo-balls-spooky-sweet-treats-for-halloween/",
+          "last_pinned_date": "2026-09-11",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:45:21+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+          "title": "Escape to the Tropics with This Easy Pina Colada Chia Pudding",
+          "url": "https://newdecr.com/escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding/",
+          "last_pinned_date": "2026-09-05",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:19:22+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+          "title": "Brown Sugar Overnight Oats Your Easy Delicious Morning Fix",
+          "url": "https://newdecr.com/brown-sugar-overnight-oats-your-easy-delicious-morning-fix/",
+          "last_pinned_date": "2026-09-04",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T13:09:59+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+          "title": "Biscoff Cheesecake Your Favorite Cozy Cafe Dessert",
+          "url": "https://newdecr.com/biscoff-cheesecake-your-favorite-cozy-cafe-dessert/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-15",
+          "is_new": true,
+          "lastmod": "2026-09-14T18:29:22+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": "2026-09-05",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "sweet-tangy-garlic-herb-roasted-turkey-delight",
+          "title": "Sweet Tangy Garlic Herb Roasted Turkey Delight",
+          "url": "https://newdecr.com/sweet-tangy-garlic-herb-roasted-turkey-delight/",
+          "last_pinned_date": "2026-09-02",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:12:46+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+          "title": "Cowboy Butter Tortellini Nice Steak Bites Your New Weeknight Hero",
+          "url": "https://newdecr.com/cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-09-07",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:39+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+          "title": "Your New Signature Blueberry Cobbler the Simple Sweet Treat",
+          "url": "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-11",
+          "is_new": true,
+          "lastmod": "2026-09-10T19:06:04+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": "pending",
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending",
+        "ghost-oreo-balls-spooky-sweet-treats-for-halloween": "pending",
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": "pending",
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": "pending",
+        "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending",
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": "pending",
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": "pending",
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": "pending"
+      },
+      "cardMessageIds": {
+        "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": 831,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 832,
+        "ghost-oreo-balls-spooky-sweet-treats-for-halloween": 833,
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": 834,
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 835,
+        "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": 836,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 837,
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": 838,
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": 839,
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": 840
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 75
     }
   },
   "daily_selections": {
@@ -5877,6 +6051,18 @@
       "light-zesty-completely-satisfying-crab-balls",
       "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
       "creamy-mushroom-chicken-your-weeknight-comfort-dream"
+    ],
+    "2026-09-17": [
+      "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+      "your-new-favorite-spicy-bonchon-sauce-recipe",
+      "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+      "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+      "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+      "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+      "sweet-tangy-garlic-herb-roasted-turkey-delight",
+      "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+      "your-new-signature-blueberry-cobbler-the-simple-sweet-treat"
     ]
   }
 }
