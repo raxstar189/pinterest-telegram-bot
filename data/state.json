@@ -124,7 +124,10 @@
     "https://newdecr.com/cajun-hot-honey-shrimp-better-than-storebought-so-easy/",
     "https://newdecr.com/graveyard-pudding-cups-spooky-fun-made-easy/",
     "https://newdecr.com/lets-make-delicious-homemade-eggnog-that-youll-crave-again/",
-    "https://newdecr.com/warm-family-tradition-perfect-mango-sticky-rice-recipe/"
+    "https://newdecr.com/warm-family-tradition-perfect-mango-sticky-rice-recipe/",
+    "https://newdecr.com/the-holiday-mini-sliders-bar-your-easy-crowd-pleaser/",
+    "https://newdecr.com/how-restaurant-chefs-craft-delicious-shrimp-balls/",
+    "https://newdecr.com/sweet-savory-glazed-carrots-my-new-favorite-side/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1376,6 +1379,36 @@
       "first_seen_date": "2026-09-17",
       "is_new": true,
       "lastmod": "2026-09-16T19:44:44+00:00"
+    },
+    "the-holiday-mini-sliders-bar-your-easy-crowd-pleaser": {
+      "slug": "the-holiday-mini-sliders-bar-your-easy-crowd-pleaser",
+      "title": "The Holiday Mini Sliders Bar Your Easy Crowd Pleaser",
+      "url": "https://newdecr.com/the-holiday-mini-sliders-bar-your-easy-crowd-pleaser/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-18",
+      "is_new": true,
+      "lastmod": "2026-09-17T18:26:01+00:00"
+    },
+    "how-restaurant-chefs-craft-delicious-shrimp-balls": {
+      "slug": "how-restaurant-chefs-craft-delicious-shrimp-balls",
+      "title": "How Restaurant Chefs Craft Delicious Shrimp Balls",
+      "url": "https://newdecr.com/how-restaurant-chefs-craft-delicious-shrimp-balls/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-18",
+      "is_new": true,
+      "lastmod": "2026-09-17T18:37:42+00:00"
+    },
+    "sweet-savory-glazed-carrots-my-new-favorite-side": {
+      "slug": "sweet-savory-glazed-carrots-my-new-favorite-side",
+      "title": "Sweet Savory Glazed Carrots My New Favorite Side",
+      "url": "https://newdecr.com/sweet-savory-glazed-carrots-my-new-favorite-side/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-18",
+      "is_new": true,
+      "lastmod": "2026-09-17T18:45:49+00:00"
     }
   },
   "pending_messages": {
