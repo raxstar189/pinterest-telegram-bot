@@ -6340,6 +6340,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 68
+    },
+    "2026-09-21": {
+      "date": "2026-09-21",
+      "recipes": [
+        {
+          "slug": "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+          "title": "Anytime Meal Crispy Air Fried Beef Dumplings",
+          "url": "https://newdecr.com/your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings/",
+          "last_pinned_date": "2026-09-09",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T03:22:59+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+          "title": "Corndog Crispy Golden and Totally Delicious",
+          "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
+          "last_pinned_date": "2026-09-11",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:57+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "start-the-healing-process-healthy-chia-tiramisu",
+          "title": "Start the Healing Process Healthy Chia Tiramisu",
+          "url": "https://newdecr.com/start-the-healing-process-healthy-chia-tiramisu/",
+          "last_pinned_date": "2026-09-06",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T17:08:52+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "hot-honey-shrimp-your-new-weeknight-obsession",
+          "title": "Hot Honey Shrimp Your New Weeknight Obsession",
+          "url": "https://newdecr.com/hot-honey-shrimp-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-09-15",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:08+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "air-fryer-crispy-mini-blooming-onions",
+          "title": "Air Fryer Crispy Mini Blooming Onions",
+          "url": "https://newdecr.com/air-fryer-crispy-mini-blooming-onions/",
+          "last_pinned_date": "2026-09-13",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:48+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "versatile-mini-pancake-bites-perfect-for-any-meal",
+          "title": "Versatile Mini Pancake Bites Perfect for Any Meal",
+          "url": "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
+          "last_pinned_date": "2026-09-11",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:01:05+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": "2026-09-11",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+          "title": "Bacon Ranch Chopped Salad Your New Weeknight Hero",
+          "url": "https://newdecr.com/bacon-ranch-chopped-salad-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-09-11",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:53:04+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+          "title": "Meal Authentic Middle Eastern Beef Shawarma",
+          "url": "https://newdecr.com/your-new-favorite-meal-authentic-middle-eastern-beef-shawarma/",
+          "last_pinned_date": "2026-09-14",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-14T13:54:09+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+          "title": "This Is the Best Chocolate Cake Recipe You Will Ever Make",
+          "url": "https://newdecr.com/this-is-the-best-chocolate-cake-recipe-you-will-ever-make/",
+          "last_pinned_date": "2026-09-11",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-20T09:29:27+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+          "title": "The Unbelievably Delicious Homemade Granola Bars Youll Crave",
+          "url": "https://newdecr.com/the-unbelievably-delicious-homemade-granola-bars-youll-crave/",
+          "last_pinned_date": "2026-09-07",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T15:59:39+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+          "title": "Air Fryer Garlic Parmesan Shrimp Your New Weeknight Hero",
+          "url": "https://newdecr.com/air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-09-08",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:53+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "fudgy-irresistible-red-velvet-brownies",
+          "title": "Fudgy Irresistible Red Velvet Brownies",
+          "url": "https://newdecr.com/fudgy-irresistible-red-velvet-brownies/",
+          "last_pinned_date": "2026-09-15",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:32:16+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "the-unforgettable-peppermint-bark-brownies-recipe",
+          "title": "The Unforgettable Peppermint Bark Brownies Recipe",
+          "url": "https://newdecr.com/the-unforgettable-peppermint-bark-brownies-recipe/",
+          "last_pinned_date": "2026-09-14",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:32:31+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+          "title": "Surely Better Than Takeout Crispy Juicy Homemade Chicken Nuggets",
+          "url": "https://newdecr.com/surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets/",
+          "last_pinned_date": "2026-09-11",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-30T09:44:58+00:00",
+          "days_since_pinned": 10
+        }
+      ],
+      "itemStatuses": {
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": "pending",
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending",
+        "start-the-healing-process-healthy-chia-tiramisu": "pending",
+        "hot-honey-shrimp-your-new-weeknight-obsession": "pending",
+        "air-fryer-crispy-mini-blooming-onions": "pending",
+        "versatile-mini-pancake-bites-perfect-for-any-meal": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": "pending",
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": "pending",
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": "pending",
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": "pending",
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": "pending",
+        "fudgy-irresistible-red-velvet-brownies": "pending",
+        "the-unforgettable-peppermint-bark-brownies-recipe": "pending",
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": "pending"
+      },
+      "cardMessageIds": {
+        "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings": 892,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 893,
+        "start-the-healing-process-healthy-chia-tiramisu": 894,
+        "hot-honey-shrimp-your-new-weeknight-obsession": 895,
+        "air-fryer-crispy-mini-blooming-onions": 896,
+        "versatile-mini-pancake-bites-perfect-for-any-meal": 897,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 898,
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": 899,
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": 900,
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 901,
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": 902,
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": 903,
+        "fudgy-irresistible-red-velvet-brownies": 904,
+        "the-unforgettable-peppermint-bark-brownies-recipe": 905,
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": 906
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 63
     }
   },
   "daily_selections": {
@@ -6765,6 +6971,23 @@
       "sundays-best-turkey-leftover-sandwich-for-family-dinner",
       "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat",
       "creamy-marry-me-tuscan-chicken-soup-fall-season-date-night-favoritea"
+    ],
+    "2026-09-21": [
+      "your-new-favorite-anytime-meal-crispy-air-fried-beef-dumplings",
+      "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+      "start-the-healing-process-healthy-chia-tiramisu",
+      "hot-honey-shrimp-your-new-weeknight-obsession",
+      "air-fryer-crispy-mini-blooming-onions",
+      "versatile-mini-pancake-bites-perfect-for-any-meal",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+      "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+      "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+      "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+      "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+      "fudgy-irresistible-red-velvet-brownies",
+      "the-unforgettable-peppermint-bark-brownies-recipe",
+      "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets"
     ]
   }
 }
