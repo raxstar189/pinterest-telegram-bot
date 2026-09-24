@@ -127,7 +127,12 @@
     "https://newdecr.com/warm-family-tradition-perfect-mango-sticky-rice-recipe/",
     "https://newdecr.com/the-holiday-mini-sliders-bar-your-easy-crowd-pleaser/",
     "https://newdecr.com/how-restaurant-chefs-craft-delicious-shrimp-balls/",
-    "https://newdecr.com/sweet-savory-glazed-carrots-my-new-favorite-side/"
+    "https://newdecr.com/sweet-savory-glazed-carrots-my-new-favorite-side/",
+    "https://newdecr.com/christmas-sugar-cookies-your-family-will-adore/",
+    "https://newdecr.com/mini-funfetti-yogurt-muffins-fun-in-every-bite/",
+    "https://newdecr.com/sweet-tangy-perfectly-balanced-sweet-potato-casserole/",
+    "https://newdecr.com/can-four-ingredients-really-make-exquisite-bacon-cheese-rolls/",
+    "https://newdecr.com/caramel-apple-perfection-season-favorite/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1409,6 +1414,56 @@
       "first_seen_date": "2026-09-18",
       "is_new": false,
       "lastmod": "2026-09-17T18:45:49+00:00"
+    },
+    "christmas-sugar-cookies-your-family-will-adore": {
+      "slug": "christmas-sugar-cookies-your-family-will-adore",
+      "title": "Christmas Sugar Cookies Your Family Will Adore",
+      "url": "https://newdecr.com/christmas-sugar-cookies-your-family-will-adore/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-24",
+      "is_new": true,
+      "lastmod": "2026-09-23T05:05:23+00:00"
+    },
+    "mini-funfetti-yogurt-muffins-fun-in-every-bite": {
+      "slug": "mini-funfetti-yogurt-muffins-fun-in-every-bite",
+      "title": "Mini Funfetti Yogurt Muffins Fun in Every Bite",
+      "url": "https://newdecr.com/mini-funfetti-yogurt-muffins-fun-in-every-bite/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-24",
+      "is_new": true,
+      "lastmod": "2026-09-23T05:35:57+00:00"
+    },
+    "sweet-tangy-perfectly-balanced-sweet-potato-casserole": {
+      "slug": "sweet-tangy-perfectly-balanced-sweet-potato-casserole",
+      "title": "Sweet Tangy Perfectly Balanced Sweet Potato Casserole",
+      "url": "https://newdecr.com/sweet-tangy-perfectly-balanced-sweet-potato-casserole/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-24",
+      "is_new": true,
+      "lastmod": "2026-09-23T05:53:47+00:00"
+    },
+    "can-four-ingredients-really-make-exquisite-bacon-cheese-rolls": {
+      "slug": "can-four-ingredients-really-make-exquisite-bacon-cheese-rolls",
+      "title": "Can Four Ingredients Really Make Exquisite Bacon Cheese Rolls",
+      "url": "https://newdecr.com/can-four-ingredients-really-make-exquisite-bacon-cheese-rolls/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-24",
+      "is_new": true,
+      "lastmod": "2026-09-23T06:13:26+00:00"
+    },
+    "caramel-apple-perfection-season-favorite": {
+      "slug": "caramel-apple-perfection-season-favorite",
+      "title": "Caramel Apple Perfection Season Favorite",
+      "url": "https://newdecr.com/caramel-apple-perfection-season-favorite/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-24",
+      "is_new": true,
+      "lastmod": "2026-09-23T06:31:08+00:00"
     }
   },
   "pending_messages": {
@@ -6958,6 +7013,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 53
+    },
+    "2026-09-24": {
+      "date": "2026-09-24",
+      "recipes": [
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": "2026-09-16",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+          "title": "Spooky Sweet Fun Full Guide to Making Best Halloween Decorative Cookies",
+          "url": "https://newdecr.com/spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies/",
+          "last_pinned_date": "2026-09-18",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T07:48:39+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "cajun-hot-honey-shrimp-better-than-storebought-so-easy",
+          "title": "Cajun Hot Honey Shrimp Better Than Storebought So Easy",
+          "url": "https://newdecr.com/cajun-hot-honey-shrimp-better-than-storebought-so-easy/",
+          "last_pinned_date": "2026-09-16",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-16",
+          "is_new": false,
+          "lastmod": "2026-09-15T05:25:23+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "christmas-sugar-cookies-your-family-will-adore",
+          "title": "Christmas Sugar Cookies Your Family Will Adore",
+          "url": "https://newdecr.com/christmas-sugar-cookies-your-family-will-adore/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-24",
+          "is_new": true,
+          "lastmod": "2026-09-23T05:05:23+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+          "title": "Homemade Gulab Jamun Your Guide of Sweet Perfection of Indian Culture",
+          "url": "https://newdecr.com/homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture/",
+          "last_pinned_date": "2026-09-09",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T04:55:07+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": "2026-09-17",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "hearty-tomato-minced-beef-soup-recipe",
+          "title": "Hearty Tomato Minced Beef Soup Recipe",
+          "url": "https://newdecr.com/hearty-tomato-minced-beef-soup-recipe/",
+          "last_pinned_date": "2026-09-08",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:54+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+          "title": "Cinnamon Roll Apple Lasagna the Upgraded Cinnamon Roll",
+          "url": "https://newdecr.com/cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll/",
+          "last_pinned_date": "2026-09-07",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:08:08+00:00",
+          "days_since_pinned": 17
+        },
+        {
+          "slug": "mini-funfetti-yogurt-muffins-fun-in-every-bite",
+          "title": "Mini Funfetti Yogurt Muffins Fun in Every Bite",
+          "url": "https://newdecr.com/mini-funfetti-yogurt-muffins-fun-in-every-bite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-24",
+          "is_new": true,
+          "lastmod": "2026-09-23T05:35:57+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+          "title": "Cowboy Butter Tortellini Nice Steak Bites Your New Weeknight Hero",
+          "url": "https://newdecr.com/cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-09-17",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:39+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "graveyard-pudding-cups-spooky-fun-made-easy",
+          "title": "Graveyard Pudding Cups Spooky Fun Made Easy",
+          "url": "https://newdecr.com/graveyard-pudding-cups-spooky-fun-made-easy/",
+          "last_pinned_date": "2026-09-18",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:25:29+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "sweet-tangy-perfectly-balanced-sweet-potato-casserole",
+          "title": "Sweet Tangy Perfectly Balanced Sweet Potato Casserole",
+          "url": "https://newdecr.com/sweet-tangy-perfectly-balanced-sweet-potato-casserole/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-24",
+          "is_new": true,
+          "lastmod": "2026-09-23T05:53:47+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "sweet-tangy-garlic-herb-roasted-turkey-delight",
+          "title": "Sweet Tangy Garlic Herb Roasted Turkey Delight",
+          "url": "https://newdecr.com/sweet-tangy-garlic-herb-roasted-turkey-delight/",
+          "last_pinned_date": "2026-09-17",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:12:46+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "pumpkin-smores-very-unique-recipe",
+          "title": "Pumpkin Smores Very Unique Recipe",
+          "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+          "last_pinned_date": "2026-09-08",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:07:44+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+          "title": "Crispy Air Fried Chicken Dumplings Current New Favorite Appetiser",
+          "url": "https://newdecr.com/crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser/",
+          "last_pinned_date": "2026-09-12",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T04:07:10+00:00",
+          "days_since_pinned": 12
+        }
+      ],
+      "itemStatuses": {
+        "air-fried-crispy-chicken-drumsticks": "pending",
+        "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": "pending",
+        "cajun-hot-honey-shrimp-better-than-storebought-so-easy": "pending",
+        "christmas-sugar-cookies-your-family-will-adore": "pending",
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending",
+        "hearty-tomato-minced-beef-soup-recipe": "pending",
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": "pending",
+        "mini-funfetti-yogurt-muffins-fun-in-every-bite": "pending",
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": "pending",
+        "graveyard-pudding-cups-spooky-fun-made-easy": "pending",
+        "sweet-tangy-perfectly-balanced-sweet-potato-casserole": "pending",
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": "pending",
+        "pumpkin-smores-very-unique-recipe": "pending",
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": "pending"
+      },
+      "cardMessageIds": {
+        "air-fried-crispy-chicken-drumsticks": 940,
+        "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": 941,
+        "cajun-hot-honey-shrimp-better-than-storebought-so-easy": 942,
+        "christmas-sugar-cookies-your-family-will-adore": 943,
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": 944,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 945,
+        "hearty-tomato-minced-beef-soup-recipe": 946,
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": 947,
+        "mini-funfetti-yogurt-muffins-fun-in-every-bite": 948,
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": 949,
+        "graveyard-pudding-cups-spooky-fun-made-easy": 950,
+        "sweet-tangy-perfectly-balanced-sweet-potato-casserole": 951,
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": 952,
+        "pumpkin-smores-very-unique-recipe": 953,
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": 954
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 58
     }
   },
   "daily_selections": {
@@ -7434,6 +7695,23 @@
       "fudgy-brown-butter-brownies-explosion-of-flavor",
       "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail",
       "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat"
+    ],
+    "2026-09-24": [
+      "air-fried-crispy-chicken-drumsticks",
+      "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+      "cajun-hot-honey-shrimp-better-than-storebought-so-easy",
+      "christmas-sugar-cookies-your-family-will-adore",
+      "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+      "hearty-tomato-minced-beef-soup-recipe",
+      "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+      "mini-funfetti-yogurt-muffins-fun-in-every-bite",
+      "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+      "graveyard-pudding-cups-spooky-fun-made-easy",
+      "sweet-tangy-perfectly-balanced-sweet-potato-casserole",
+      "sweet-tangy-garlic-herb-roasted-turkey-delight",
+      "pumpkin-smores-very-unique-recipe",
+      "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser"
     ]
   }
 }
