@@ -7425,6 +7425,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 58
+    },
+    "2026-09-26": {
+      "date": "2026-09-26",
+      "recipes": [
+        {
+          "slug": "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+          "title": "Fresh Mango Crepe Rolls Smooth and Buttery Dessert",
+          "url": "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
+          "last_pinned_date": "2026-09-14",
+          "times_pinned": 2,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:12:07+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+          "title": "How Restaurant Chefs Make a Perfect Prime Rib Roast",
+          "url": "https://newdecr.com/how-restaurant-chefs-make-a-perfect-prime-rib-roast/",
+          "last_pinned_date": "2026-09-16",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:37:38+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-09-20",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+          "title": "Your New Favourite Crispy Air Fried Chicken Stuffed Buns",
+          "url": "https://newdecr.com/your-new-favourite-crispy-air-fried-chicken-stuffed-buns/",
+          "last_pinned_date": "2026-09-19",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T08:55:39+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "light-zesty-completely-satisfying-crab-balls",
+          "title": "Light Zesty Completely Satisfying Crab Balls",
+          "url": "https://newdecr.com/light-zesty-completely-satisfying-crab-balls/",
+          "last_pinned_date": "2026-09-16",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T04:00:32+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": "2026-09-17",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "the-cant-fail-garlic-mashed-potatoes-recipe",
+          "title": "The Cant Fail Garlic Mashed Potatoes Recipe",
+          "url": "https://newdecr.com/the-cant-fail-garlic-mashed-potatoes-recipe/",
+          "last_pinned_date": "2026-09-20",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-12",
+          "is_new": false,
+          "lastmod": "2026-09-11T06:49:03+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "ditch-the-store-bake-your-best-homemade-carrot-cake",
+          "title": "Ditch the Store Bake Your Best Homemade Carrot Cake",
+          "url": "https://newdecr.com/ditch-the-store-bake-your-best-homemade-carrot-cake/",
+          "last_pinned_date": "2026-09-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-16",
+          "is_new": false,
+          "lastmod": "2026-09-15T04:57:06+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+          "title": "Crispy Flavorful Easy Air Fried Chicken Bread Roll",
+          "url": "https://newdecr.com/crispy-flavorful-easy-air-fried-chicken-bread-roll/",
+          "last_pinned_date": "2026-09-14",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-28T05:14:40+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "the-picky-eater-approved-strawberry-chia-pudding",
+          "title": "The Picky Eater Approved Strawberry Chia Pudding",
+          "url": "https://newdecr.com/the-picky-eater-approved-strawberry-chia-pudding/",
+          "last_pinned_date": "2026-09-20",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T03:47:58+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": "2026-09-19",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
+          "title": "Whip Up This Restaurant Style Hot Honey Ranch Sauce at Home",
+          "url": "https://newdecr.com/whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home/",
+          "last_pinned_date": "2026-09-20",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:24+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+          "title": "Brown Sugar Overnight Oats Your Easy Delicious Morning Fix",
+          "url": "https://newdecr.com/brown-sugar-overnight-oats-your-easy-delicious-morning-fix/",
+          "last_pinned_date": "2026-09-17",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T13:09:59+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "classic-italian-lasagna-sharing-my-family-recipe",
+          "title": "Classic Italian Lasagna Sharing My Family Recipe",
+          "url": "https://newdecr.com/classic-italian-lasagna-sharing-my-family-recipe/",
+          "last_pinned_date": "2026-09-18",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T16:47:36+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "how-i-made-the-perfect-cheeseburger",
+          "title": "How I Made Cheeseburger",
+          "url": "https://newdecr.com/how-i-made-the-perfect-cheeseburger/",
+          "last_pinned_date": "2026-09-19",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:42:14+00:00",
+          "days_since_pinned": 7
+        }
+      ],
+      "itemStatuses": {
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": "pending",
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": "pending",
+        "light-zesty-completely-satisfying-crab-balls": "pending",
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending",
+        "the-cant-fail-garlic-mashed-potatoes-recipe": "pending",
+        "ditch-the-store-bake-your-best-homemade-carrot-cake": "pending",
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": "pending",
+        "the-picky-eater-approved-strawberry-chia-pudding": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending",
+        "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home": "pending",
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": "pending",
+        "classic-italian-lasagna-sharing-my-family-recipe": "pending",
+        "how-i-made-the-perfect-cheeseburger": "pending"
+      },
+      "cardMessageIds": {
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": 972,
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": 973,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 974,
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 975,
+        "light-zesty-completely-satisfying-crab-balls": 976,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 977,
+        "the-cant-fail-garlic-mashed-potatoes-recipe": 978,
+        "ditch-the-store-bake-your-best-homemade-carrot-cake": 979,
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": 980,
+        "the-picky-eater-approved-strawberry-chia-pudding": 981,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 982,
+        "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home": 983,
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 984,
+        "classic-italian-lasagna-sharing-my-family-recipe": 985,
+        "how-i-made-the-perfect-cheeseburger": 986
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 58
     }
   },
   "daily_selections": {
@@ -7935,6 +8141,23 @@
       "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
       "caramel-apple-perfection-season-favorite",
       "homemade-gelato-ice-cream-your-guide-to-italian-perfection"
+    ],
+    "2026-09-26": [
+      "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+      "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+      "light-zesty-completely-satisfying-crab-balls",
+      "your-new-favorite-spicy-bonchon-sauce-recipe",
+      "the-cant-fail-garlic-mashed-potatoes-recipe",
+      "ditch-the-store-bake-your-best-homemade-carrot-cake",
+      "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+      "the-picky-eater-approved-strawberry-chia-pudding",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe",
+      "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
+      "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+      "classic-italian-lasagna-sharing-my-family-recipe",
+      "how-i-made-the-perfect-cheeseburger"
     ]
   }
 }
