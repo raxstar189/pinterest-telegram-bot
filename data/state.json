@@ -7631,6 +7631,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 58
+    },
+    "2026-09-27": {
+      "date": "2026-09-27",
+      "recipes": [
+        {
+          "slug": "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+          "title": "Lets Make Delicious Homemade Eggnog That Youll Crave Again",
+          "url": "https://newdecr.com/lets-make-delicious-homemade-eggnog-that-youll-crave-again/",
+          "last_pinned_date": "2026-09-18",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:34:17+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "the-holiday-mini-sliders-bar-your-easy-crowd-pleaser",
+          "title": "The Holiday Mini Sliders Bar Your Easy Crowd Pleaser",
+          "url": "https://newdecr.com/the-holiday-mini-sliders-bar-your-easy-crowd-pleaser/",
+          "last_pinned_date": "2026-09-19",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-18",
+          "is_new": false,
+          "lastmod": "2026-09-17T18:26:01+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+          "title": "Creamy Mushroom Chicken Comfort Dream",
+          "url": "https://newdecr.com/creamy-mushroom-chicken-your-weeknight-comfort-dream/",
+          "last_pinned_date": "2026-09-16",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-10T17:04:16+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal",
+          "title": "Creamy Smothered Chicken and Rice Weeknight Meal",
+          "url": "https://newdecr.com/creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal/",
+          "last_pinned_date": "2026-09-13",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:11+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+          "title": "Crispy Air Fryer Shrimp Toast Easy Appetizer",
+          "url": "https://newdecr.com/crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer/",
+          "last_pinned_date": "2026-09-19",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:48:05+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "air-fried-honey-bbq-chicken-wings-the-new-must-have",
+          "title": "Air Fried Honey Bbq Chicken Wings the New Must Have",
+          "url": "https://newdecr.com/air-fried-honey-bbq-chicken-wings-the-new-must-have/",
+          "last_pinned_date": "2026-09-18",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T18:05:39+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+          "title": "Corndog Crispy Golden and Totally Delicious",
+          "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
+          "last_pinned_date": "2026-09-21",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:57+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "youll-never-make-bad-potato-wedges-ever-again",
+          "title": "Youll Never Make Bad Potato Wedges Ever Again",
+          "url": "https://newdecr.com/youll-never-make-bad-potato-wedges-ever-again/",
+          "last_pinned_date": "2026-09-11",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-26T07:10:06+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+          "title": "Biscoff Cheesecake Your Favorite Cozy Cafe Dessert",
+          "url": "https://newdecr.com/biscoff-cheesecake-your-favorite-cozy-cafe-dessert/",
+          "last_pinned_date": "2026-09-17",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:29:22+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+          "title": "Mushroom Stuffed Chicken Breast Your New Weeknight Favorite",
+          "url": "https://newdecr.com/mushroom-stuffed-chicken-breast-your-new-weeknight-favorite/",
+          "last_pinned_date": "2026-09-15",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:04:16+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+          "title": "The Unbelievably Delicious Homemade Granola Bars Youll Crave",
+          "url": "https://newdecr.com/the-unbelievably-delicious-homemade-granola-bars-youll-crave/",
+          "last_pinned_date": "2026-09-21",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T15:59:39+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "spicy-miso-ramen-your-ultimate-comfort-bowl",
+          "title": "Spicy Miso Ramen Your Ultimate Comfort Bowl",
+          "url": "https://newdecr.com/spicy-miso-ramen-your-ultimate-comfort-bowl/",
+          "last_pinned_date": "2026-09-20",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:46+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "shareable-irresistible-crab-rangoon-rolls-recipe",
+          "title": "Shareable Irresistible Crab Rangoon Rolls Recipe",
+          "url": "https://newdecr.com/shareable-irresistible-crab-rangoon-rolls-recipe/",
+          "last_pinned_date": "2026-09-15",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:47:45+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection",
+          "title": "Lets Try This Easiest Caramel Pudding Silky Smooth Perfection",
+          "url": "https://newdecr.com/lets-try-this-easiest-caramel-pudding-silky-smooth-perfection/",
+          "last_pinned_date": "2026-09-13",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-16T16:11:25+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "how-to-make-puff-pastry-patties-in-haitian-style",
+          "title": "Puff Pastry Patties in Haitian Style",
+          "url": "https://newdecr.com/how-to-make-puff-pastry-patties-in-haitian-style/",
+          "last_pinned_date": "2026-09-16",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-02T17:38:23+00:00",
+          "days_since_pinned": 11
+        }
+      ],
+      "itemStatuses": {
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": "pending",
+        "the-holiday-mini-sliders-bar-your-easy-crowd-pleaser": "pending",
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": "pending",
+        "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal": "pending",
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": "pending",
+        "air-fried-honey-bbq-chicken-wings-the-new-must-have": "pending",
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending",
+        "youll-never-make-bad-potato-wedges-ever-again": "pending",
+        "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": "pending",
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": "pending",
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": "pending",
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": "pending",
+        "shareable-irresistible-crab-rangoon-rolls-recipe": "pending",
+        "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection": "pending",
+        "how-to-make-puff-pastry-patties-in-haitian-style": "pending"
+      },
+      "cardMessageIds": {
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": 988,
+        "the-holiday-mini-sliders-bar-your-easy-crowd-pleaser": 989,
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": 990,
+        "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal": 991,
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": 992,
+        "air-fried-honey-bbq-chicken-wings-the-new-must-have": 993,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 994,
+        "youll-never-make-bad-potato-wedges-ever-again": 995,
+        "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": 996,
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": 997,
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": 998,
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": 999,
+        "shareable-irresistible-crab-rangoon-rolls-recipe": 1000,
+        "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection": 1001,
+        "how-to-make-puff-pastry-patties-in-haitian-style": 1002
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 58
     }
   },
   "daily_selections": {
@@ -8158,6 +8364,23 @@
       "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
       "classic-italian-lasagna-sharing-my-family-recipe",
       "how-i-made-the-perfect-cheeseburger"
+    ],
+    "2026-09-27": [
+      "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+      "the-holiday-mini-sliders-bar-your-easy-crowd-pleaser",
+      "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+      "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal",
+      "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+      "air-fried-honey-bbq-chicken-wings-the-new-must-have",
+      "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+      "youll-never-make-bad-potato-wedges-ever-again",
+      "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+      "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+      "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+      "spicy-miso-ramen-your-ultimate-comfort-bowl",
+      "shareable-irresistible-crab-rangoon-rolls-recipe",
+      "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection",
+      "how-to-make-puff-pastry-patties-in-haitian-style"
     ]
   }
 }
