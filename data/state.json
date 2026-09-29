@@ -132,7 +132,9 @@
     "https://newdecr.com/mini-funfetti-yogurt-muffins-fun-in-every-bite/",
     "https://newdecr.com/sweet-tangy-perfectly-balanced-sweet-potato-casserole/",
     "https://newdecr.com/can-four-ingredients-really-make-exquisite-bacon-cheese-rolls/",
-    "https://newdecr.com/caramel-apple-perfection-season-favorite/"
+    "https://newdecr.com/caramel-apple-perfection-season-favorite/",
+    "https://newdecr.com/pumpkin-tres-leches-cake-effortless-dessert-magic/",
+    "https://newdecr.com/the-timeless-classic-peanut-butter-spider-cookies/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1464,6 +1466,26 @@
       "first_seen_date": "2026-09-24",
       "is_new": false,
       "lastmod": "2026-09-23T06:31:08+00:00"
+    },
+    "pumpkin-tres-leches-cake-effortless-dessert-magic": {
+      "slug": "pumpkin-tres-leches-cake-effortless-dessert-magic",
+      "title": "Pumpkin Tres Leches Cake Effortless Dessert Magic",
+      "url": "https://newdecr.com/pumpkin-tres-leches-cake-effortless-dessert-magic/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-29",
+      "is_new": true,
+      "lastmod": "2026-09-28T18:49:01+00:00"
+    },
+    "the-timeless-classic-peanut-butter-spider-cookies": {
+      "slug": "the-timeless-classic-peanut-butter-spider-cookies",
+      "title": "The Timeless Classic Peanut Butter Spider Cookies",
+      "url": "https://newdecr.com/the-timeless-classic-peanut-butter-spider-cookies/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-09-29",
+      "is_new": true,
+      "lastmod": "2026-09-28T19:01:04+00:00"
     }
   },
   "pending_messages": {
@@ -8043,6 +8065,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 58
+    },
+    "2026-09-29": {
+      "date": "2026-09-29",
+      "recipes": [
+        {
+          "slug": "how-restaurant-chefs-craft-delicious-shrimp-balls",
+          "title": "How Restaurant Chefs Craft Delicious Shrimp Balls",
+          "url": "https://newdecr.com/how-restaurant-chefs-craft-delicious-shrimp-balls/",
+          "last_pinned_date": "2026-09-20",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-18",
+          "is_new": false,
+          "lastmod": "2026-09-17T18:37:42+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+          "title": "Tropical Mango Mousse Your Foolproof Guide to Perfect Dessert",
+          "url": "https://newdecr.com/tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert/",
+          "last_pinned_date": "2026-09-20",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:39:00+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": "2026-09-21",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+          "title": "Air Fryer Garlic Parmesan Shrimp Your New Weeknight Hero",
+          "url": "https://newdecr.com/air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-09-21",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:53+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "pumpkin-tres-leches-cake-effortless-dessert-magic",
+          "title": "Pumpkin Tres Leches Cake Effortless Dessert Magic",
+          "url": "https://newdecr.com/pumpkin-tres-leches-cake-effortless-dessert-magic/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-29",
+          "is_new": true,
+          "lastmod": "2026-09-28T18:49:01+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "key-lime-pound-cake-your-new-zesty-obsession",
+          "title": "Key Lime Pound Cake Your New Zesty Obsession",
+          "url": "https://newdecr.com/key-lime-pound-cake-your-new-zesty-obsession/",
+          "last_pinned_date": "2026-09-14",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:59+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "the-timeless-classic-peanut-butter-spider-cookies",
+          "title": "The Timeless Classic Peanut Butter Spider Cookies",
+          "url": "https://newdecr.com/the-timeless-classic-peanut-butter-spider-cookies/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-09-29",
+          "is_new": true,
+          "lastmod": "2026-09-28T19:01:04+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+          "title": "Your New Signature Blueberry Cobbler the Simple Sweet Treat",
+          "url": "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/",
+          "last_pinned_date": "2026-09-17",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-11",
+          "is_new": false,
+          "lastmod": "2026-09-10T19:06:04+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+          "title": "Hearty Italian Meatball Soup My Cherished Comfort Dish",
+          "url": "https://newdecr.com/hearty-italian-meatball-soup-my-cherished-comfort-dish/",
+          "last_pinned_date": "2026-09-16",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:47:38+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "easy-french-dip-sliders-fun-and-easy-snacks-solution",
+          "title": "Easy French Dip Sliders Fun and Easy Snacks Solution",
+          "url": "https://newdecr.com/easy-french-dip-sliders-fun-and-easy-snacks-solution/",
+          "last_pinned_date": "2026-09-22",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T15:58:00+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+          "title": "Air Fried Alfredo Chicken Pasta Your New Weeknight Obsession",
+          "url": "https://newdecr.com/air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-09-22",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-02T17:03:19+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "delicious-wholesome-pumpkin-spice-latte-your-home-brew",
+          "title": "Delicious Wholesome Pumpkin Spice Latte Your Home Brew",
+          "url": "https://newdecr.com/delicious-wholesome-pumpkin-spice-latte-your-home-brew/",
+          "last_pinned_date": "2026-09-18",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-11",
+          "is_new": false,
+          "lastmod": "2026-09-10T17:46:13+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "sweet-potato-turkey-chili-fall-dinner-hack",
+          "title": "Sweet Potato Turkey Chili Fall Dinner Hack",
+          "url": "https://newdecr.com/sweet-potato-turkey-chili-fall-dinner-hack/",
+          "last_pinned_date": "2026-09-22",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-06T13:30:48+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "versatile-mini-pancake-bites-perfect-for-any-meal",
+          "title": "Versatile Mini Pancake Bites Perfect for Any Meal",
+          "url": "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
+          "last_pinned_date": "2026-09-21",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:01:05+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "hot-honey-shrimp-your-new-weeknight-obsession",
+          "title": "Hot Honey Shrimp Your New Weeknight Obsession",
+          "url": "https://newdecr.com/hot-honey-shrimp-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-09-21",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:08+00:00",
+          "days_since_pinned": 8
+        }
+      ],
+      "itemStatuses": {
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": "pending",
+        "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": "pending",
+        "pumpkin-tres-leches-cake-effortless-dessert-magic": "pending",
+        "key-lime-pound-cake-your-new-zesty-obsession": "pending",
+        "the-timeless-classic-peanut-butter-spider-cookies": "pending",
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": "pending",
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": "pending",
+        "easy-french-dip-sliders-fun-and-easy-snacks-solution": "pending",
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": "pending",
+        "delicious-wholesome-pumpkin-spice-latte-your-home-brew": "pending",
+        "sweet-potato-turkey-chili-fall-dinner-hack": "pending",
+        "versatile-mini-pancake-bites-perfect-for-any-meal": "pending",
+        "hot-honey-shrimp-your-new-weeknight-obsession": "pending"
+      },
+      "cardMessageIds": {
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": 1020,
+        "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": 1021,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 1022,
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": 1023,
+        "pumpkin-tres-leches-cake-effortless-dessert-magic": 1024,
+        "key-lime-pound-cake-your-new-zesty-obsession": 1025,
+        "the-timeless-classic-peanut-butter-spider-cookies": 1026,
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": 1027,
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": 1028,
+        "easy-french-dip-sliders-fun-and-easy-snacks-solution": 1029,
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": 1030,
+        "delicious-wholesome-pumpkin-spice-latte-your-home-brew": 1031,
+        "sweet-potato-turkey-chili-fall-dinner-hack": 1032,
+        "versatile-mini-pancake-bites-perfect-for-any-meal": 1033,
+        "hot-honey-shrimp-your-new-weeknight-obsession": 1034
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 60
     }
   },
   "daily_selections": {
@@ -8604,6 +8832,23 @@
       "baked-feta-eggs-your-new-favorite-easy-meal",
       "everyones-favorite-sweet-soft-spongy-honey-buns",
       "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix"
+    ],
+    "2026-09-29": [
+      "how-restaurant-chefs-craft-delicious-shrimp-balls",
+      "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+      "pumpkin-tres-leches-cake-effortless-dessert-magic",
+      "key-lime-pound-cake-your-new-zesty-obsession",
+      "the-timeless-classic-peanut-butter-spider-cookies",
+      "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+      "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+      "easy-french-dip-sliders-fun-and-easy-snacks-solution",
+      "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+      "delicious-wholesome-pumpkin-spice-latte-your-home-brew",
+      "sweet-potato-turkey-chili-fall-dinner-hack",
+      "versatile-mini-pancake-bites-perfect-for-any-meal",
+      "hot-honey-shrimp-your-new-weeknight-obsession"
     ]
   }
 }
