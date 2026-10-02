@@ -134,7 +134,9 @@
     "https://newdecr.com/can-four-ingredients-really-make-exquisite-bacon-cheese-rolls/",
     "https://newdecr.com/caramel-apple-perfection-season-favorite/",
     "https://newdecr.com/pumpkin-tres-leches-cake-effortless-dessert-magic/",
-    "https://newdecr.com/the-timeless-classic-peanut-butter-spider-cookies/"
+    "https://newdecr.com/the-timeless-classic-peanut-butter-spider-cookies/",
+    "https://newdecr.com/unforgettably-flavorful-gluten-free-pumpkin-muffins/",
+    "https://newdecr.com/fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1486,6 +1488,26 @@
       "first_seen_date": "2026-09-29",
       "is_new": false,
       "lastmod": "2026-09-28T19:01:04+00:00"
+    },
+    "unforgettably-flavorful-gluten-free-pumpkin-muffins": {
+      "slug": "unforgettably-flavorful-gluten-free-pumpkin-muffins",
+      "title": "Unforgettably Flavorful Gluten Free Pumpkin Muffins",
+      "url": "https://newdecr.com/unforgettably-flavorful-gluten-free-pumpkin-muffins/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-02",
+      "is_new": true,
+      "lastmod": "2026-10-02T06:37:56+00:00"
+    },
+    "fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat": {
+      "slug": "fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat",
+      "title": "Fresh Vibrant Strawberry Shortcake a Perfect Summer Treat",
+      "url": "https://newdecr.com/fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-02",
+      "is_new": true,
+      "lastmod": "2026-10-02T06:47:51+00:00"
     }
   },
   "pending_messages": {
