@@ -136,7 +136,10 @@
     "https://newdecr.com/pumpkin-tres-leches-cake-effortless-dessert-magic/",
     "https://newdecr.com/the-timeless-classic-peanut-butter-spider-cookies/",
     "https://newdecr.com/unforgettably-flavorful-gluten-free-pumpkin-muffins/",
-    "https://newdecr.com/fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat/"
+    "https://newdecr.com/fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat/",
+    "https://newdecr.com/bakery-quality-fish-and-chips-crispy-perfection-at-home/",
+    "https://newdecr.com/stress-free-cream-roll-recipe-delightfully-crispy-sweet/",
+    "https://newdecr.com/the-secret-to-a-stunning-no-melt-ice-cream-cake/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1508,6 +1511,36 @@
       "first_seen_date": "2026-10-02",
       "is_new": true,
       "lastmod": "2026-10-02T06:47:51+00:00"
+    },
+    "bakery-quality-fish-and-chips-crispy-perfection-at-home": {
+      "slug": "bakery-quality-fish-and-chips-crispy-perfection-at-home",
+      "title": "Bakery Quality Fish and Chips Crispy Perfection at Home",
+      "url": "https://newdecr.com/bakery-quality-fish-and-chips-crispy-perfection-at-home/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-03",
+      "is_new": true,
+      "lastmod": "2026-10-02T14:43:35+00:00"
+    },
+    "stress-free-cream-roll-recipe-delightfully-crispy-sweet": {
+      "slug": "stress-free-cream-roll-recipe-delightfully-crispy-sweet",
+      "title": "Stress Free Cream Roll Recipe Delightfully Crispy Sweet",
+      "url": "https://newdecr.com/stress-free-cream-roll-recipe-delightfully-crispy-sweet/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-03",
+      "is_new": true,
+      "lastmod": "2026-10-02T14:59:52+00:00"
+    },
+    "the-secret-to-a-stunning-no-melt-ice-cream-cake": {
+      "slug": "the-secret-to-a-stunning-no-melt-ice-cream-cake",
+      "title": "The Secret to a Stunning No Melt Ice Cream Cake",
+      "url": "https://newdecr.com/the-secret-to-a-stunning-no-melt-ice-cream-cake/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-03",
+      "is_new": true,
+      "lastmod": "2026-10-02T15:23:49+00:00"
     }
   },
   "pending_messages": {
@@ -8911,6 +8944,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 60
+    },
+    "2026-10-03": {
+      "date": "2026-10-03",
+      "recipes": [
+        {
+          "slug": "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+          "title": "Meal Authentic Middle Eastern Beef Shawarma",
+          "url": "https://newdecr.com/your-new-favorite-meal-authentic-middle-eastern-beef-shawarma/",
+          "last_pinned_date": "2026-09-21",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-14T13:54:09+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat",
+          "title": "Easy Ham and Cheese Muffins Grab and Go Treat",
+          "url": "https://newdecr.com/easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat/",
+          "last_pinned_date": "2026-09-23",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:28:05+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "shareable-irresistible-crab-rangoon-rolls-recipe",
+          "title": "Shareable Irresistible Crab Rangoon Rolls Recipe",
+          "url": "https://newdecr.com/shareable-irresistible-crab-rangoon-rolls-recipe/",
+          "last_pinned_date": "2026-09-27",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:47:45+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+          "title": "The Flavor Secret Behind Amazing Christmas Crockpot Candy",
+          "url": "https://newdecr.com/the-flavor-secret-behind-amazing-christmas-crockpot-candy/",
+          "last_pinned_date": "2026-09-22",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T04:51:50+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat",
+          "title": "Fresh Vibrant Strawberry Shortcake a Perfect Summer Treat",
+          "url": "https://newdecr.com/fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-02",
+          "is_new": true,
+          "lastmod": "2026-10-02T06:47:51+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "bakery-quality-fish-and-chips-crispy-perfection-at-home",
+          "title": "Bakery Quality Fish and Chips Crispy Perfection at Home",
+          "url": "https://newdecr.com/bakery-quality-fish-and-chips-crispy-perfection-at-home/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-03",
+          "is_new": true,
+          "lastmod": "2026-10-02T14:43:35+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+          "title": "Mess Free Classic Pecan Pie a Clean Kitchen Bake",
+          "url": "https://newdecr.com/mess-free-classic-pecan-pie-a-clean-kitchen-bake/",
+          "last_pinned_date": "2026-09-23",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-13",
+          "is_new": false,
+          "lastmod": "2026-09-12T08:23:17+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "the-secret-to-a-stunning-no-melt-ice-cream-cake",
+          "title": "The Secret to a Stunning No Melt Ice Cream Cake",
+          "url": "https://newdecr.com/the-secret-to-a-stunning-no-melt-ice-cream-cake/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-03",
+          "is_new": true,
+          "lastmod": "2026-10-02T15:23:49+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+          "title": "Your New Favourite Crispy Air Fried Chicken Stuffed Buns",
+          "url": "https://newdecr.com/your-new-favourite-crispy-air-fried-chicken-stuffed-buns/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T08:55:39+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "graveyard-pudding-cups-spooky-fun-made-easy",
+          "title": "Graveyard Pudding Cups Spooky Fun Made Easy",
+          "url": "https://newdecr.com/graveyard-pudding-cups-spooky-fun-made-easy/",
+          "last_pinned_date": "2026-09-24",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:25:29+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+          "title": "Fresh Mango Crepe Rolls Smooth and Buttery Dessert",
+          "url": "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:12:07+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "unforgettably-flavorful-gluten-free-pumpkin-muffins",
+          "title": "Unforgettably Flavorful Gluten Free Pumpkin Muffins",
+          "url": "https://newdecr.com/unforgettably-flavorful-gluten-free-pumpkin-muffins/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-02",
+          "is_new": true,
+          "lastmod": "2026-10-02T06:37:56+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
+          "title": "Weekend Brunch Favorite Crispy Salt and Vinegar Wings",
+          "url": "https://newdecr.com/weekend-brunch-favorite-crispy-salt-and-vinegar-wings/",
+          "last_pinned_date": "2026-09-20",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:47:27+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": 7
+        }
+      ],
+      "itemStatuses": {
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": "pending",
+        "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat": "pending",
+        "shareable-irresistible-crab-rangoon-rolls-recipe": "pending",
+        "the-flavor-secret-behind-amazing-christmas-crockpot-candy": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat": "pending",
+        "bakery-quality-fish-and-chips-crispy-perfection-at-home": "pending",
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": "pending",
+        "the-secret-to-a-stunning-no-melt-ice-cream-cake": "pending",
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": "pending",
+        "graveyard-pudding-cups-spooky-fun-made-easy": "pending",
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": "pending",
+        "unforgettably-flavorful-gluten-free-pumpkin-muffins": "pending",
+        "weekend-brunch-favorite-crispy-salt-and-vinegar-wings": "pending",
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending"
+      },
+      "cardMessageIds": {
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": 1086,
+        "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat": 1087,
+        "shareable-irresistible-crab-rangoon-rolls-recipe": 1088,
+        "the-flavor-secret-behind-amazing-christmas-crockpot-candy": 1089,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 1090,
+        "fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat": 1091,
+        "bakery-quality-fish-and-chips-crispy-perfection-at-home": 1092,
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": 1093,
+        "the-secret-to-a-stunning-no-melt-ice-cream-cake": 1094,
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 1095,
+        "graveyard-pudding-cups-spooky-fun-made-easy": 1096,
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": 1097,
+        "unforgettably-flavorful-gluten-free-pumpkin-muffins": 1098,
+        "weekend-brunch-favorite-crispy-salt-and-vinegar-wings": 1099,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 1100
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 65
     }
   },
   "daily_selections": {
@@ -9540,6 +9779,23 @@
       "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
       "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings",
       "bacon-ranch-chopped-salad-your-new-weeknight-hero"
+    ],
+    "2026-10-03": [
+      "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+      "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat",
+      "shareable-irresistible-crab-rangoon-rolls-recipe",
+      "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat",
+      "bakery-quality-fish-and-chips-crispy-perfection-at-home",
+      "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+      "the-secret-to-a-stunning-no-melt-ice-cream-cake",
+      "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+      "graveyard-pudding-cups-spooky-fun-made-easy",
+      "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+      "unforgettably-flavorful-gluten-free-pumpkin-muffins",
+      "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
+      "your-new-favorite-spicy-bonchon-sauce-recipe"
     ]
   }
 }
