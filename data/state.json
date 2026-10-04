@@ -9150,6 +9150,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 65
+    },
+    "2026-10-04": {
+      "date": "2026-10-04",
+      "recipes": [
+        {
+          "slug": "easy-to-make-spicy-sriracha-wings-for-dinner",
+          "title": "Easy to Make Spicy Sriracha Wings for Dinner",
+          "url": "https://newdecr.com/easy-to-make-spicy-sriracha-wings-for-dinner/",
+          "last_pinned_date": "2026-09-23",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-03T09:12:28+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+          "title": "Crispy Air Fryer Fried Pickles Super Easy 15 Min Snack",
+          "url": "https://newdecr.com/crispy-air-fryer-fried-pickles-super-easy-15-min-snack/",
+          "last_pinned_date": "2026-09-23",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-16T20:16:49+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "air-fryer-crispy-mini-blooming-onions",
+          "title": "Air Fryer Crispy Mini Blooming Onions",
+          "url": "https://newdecr.com/air-fryer-crispy-mini-blooming-onions/",
+          "last_pinned_date": "2026-09-28",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:48+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "caramel-apple-perfection-season-favorite",
+          "title": "Caramel Apple Perfection Season Favorite",
+          "url": "https://newdecr.com/caramel-apple-perfection-season-favorite/",
+          "last_pinned_date": "2026-09-25",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-24",
+          "is_new": false,
+          "lastmod": "2026-09-23T06:31:08+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+          "title": "Cinnamon Roll Apple Lasagna the Upgraded Cinnamon Roll",
+          "url": "https://newdecr.com/cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll/",
+          "last_pinned_date": "2026-09-24",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:08:08+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "stress-free-cream-roll-recipe-delightfully-crispy-sweet",
+          "title": "Stress Free Cream Roll Recipe Delightfully Crispy Sweet",
+          "url": "https://newdecr.com/stress-free-cream-roll-recipe-delightfully-crispy-sweet/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-03",
+          "is_new": true,
+          "lastmod": "2026-10-02T14:59:52+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+          "title": "Brown Sugar Overnight Oats Your Easy Delicious Morning Fix",
+          "url": "https://newdecr.com/brown-sugar-overnight-oats-your-easy-delicious-morning-fix/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T13:09:59+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+          "title": "Beat the Heat with Refreshing Blue Raspberry Lemonade",
+          "url": "https://newdecr.com/beat-the-heat-with-refreshing-blue-raspberry-lemonade/",
+          "last_pinned_date": "2026-09-23",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:28+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+          "title": "Lets Make Delicious Homemade Eggnog That Youll Crave Again",
+          "url": "https://newdecr.com/lets-make-delicious-homemade-eggnog-that-youll-crave-again/",
+          "last_pinned_date": "2026-09-27",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:34:17+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+          "title": "How Restaurant Chefs Make a Perfect Prime Rib Roast",
+          "url": "https://newdecr.com/how-restaurant-chefs-make-a-perfect-prime-rib-roast/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:37:38+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "taco-sandwich-a-completeoy-new-take-on-sandwich",
+          "title": "Taco Sandwich a Completeoy New Take on Sandwich",
+          "url": "https://newdecr.com/taco-sandwich-a-completeoy-new-take-on-sandwich/",
+          "last_pinned_date": "2026-09-28",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T04:14:20+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "how-i-made-the-perfect-cheeseburger",
+          "title": "How I Made Cheeseburger",
+          "url": "https://newdecr.com/how-i-made-the-perfect-cheeseburger/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:42:14+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "light-zesty-completely-satisfying-crab-balls",
+          "title": "Light Zesty Completely Satisfying Crab Balls",
+          "url": "https://newdecr.com/light-zesty-completely-satisfying-crab-balls/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T04:00:32+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "sweet-tangy-garlic-herb-roasted-turkey-delight",
+          "title": "Sweet Tangy Garlic Herb Roasted Turkey Delight",
+          "url": "https://newdecr.com/sweet-tangy-garlic-herb-roasted-turkey-delight/",
+          "last_pinned_date": "2026-09-24",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:12:46+00:00",
+          "days_since_pinned": 10
+        }
+      ],
+      "itemStatuses": {
+        "easy-to-make-spicy-sriracha-wings-for-dinner": "pending",
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": "pending",
+        "air-fryer-crispy-mini-blooming-onions": "pending",
+        "caramel-apple-perfection-season-favorite": "pending",
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": "pending",
+        "stress-free-cream-roll-recipe-delightfully-crispy-sweet": "pending",
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": "pending",
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": "pending",
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": "pending",
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending",
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": "pending",
+        "how-i-made-the-perfect-cheeseburger": "pending",
+        "light-zesty-completely-satisfying-crab-balls": "pending",
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": "pending"
+      },
+      "cardMessageIds": {
+        "easy-to-make-spicy-sriracha-wings-for-dinner": 1102,
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": 1103,
+        "air-fryer-crispy-mini-blooming-onions": 1104,
+        "caramel-apple-perfection-season-favorite": 1105,
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": 1106,
+        "stress-free-cream-roll-recipe-delightfully-crispy-sweet": 1107,
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 1108,
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": 1109,
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": 1110,
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": 1111,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 1112,
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": 1113,
+        "how-i-made-the-perfect-cheeseburger": 1114,
+        "light-zesty-completely-satisfying-crab-balls": 1115,
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": 1116
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 65
     }
   },
   "daily_selections": {
@@ -9796,6 +10002,23 @@
       "unforgettably-flavorful-gluten-free-pumpkin-muffins",
       "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
       "your-new-favorite-spicy-bonchon-sauce-recipe"
+    ],
+    "2026-10-04": [
+      "easy-to-make-spicy-sriracha-wings-for-dinner",
+      "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+      "air-fryer-crispy-mini-blooming-onions",
+      "caramel-apple-perfection-season-favorite",
+      "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+      "stress-free-cream-roll-recipe-delightfully-crispy-sweet",
+      "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+      "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+      "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+      "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe",
+      "taco-sandwich-a-completeoy-new-take-on-sandwich",
+      "how-i-made-the-perfect-cheeseburger",
+      "light-zesty-completely-satisfying-crab-balls",
+      "sweet-tangy-garlic-herb-roasted-turkey-delight"
     ]
   }
 }
