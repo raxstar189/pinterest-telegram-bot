@@ -10180,6 +10180,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 65
+    },
+    "2026-10-09": {
+      "date": "2026-10-09",
+      "recipes": [
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-10-03",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": "2026-09-25",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+          "title": "Your New Signature Blueberry Cobbler the Simple Sweet Treat",
+          "url": "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/",
+          "last_pinned_date": "2026-09-29",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-11",
+          "is_new": false,
+          "lastmod": "2026-09-10T19:06:04+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+          "title": "The Showstopping Halloween Cheesecake a Holiday Menu Hero",
+          "url": "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/",
+          "last_pinned_date": "2026-09-30",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:57:11+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "fudgy-irresistible-red-velvet-brownies",
+          "title": "Fudgy Irresistible Red Velvet Brownies",
+          "url": "https://newdecr.com/fudgy-irresistible-red-velvet-brownies/",
+          "last_pinned_date": "2026-09-21",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:32:16+00:00",
+          "days_since_pinned": 18
+        },
+        {
+          "slug": "sundays-best-turkey-leftover-sandwich-for-family-dinner",
+          "title": "Sundays Best Turkey Leftover Sandwich for Family Dinner",
+          "url": "https://newdecr.com/sundays-best-turkey-leftover-sandwich-for-family-dinner/",
+          "last_pinned_date": "2026-09-30",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-11",
+          "is_new": false,
+          "lastmod": "2026-09-10T17:58:15+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": "2026-10-03",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+          "title": "Crispy Flavorful Easy Air Fried Chicken Bread Roll",
+          "url": "https://newdecr.com/crispy-flavorful-easy-air-fried-chicken-bread-roll/",
+          "last_pinned_date": "2026-10-02",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-28T05:14:40+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+          "title": "This Cute Critter Cake for Kids Is Sure to Make Them Smile",
+          "url": "https://newdecr.com/this-cute-critter-cake-for-kids-is-sure-to-make-them-smile/",
+          "last_pinned_date": "2026-09-25",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:45:10+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "bakery-quality-fish-and-chips-crispy-perfection-at-home",
+          "title": "Bakery Quality Fish and Chips Crispy Perfection at Home",
+          "url": "https://newdecr.com/bakery-quality-fish-and-chips-crispy-perfection-at-home/",
+          "last_pinned_date": "2026-10-03",
+          "times_pinned": 1,
+          "first_seen_date": "2026-10-03",
+          "is_new": false,
+          "lastmod": "2026-10-02T14:43:35+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": "2026-10-01",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+          "title": "Mess Free Classic Pecan Pie a Clean Kitchen Bake",
+          "url": "https://newdecr.com/mess-free-classic-pecan-pie-a-clean-kitchen-bake/",
+          "last_pinned_date": "2026-10-03",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-13",
+          "is_new": false,
+          "lastmod": "2026-09-12T08:23:17+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "the-cant-fail-garlic-mashed-potatoes-recipe",
+          "title": "The Cant Fail Garlic Mashed Potatoes Recipe",
+          "url": "https://newdecr.com/the-cant-fail-garlic-mashed-potatoes-recipe/",
+          "last_pinned_date": "2026-09-26",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-12",
+          "is_new": false,
+          "lastmod": "2026-09-11T06:49:03+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+          "title": "Your New Favourite Crispy Air Fried Chicken Stuffed Buns",
+          "url": "https://newdecr.com/your-new-favourite-crispy-air-fried-chicken-stuffed-buns/",
+          "last_pinned_date": "2026-10-03",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T08:55:39+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+          "title": "Crispy Air Fried Chicken Dumplings Current New Favorite Appetiser",
+          "url": "https://newdecr.com/crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser/",
+          "last_pinned_date": "2026-10-02",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T04:07:10+00:00",
+          "days_since_pinned": 7
+        }
+      ],
+      "itemStatuses": {
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending",
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": "pending",
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": "pending",
+        "fudgy-irresistible-red-velvet-brownies": "pending",
+        "sundays-best-turkey-leftover-sandwich-for-family-dinner": "pending",
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending",
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": "pending",
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": "pending",
+        "bakery-quality-fish-and-chips-crispy-perfection-at-home": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending",
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": "pending",
+        "the-cant-fail-garlic-mashed-potatoes-recipe": "pending",
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": "pending",
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": "pending"
+      },
+      "cardMessageIds": {
+        "seriously-good-mango-habanero-honey-garlic-sauce": 1184,
+        "chicken-wellington-your-next-dinner-party-showstopper": 1185,
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": 1186,
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": 1187,
+        "fudgy-irresistible-red-velvet-brownies": 1188,
+        "sundays-best-turkey-leftover-sandwich-for-family-dinner": 1189,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 1190,
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": 1191,
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": 1192,
+        "bakery-quality-fish-and-chips-crispy-perfection-at-home": 1193,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 1194,
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": 1195,
+        "the-cant-fail-garlic-mashed-potatoes-recipe": 1196,
+        "your-new-favourite-crispy-air-fried-chicken-stuffed-buns": 1197,
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": 1198
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 80
     }
   },
   "daily_selections": {
@@ -10911,6 +11117,23 @@
       "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost",
       "sundays-best-turkey-leftover-sandwich-for-family-dinner",
       "sweet-tangy-perfectly-balanced-sweet-potato-casserole"
+    ],
+    "2026-10-09": [
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "chicken-wellington-your-next-dinner-party-showstopper",
+      "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+      "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+      "fudgy-irresistible-red-velvet-brownies",
+      "sundays-best-turkey-leftover-sandwich-for-family-dinner",
+      "your-new-favorite-spicy-bonchon-sauce-recipe",
+      "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+      "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+      "bakery-quality-fish-and-chips-crispy-perfection-at-home",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+      "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+      "the-cant-fail-garlic-mashed-potatoes-recipe",
+      "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
+      "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser"
     ]
   }
 }
