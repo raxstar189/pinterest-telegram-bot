@@ -139,7 +139,8 @@
     "https://newdecr.com/fresh-vibrant-strawberry-shortcake-a-perfect-summer-treat/",
     "https://newdecr.com/bakery-quality-fish-and-chips-crispy-perfection-at-home/",
     "https://newdecr.com/stress-free-cream-roll-recipe-delightfully-crispy-sweet/",
-    "https://newdecr.com/the-secret-to-a-stunning-no-melt-ice-cream-cake/"
+    "https://newdecr.com/the-secret-to-a-stunning-no-melt-ice-cream-cake/",
+    "https://newdecr.com/hands-down-the-best-honey-baked-ham-youll-ever-make/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1541,6 +1542,16 @@
       "first_seen_date": "2026-10-03",
       "is_new": false,
       "lastmod": "2026-10-02T15:23:49+00:00"
+    },
+    "hands-down-the-best-honey-baked-ham-youll-ever-make": {
+      "slug": "hands-down-the-best-honey-baked-ham-youll-ever-make",
+      "title": "Hands Down the Best Honey Baked Ham Youll Ever Make",
+      "url": "https://newdecr.com/hands-down-the-best-honey-baked-ham-youll-ever-make/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-10",
+      "is_new": true,
+      "lastmod": "2026-10-09T05:22:30+00:00"
     }
   },
   "pending_messages": {
@@ -10386,6 +10397,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 80
+    },
+    "2026-10-10": {
+      "date": "2026-10-10",
+      "recipes": [
+        {
+          "slug": "christmas-sugar-cookies-your-family-will-adore",
+          "title": "Christmas Sugar Cookies Your Family Will Adore",
+          "url": "https://newdecr.com/christmas-sugar-cookies-your-family-will-adore/",
+          "last_pinned_date": "2026-09-24",
+          "times_pinned": 1,
+          "first_seen_date": "2026-09-24",
+          "is_new": false,
+          "lastmod": "2026-09-23T05:05:23+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": "2026-09-29",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero",
+          "title": "Hearty Sausage Egg and Cheese Breakfast Casserole Your Weekend Brunch Hero",
+          "url": "https://newdecr.com/hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero/",
+          "last_pinned_date": "2026-10-02",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T19:28:55+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "hands-down-the-best-honey-baked-ham-youll-ever-make",
+          "title": "Hands Down the Best Honey Baked Ham Youll Ever Make",
+          "url": "https://newdecr.com/hands-down-the-best-honey-baked-ham-youll-ever-make/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-10",
+          "is_new": true,
+          "lastmod": "2026-10-09T05:22:30+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "pumpkin-smores-very-unique-recipe",
+          "title": "Pumpkin Smores Very Unique Recipe",
+          "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+          "last_pinned_date": "2026-10-01",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:07:44+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "the-unforgettable-peppermint-bark-brownies-recipe",
+          "title": "The Unforgettable Peppermint Bark Brownies Recipe",
+          "url": "https://newdecr.com/the-unforgettable-peppermint-bark-brownies-recipe/",
+          "last_pinned_date": "2026-09-28",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:32:31+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+          "title": "Surely Better Than Takeout Crispy Juicy Homemade Chicken Nuggets",
+          "url": "https://newdecr.com/surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets/",
+          "last_pinned_date": "2026-09-30",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-30T09:44:58+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "seafood-chowmein-the-perfect-weeknight-delight",
+          "title": "Seafood Chowmein Weeknight Delight",
+          "url": "https://newdecr.com/seafood-chowmein-the-perfect-weeknight-delight/",
+          "last_pinned_date": "2026-09-30",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-29T13:49:12+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "taco-sandwich-a-completeoy-new-take-on-sandwich",
+          "title": "Taco Sandwich a Completeoy New Take on Sandwich",
+          "url": "https://newdecr.com/taco-sandwich-a-completeoy-new-take-on-sandwich/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T04:14:20+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+          "title": "Rum Soaked Fried Pineapple Tropical Treat",
+          "url": "https://newdecr.com/rum-soaked-fried-pineapple-your-new-favorite-tropical-treat/",
+          "last_pinned_date": "2026-10-01",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-11T06:19:31+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
+          "title": "The Best Chicken Avocado Cherry Tomato Salad Easy Fresh",
+          "url": "https://newdecr.com/the-best-chicken-avocado-cherry-tomato-salad-easy-fresh/",
+          "last_pinned_date": "2026-10-02",
+          "times_pinned": 3,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:00+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+          "title": "Bacon Ranch Chopped Salad Your New Weeknight Hero",
+          "url": "https://newdecr.com/bacon-ranch-chopped-salad-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-10-02",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:53:04+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
+          "title": "One Pot Pumpkin Mac and Cheese My New Fall Favorite",
+          "url": "https://newdecr.com/one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite/",
+          "last_pinned_date": "2026-09-30",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-06T12:49:15+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+          "title": "The Flavor Secret Behind Amazing Christmas Crockpot Candy",
+          "url": "https://newdecr.com/the-flavor-secret-behind-amazing-christmas-crockpot-candy/",
+          "last_pinned_date": "2026-10-03",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T04:51:50+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+          "title": "Beat the Heat with Refreshing Blue Raspberry Lemonade",
+          "url": "https://newdecr.com/beat-the-heat-with-refreshing-blue-raspberry-lemonade/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:28+00:00",
+          "days_since_pinned": 6
+        }
+      ],
+      "itemStatuses": {
+        "christmas-sugar-cookies-your-family-will-adore": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero": "pending",
+        "hands-down-the-best-honey-baked-ham-youll-ever-make": "pending",
+        "pumpkin-smores-very-unique-recipe": "pending",
+        "the-unforgettable-peppermint-bark-brownies-recipe": "pending",
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": "pending",
+        "seafood-chowmein-the-perfect-weeknight-delight": "pending",
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": "pending",
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": "pending",
+        "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh": "pending",
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": "pending",
+        "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite": "pending",
+        "the-flavor-secret-behind-amazing-christmas-crockpot-candy": "pending",
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": "pending"
+      },
+      "cardMessageIds": {
+        "christmas-sugar-cookies-your-family-will-adore": 1200,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 1201,
+        "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero": 1202,
+        "hands-down-the-best-honey-baked-ham-youll-ever-make": 1203,
+        "pumpkin-smores-very-unique-recipe": 1204,
+        "the-unforgettable-peppermint-bark-brownies-recipe": 1205,
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": 1206,
+        "seafood-chowmein-the-perfect-weeknight-delight": 1207,
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": 1208,
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 1209,
+        "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh": 1210,
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": 1211,
+        "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite": 1212,
+        "the-flavor-secret-behind-amazing-christmas-crockpot-candy": 1213,
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": 1214
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 69
     }
   },
   "daily_selections": {
@@ -11134,6 +11351,23 @@
       "the-cant-fail-garlic-mashed-potatoes-recipe",
       "your-new-favourite-crispy-air-fried-chicken-stuffed-buns",
       "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser"
+    ],
+    "2026-10-10": [
+      "christmas-sugar-cookies-your-family-will-adore",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero",
+      "hands-down-the-best-honey-baked-ham-youll-ever-make",
+      "pumpkin-smores-very-unique-recipe",
+      "the-unforgettable-peppermint-bark-brownies-recipe",
+      "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+      "seafood-chowmein-the-perfect-weeknight-delight",
+      "taco-sandwich-a-completeoy-new-take-on-sandwich",
+      "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+      "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
+      "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+      "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
+      "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+      "beat-the-heat-with-refreshing-blue-raspberry-lemonade"
     ]
   }
 }
