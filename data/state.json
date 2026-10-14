@@ -11221,6 +11221,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 69
+    },
+    "2026-10-14": {
+      "date": "2026-10-14",
+      "recipes": [
+        {
+          "slug": "hearty-tomato-minced-beef-soup-recipe",
+          "title": "Hearty Tomato Minced Beef Soup Recipe",
+          "url": "https://newdecr.com/hearty-tomato-minced-beef-soup-recipe/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:54+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+          "title": "Cinnamon Roll Apple Lasagna the Upgraded Cinnamon Roll",
+          "url": "https://newdecr.com/cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:08:08+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+          "title": "Cowboy Butter Tortellini Nice Steak Bites Your New Weeknight Hero",
+          "url": "https://newdecr.com/cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:39+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "get-ready-for-the-best-homemade-soft-pretzel-bites",
+          "title": "Get Ready for the Best Homemade Soft Pretzel Bites",
+          "url": "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/",
+          "last_pinned_date": "2026-10-06",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:36:07+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "shareable-irresistible-crab-rangoon-rolls-recipe",
+          "title": "Shareable Irresistible Crab Rangoon Rolls Recipe",
+          "url": "https://newdecr.com/shareable-irresistible-crab-rangoon-rolls-recipe/",
+          "last_pinned_date": "2026-10-03",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:47:45+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal",
+          "title": "Creamy Smothered Chicken and Rice Weeknight Meal",
+          "url": "https://newdecr.com/creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal/",
+          "last_pinned_date": "2026-10-05",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:11+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+          "title": "Spooky Witch Finger Cookies a Family Sunday Dinner Treat",
+          "url": "https://newdecr.com/spooky-witch-finger-cookies-a-family-sunday-dinner-treat/",
+          "last_pinned_date": "2026-10-05",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-16",
+          "is_new": false,
+          "lastmod": "2026-09-15T04:46:01+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat",
+          "title": "Make Ahead Friendly Spider Deviled Eggs a Spooky Treat",
+          "url": "https://newdecr.com/make-ahead-friendly-spider-deviled-eggs-a-spooky-treat/",
+          "last_pinned_date": "2026-10-06",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-11",
+          "is_new": false,
+          "lastmod": "2026-09-10T18:11:04+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "ditch-the-store-bake-your-best-homemade-carrot-cake",
+          "title": "Ditch the Store Bake Your Best Homemade Carrot Cake",
+          "url": "https://newdecr.com/ditch-the-store-bake-your-best-homemade-carrot-cake/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-16",
+          "is_new": false,
+          "lastmod": "2026-09-15T04:57:06+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "the-picky-eater-approved-strawberry-chia-pudding",
+          "title": "The Picky Eater Approved Strawberry Chia Pudding",
+          "url": "https://newdecr.com/the-picky-eater-approved-strawberry-chia-pudding/",
+          "last_pinned_date": "2026-10-05",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T03:47:58+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+          "title": "Corndog Crispy Golden and Totally Delicious",
+          "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
+          "last_pinned_date": "2026-09-27",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:57+00:00",
+          "days_since_pinned": 17
+        },
+        {
+          "slug": "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+          "title": "How Restaurant Chefs Make a Perfect Prime Rib Roast",
+          "url": "https://newdecr.com/how-restaurant-chefs-make-a-perfect-prime-rib-roast/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:37:38+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+          "title": "Crispy Air Fryer Fried Pickles Super Easy 15 Min Snack",
+          "url": "https://newdecr.com/crispy-air-fryer-fried-pickles-super-easy-15-min-snack/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-16T20:16:49+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+          "title": "Time Saving Scalloped Potatoes Rich Flavor Zero Compromise",
+          "url": "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/",
+          "last_pinned_date": "2026-09-25",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:58:18+00:00",
+          "days_since_pinned": 19
+        },
+        {
+          "slug": "graveyard-pudding-cups-spooky-fun-made-easy",
+          "title": "Graveyard Pudding Cups Spooky Fun Made Easy",
+          "url": "https://newdecr.com/graveyard-pudding-cups-spooky-fun-made-easy/",
+          "last_pinned_date": "2026-10-03",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:25:29+00:00",
+          "days_since_pinned": 11
+        }
+      ],
+      "itemStatuses": {
+        "hearty-tomato-minced-beef-soup-recipe": "pending",
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": "pending",
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": "pending",
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": "pending",
+        "shareable-irresistible-crab-rangoon-rolls-recipe": "pending",
+        "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal": "pending",
+        "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": "pending",
+        "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat": "pending",
+        "ditch-the-store-bake-your-best-homemade-carrot-cake": "pending",
+        "the-picky-eater-approved-strawberry-chia-pudding": "pending",
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending",
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": "pending",
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": "pending",
+        "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": "pending",
+        "graveyard-pudding-cups-spooky-fun-made-easy": "pending"
+      },
+      "cardMessageIds": {
+        "hearty-tomato-minced-beef-soup-recipe": 1266,
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": 1267,
+        "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero": 1268,
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": 1269,
+        "shareable-irresistible-crab-rangoon-rolls-recipe": 1270,
+        "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal": 1271,
+        "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": 1272,
+        "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat": 1273,
+        "ditch-the-store-bake-your-best-homemade-carrot-cake": 1274,
+        "the-picky-eater-approved-strawberry-chia-pudding": 1275,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 1276,
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": 1277,
+        "crispy-air-fryer-fried-pickles-super-easy-15-min-snack": 1278,
+        "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": 1279,
+        "graveyard-pudding-cups-spooky-fun-made-easy": 1280
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 54
     }
   },
   "daily_selections": {
@@ -12037,6 +12243,23 @@
       "sweet-savory-glazed-carrots-my-new-favorite-side",
       "the-timeless-classic-peanut-butter-spider-cookies",
       "bacon-mushroom-pasta-easy-dinner-recipe"
+    ],
+    "2026-10-14": [
+      "hearty-tomato-minced-beef-soup-recipe",
+      "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+      "cowboy-butter-tortellini-nice-steak-bites-your-new-weeknight-hero",
+      "get-ready-for-the-best-homemade-soft-pretzel-bites",
+      "shareable-irresistible-crab-rangoon-rolls-recipe",
+      "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal",
+      "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+      "make-ahead-friendly-spider-deviled-eggs-a-spooky-treat",
+      "ditch-the-store-bake-your-best-homemade-carrot-cake",
+      "the-picky-eater-approved-strawberry-chia-pudding",
+      "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+      "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+      "crispy-air-fryer-fried-pickles-super-easy-15-min-snack",
+      "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+      "graveyard-pudding-cups-spooky-fun-made-easy"
     ]
   }
 }
