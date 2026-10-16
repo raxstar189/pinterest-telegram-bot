@@ -11633,6 +11633,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 66
+    },
+    "2026-10-16": {
+      "date": "2026-10-16",
+      "recipes": [
+        {
+          "slug": "hands-down-the-best-honey-baked-ham-youll-ever-make",
+          "title": "Hands Down the Best Honey Baked Ham Youll Ever Make",
+          "url": "https://newdecr.com/hands-down-the-best-honey-baked-ham-youll-ever-make/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 1,
+          "first_seen_date": "2026-10-10",
+          "is_new": false,
+          "lastmod": "2026-10-09T05:22:30+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero",
+          "title": "Hearty Sausage Egg and Cheese Breakfast Casserole Your Weekend Brunch Hero",
+          "url": "https://newdecr.com/hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T19:28:55+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+          "title": "Blueberry Cream Cheese Muffin Cake",
+          "url": "https://newdecr.com/your-new-favorite-blueberry-cream-cheese-muffin-cake/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:25+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+          "title": "Biscoff Cheesecake Your Favorite Cozy Cafe Dessert",
+          "url": "https://newdecr.com/biscoff-cheesecake-your-favorite-cozy-cafe-dessert/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:29:22+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "seriously-good-garlic-cheese-bread-breakfast-done-right",
+          "title": "Garlic Cheese Bread Breakfast Done Right",
+          "url": "https://newdecr.com/seriously-good-garlic-cheese-bread-breakfast-done-right/",
+          "last_pinned_date": "2026-09-30",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:41+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "cajun-potato-soup-your-new-favorite-comfort-food",
+          "title": "Cajun Potato Soup Comfort Food",
+          "url": "https://newdecr.com/cajun-potato-soup-your-new-favorite-comfort-food/",
+          "last_pinned_date": "2026-10-05",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:59+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time",
+          "title": "Sheet Pan Chicken Pita Lifesaver When You Have Little Time",
+          "url": "https://newdecr.com/sheet-pan-chicken-pita-lifesaver-when-you-have-little-time/",
+          "last_pinned_date": "2026-10-06",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T04:03:33+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "loaded-potato-taco-bowl-weeknight-obsession-justified",
+          "title": "Loaded Potato Taco Bowl Weeknight Obsession Justified",
+          "url": "https://newdecr.com/loaded-potato-taco-bowl-weeknight-obsession-justified/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T16:27:24+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever",
+          "title": "Can Just 5 Ingredients Really Make the Best Corn Cheese Balls Ever",
+          "url": "https://newdecr.com/can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever/",
+          "last_pinned_date": "2026-10-02",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:09:03+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+          "title": "Crispy Air Fryer Shrimp Toast Easy Appetizer",
+          "url": "https://newdecr.com/crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer/",
+          "last_pinned_date": "2026-10-05",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:48:05+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+          "title": "Bacon Ranch Chopped Salad Your New Weeknight Hero",
+          "url": "https://newdecr.com/bacon-ranch-chopped-salad-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:53:04+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix",
+          "title": "Vegetable Egg Drop Soup Your Quick Cozy Comfort Fix",
+          "url": "https://newdecr.com/vegetable-egg-drop-soup-your-quick-cozy-comfort-fix/",
+          "last_pinned_date": "2026-10-05",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:55:08+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+          "title": "Air Fryer Garlic Parmesan Shrimp Your New Weeknight Hero",
+          "url": "https://newdecr.com/air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-10-06",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:53+00:00",
+          "days_since_pinned": 10
+        }
+      ],
+      "itemStatuses": {
+        "hands-down-the-best-honey-baked-ham-youll-ever-make": "pending",
+        "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero": "pending",
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": "pending",
+        "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": "pending",
+        "seriously-good-garlic-cheese-bread-breakfast-done-right": "pending",
+        "cajun-potato-soup-your-new-favorite-comfort-food": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending",
+        "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time": "pending",
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": "pending",
+        "can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever": "pending",
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": "pending",
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": "pending",
+        "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending",
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": "pending"
+      },
+      "cardMessageIds": {
+        "hands-down-the-best-honey-baked-ham-youll-ever-make": 1298,
+        "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero": 1299,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 1300,
+        "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": 1301,
+        "seriously-good-garlic-cheese-bread-breakfast-done-right": 1302,
+        "cajun-potato-soup-your-new-favorite-comfort-food": 1303,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 1304,
+        "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time": 1305,
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": 1306,
+        "can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever": 1307,
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": 1308,
+        "bacon-ranch-chopped-salad-your-new-weeknight-hero": 1309,
+        "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix": 1310,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 1311,
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": 1312
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 66
     }
   },
   "daily_selections": {
@@ -12483,6 +12689,23 @@
       "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
       "mini-funfetti-yogurt-muffins-fun-in-every-bite",
       "air-fried-honey-bbq-chicken-wings-the-new-must-have"
+    ],
+    "2026-10-16": [
+      "hands-down-the-best-honey-baked-ham-youll-ever-make",
+      "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero",
+      "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+      "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+      "seriously-good-garlic-cheese-bread-breakfast-done-right",
+      "cajun-potato-soup-your-new-favorite-comfort-food",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+      "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time",
+      "loaded-potato-taco-bowl-weeknight-obsession-justified",
+      "can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever",
+      "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+      "bacon-ranch-chopped-salad-your-new-weeknight-hero",
+      "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe",
+      "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero"
     ]
   }
 }
