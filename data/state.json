@@ -140,7 +140,8 @@
     "https://newdecr.com/bakery-quality-fish-and-chips-crispy-perfection-at-home/",
     "https://newdecr.com/stress-free-cream-roll-recipe-delightfully-crispy-sweet/",
     "https://newdecr.com/the-secret-to-a-stunning-no-melt-ice-cream-cake/",
-    "https://newdecr.com/hands-down-the-best-honey-baked-ham-youll-ever-make/"
+    "https://newdecr.com/hands-down-the-best-honey-baked-ham-youll-ever-make/",
+    "https://newdecr.com/instant-craving-cure-spicy-chipotle-egg-sandwiches/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1552,6 +1553,16 @@
       "first_seen_date": "2026-10-10",
       "is_new": false,
       "lastmod": "2026-10-09T05:22:30+00:00"
+    },
+    "instant-craving-cure-spicy-chipotle-egg-sandwiches": {
+      "slug": "instant-craving-cure-spicy-chipotle-egg-sandwiches",
+      "title": "Instant Craving Cure Spicy Chipotle Egg Sandwiches",
+      "url": "https://newdecr.com/instant-craving-cure-spicy-chipotle-egg-sandwiches/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-17",
+      "is_new": true,
+      "lastmod": "2026-10-16T12:53:49+00:00"
     }
   },
   "pending_messages": {
@@ -11839,6 +11850,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 66
+    },
+    "2026-10-17": {
+      "date": "2026-10-17",
+      "recipes": [
+        {
+          "slug": "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+          "title": "Air Fried Alfredo Chicken Pasta Your New Weeknight Obsession",
+          "url": "https://newdecr.com/air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-10-05",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-02T17:03:19+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "instant-craving-cure-spicy-chipotle-egg-sandwiches",
+          "title": "Instant Craving Cure Spicy Chipotle Egg Sandwiches",
+          "url": "https://newdecr.com/instant-craving-cure-spicy-chipotle-egg-sandwiches/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-17",
+          "is_new": true,
+          "lastmod": "2026-10-16T12:53:49+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+          "title": "Mushroom Stuffed Chicken Breast Your New Weeknight Favorite",
+          "url": "https://newdecr.com/mushroom-stuffed-chicken-breast-your-new-weeknight-favorite/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:04:16+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "pumpkin-smores-very-unique-recipe",
+          "title": "Pumpkin Smores Very Unique Recipe",
+          "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:07:44+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings",
+          "title": "My Secret for Unbelievably Crispy Air Fryer Chicken Wings",
+          "url": "https://newdecr.com/my-secret-for-unbelievably-crispy-air-fryer-chicken-wings/",
+          "last_pinned_date": "2026-10-02",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T21:06:04+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "fudgy-brown-butter-brownies-explosion-of-flavor",
+          "title": "Fudgy Brown Butter Brownies Explosion of Flavor",
+          "url": "https://newdecr.com/fudgy-brown-butter-brownies-explosion-of-flavor/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-20T18:47:42+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "how-restaurant-chefs-craft-delicious-shrimp-balls",
+          "title": "How Restaurant Chefs Craft Delicious Shrimp Balls",
+          "url": "https://newdecr.com/how-restaurant-chefs-craft-delicious-shrimp-balls/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 3,
+          "first_seen_date": "2026-09-18",
+          "is_new": false,
+          "lastmod": "2026-09-17T18:37:42+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "stress-free-cream-roll-recipe-delightfully-crispy-sweet",
+          "title": "Stress Free Cream Roll Recipe Delightfully Crispy Sweet",
+          "url": "https://newdecr.com/stress-free-cream-roll-recipe-delightfully-crispy-sweet/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 1,
+          "first_seen_date": "2026-10-03",
+          "is_new": false,
+          "lastmod": "2026-10-02T14:59:52+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "sweet-peach-lemonade-your-go-to-summer-sip",
+          "title": "Sweet Peach Lemonade Summer Sip",
+          "url": "https://newdecr.com/sweet-peach-lemonade-your-go-to-summer-sip/",
+          "last_pinned_date": "2026-10-06",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:22+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "caramel-apple-pie-one-of-the-best-fall-dessert",
+          "title": "Caramel Apple Pie One of the Best Fall Dessert",
+          "url": "https://newdecr.com/caramel-apple-pie-one-of-the-best-fall-dessert/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:59:04+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "air-fryer-crispy-mini-blooming-onions",
+          "title": "Air Fryer Crispy Mini Blooming Onions",
+          "url": "https://newdecr.com/air-fryer-crispy-mini-blooming-onions/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:48+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "churu-chicken-amarillo-your-next-favorite-comfort-food",
+          "title": "Churu Chicken Amarillo Your Next Favorite Comfort Food",
+          "url": "https://newdecr.com/churu-chicken-amarillo-your-next-favorite-comfort-food/",
+          "last_pinned_date": "2026-10-01",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:58:18+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right",
+          "title": "My Go to One Pan Garlic Steak Tortellini Seriously Easy Dinner Done Right",
+          "url": "https://newdecr.com/my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-09T10:34:08+00:00",
+          "days_since_pinned": 6
+        }
+      ],
+      "itemStatuses": {
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": "pending",
+        "instant-craving-cure-spicy-chipotle-egg-sandwiches": "pending",
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending",
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": "pending",
+        "pumpkin-smores-very-unique-recipe": "pending",
+        "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings": "pending",
+        "fudgy-brown-butter-brownies-explosion-of-flavor": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending",
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": "pending",
+        "stress-free-cream-roll-recipe-delightfully-crispy-sweet": "pending",
+        "sweet-peach-lemonade-your-go-to-summer-sip": "pending",
+        "caramel-apple-pie-one-of-the-best-fall-dessert": "pending",
+        "air-fryer-crispy-mini-blooming-onions": "pending",
+        "churu-chicken-amarillo-your-next-favorite-comfort-food": "pending",
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": "pending"
+      },
+      "cardMessageIds": {
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": 1314,
+        "instant-craving-cure-spicy-chipotle-egg-sandwiches": 1315,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 1316,
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": 1317,
+        "pumpkin-smores-very-unique-recipe": 1318,
+        "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings": 1319,
+        "fudgy-brown-butter-brownies-explosion-of-flavor": 1320,
+        "chicken-wellington-your-next-dinner-party-showstopper": 1321,
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": 1322,
+        "stress-free-cream-roll-recipe-delightfully-crispy-sweet": 1323,
+        "sweet-peach-lemonade-your-go-to-summer-sip": 1324,
+        "caramel-apple-pie-one-of-the-best-fall-dessert": 1325,
+        "air-fryer-crispy-mini-blooming-onions": 1326,
+        "churu-chicken-amarillo-your-next-favorite-comfort-food": 1327,
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": 1328
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 67
     }
   },
   "daily_selections": {
@@ -12706,6 +12923,23 @@
       "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix",
       "easy-to-make-asian-style-beef-crescent-roll-recipe",
       "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero"
+    ],
+    "2026-10-17": [
+      "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+      "instant-craving-cure-spicy-chipotle-egg-sandwiches",
+      "your-new-favorite-spicy-bonchon-sauce-recipe",
+      "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+      "pumpkin-smores-very-unique-recipe",
+      "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings",
+      "fudgy-brown-butter-brownies-explosion-of-flavor",
+      "chicken-wellington-your-next-dinner-party-showstopper",
+      "how-restaurant-chefs-craft-delicious-shrimp-balls",
+      "stress-free-cream-roll-recipe-delightfully-crispy-sweet",
+      "sweet-peach-lemonade-your-go-to-summer-sip",
+      "caramel-apple-pie-one-of-the-best-fall-dessert",
+      "air-fryer-crispy-mini-blooming-onions",
+      "churu-chicken-amarillo-your-next-favorite-comfort-food",
+      "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right"
     ]
   }
 }
