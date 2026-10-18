@@ -12056,6 +12056,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 67
+    },
+    "2026-10-18": {
+      "date": "2026-10-18",
+      "recipes": [
+        {
+          "slug": "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+          "title": "Surely Better Than Takeout Crispy Juicy Homemade Chicken Nuggets",
+          "url": "https://newdecr.com/surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-30T09:44:58+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+          "title": "This Is the Best Chocolate Cake Recipe You Will Ever Make",
+          "url": "https://newdecr.com/this-is-the-best-chocolate-cake-recipe-you-will-ever-make/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-20T09:29:27+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+          "title": "Tropical Mango Mousse Your Foolproof Guide to Perfect Dessert",
+          "url": "https://newdecr.com/tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:39:00+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+          "title": "Crispy Air Fried Chicken Dumplings Current New Favorite Appetiser",
+          "url": "https://newdecr.com/crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T04:07:10+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+          "title": "Comforting Pumpkin Shepherds Pie Comforting Fall Meal",
+          "url": "https://newdecr.com/comforting-pumpkin-shepherds-pie-comforting-fall-meal/",
+          "last_pinned_date": "2026-10-06",
+          "times_pinned": 4,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:28:40+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+          "title": "Crispy Garlic Parmesan Sweet Potato One of the Easiest Side Dish",
+          "url": "https://newdecr.com/crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-17T18:13:31+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "hot-honey-shrimp-your-new-weeknight-obsession",
+          "title": "Hot Honey Shrimp Your New Weeknight Obsession",
+          "url": "https://newdecr.com/hot-honey-shrimp-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:08+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+          "title": "Your New Weeknight Obsession Homemade Easy Stuffed Crust Pizza",
+          "url": "https://newdecr.com/your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-11T04:46:03+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+          "title": "The Best Vegan Pumpkin Spice Cake Youll Ever Bake",
+          "url": "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
+          "last_pinned_date": "2026-10-06",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T07:23:25+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+          "title": "Meal Authentic Middle Eastern Beef Shawarma",
+          "url": "https://newdecr.com/your-new-favorite-meal-authentic-middle-eastern-beef-shawarma/",
+          "last_pinned_date": "2026-10-12",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-14T13:54:09+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": "2026-10-12",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat",
+          "title": "Easy Ham and Cheese Muffins Grab and Go Treat",
+          "url": "https://newdecr.com/easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:28:05+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail",
+          "title": "The Electric Blue Dream Blue Lagoon Cocktail",
+          "url": "https://newdecr.com/the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:54:39+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit",
+          "title": "Your New Go to Simple Italian Pasta Salad Thats Always a Hit",
+          "url": "https://newdecr.com/your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:55:10+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "beat-the-heat-with-refreshing-blue-raspberry-lemonade",
+          "title": "Beat the Heat with Refreshing Blue Raspberry Lemonade",
+          "url": "https://newdecr.com/beat-the-heat-with-refreshing-blue-raspberry-lemonade/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:28+00:00",
+          "days_since_pinned": 8
+        }
+      ],
+      "itemStatuses": {
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": "pending",
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": "pending",
+        "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": "pending",
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": "pending",
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": "pending",
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": "pending",
+        "hot-honey-shrimp-your-new-weeknight-obsession": "pending",
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": "pending",
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": "pending",
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": "pending",
+        "air-fried-crispy-chicken-drumsticks": "pending",
+        "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat": "pending",
+        "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail": "pending",
+        "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit": "pending",
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": "pending"
+      },
+      "cardMessageIds": {
+        "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets": 1330,
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 1331,
+        "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": 1332,
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": 1333,
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": 1334,
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": 1335,
+        "hot-honey-shrimp-your-new-weeknight-obsession": 1336,
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": 1337,
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": 1338,
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": 1339,
+        "air-fried-crispy-chicken-drumsticks": 1340,
+        "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat": 1341,
+        "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail": 1342,
+        "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit": 1343,
+        "beat-the-heat-with-refreshing-blue-raspberry-lemonade": 1344
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 67
     }
   },
   "daily_selections": {
@@ -12940,6 +13146,23 @@
       "air-fryer-crispy-mini-blooming-onions",
       "churu-chicken-amarillo-your-next-favorite-comfort-food",
       "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right"
+    ],
+    "2026-10-18": [
+      "surely-better-than-takeout-crispy-juicy-homemade-chicken-nuggets",
+      "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+      "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+      "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+      "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+      "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+      "hot-honey-shrimp-your-new-weeknight-obsession",
+      "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+      "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+      "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+      "air-fried-crispy-chicken-drumsticks",
+      "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat",
+      "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail",
+      "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit",
+      "beat-the-heat-with-refreshing-blue-raspberry-lemonade"
     ]
   }
 }
