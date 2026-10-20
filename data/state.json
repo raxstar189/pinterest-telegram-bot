@@ -141,7 +141,10 @@
     "https://newdecr.com/stress-free-cream-roll-recipe-delightfully-crispy-sweet/",
     "https://newdecr.com/the-secret-to-a-stunning-no-melt-ice-cream-cake/",
     "https://newdecr.com/hands-down-the-best-honey-baked-ham-youll-ever-make/",
-    "https://newdecr.com/instant-craving-cure-spicy-chipotle-egg-sandwiches/"
+    "https://newdecr.com/instant-craving-cure-spicy-chipotle-egg-sandwiches/",
+    "https://newdecr.com/easy-comfort-effortless-champagne-jello-shots-for-new-years-eve/",
+    "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
+    "https://newdecr.com/homemade-cornbread-is-it-really-better-than-store-bought/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1563,6 +1566,36 @@
       "first_seen_date": "2026-10-17",
       "is_new": false,
       "lastmod": "2026-10-16T12:53:49+00:00"
+    },
+    "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve": {
+      "slug": "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve",
+      "title": "Easy Comfort Effortless Champagne Jello Shots for New Years Eve",
+      "url": "https://newdecr.com/easy-comfort-effortless-champagne-jello-shots-for-new-years-eve/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-20",
+      "is_new": true,
+      "lastmod": "2026-10-19T05:34:14+00:00"
+    },
+    "grandmas-crispy-potato-pancakes-a-reimagined-comfort": {
+      "slug": "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+      "title": "Grandmas Crispy Potato Pancakes a Reimagined Comfort",
+      "url": "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-20",
+      "is_new": true,
+      "lastmod": "2026-10-19T05:48:14+00:00"
+    },
+    "homemade-cornbread-is-it-really-better-than-store-bought": {
+      "slug": "homemade-cornbread-is-it-really-better-than-store-bought",
+      "title": "Homemade Cornbread Is It Really Better Than Store Bought",
+      "url": "https://newdecr.com/homemade-cornbread-is-it-really-better-than-store-bought/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-20",
+      "is_new": true,
+      "lastmod": "2026-10-19T06:02:59+00:00"
     }
   },
   "pending_messages": {
@@ -12468,6 +12501,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 67
+    },
+    "2026-10-20": {
+      "date": "2026-10-20",
+      "recipes": [
+        {
+          "slug": "seafood-chowmein-the-perfect-weeknight-delight",
+          "title": "Seafood Chowmein Weeknight Delight",
+          "url": "https://newdecr.com/seafood-chowmein-the-perfect-weeknight-delight/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-29T13:49:12+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+          "title": "Hearty Italian Meatball Soup My Cherished Comfort Dish",
+          "url": "https://newdecr.com/hearty-italian-meatball-soup-my-cherished-comfort-dish/",
+          "last_pinned_date": "2026-10-05",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:47:38+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "mini-lunchbox-pizza-back-to-school-favorite",
+          "title": "Mini Lunchbox Pizza Back to School Favorite",
+          "url": "https://newdecr.com/mini-lunchbox-pizza-back-to-school-favorite/",
+          "last_pinned_date": "2026-10-13",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T09:07:13+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve",
+          "title": "Easy Comfort Effortless Champagne Jello Shots for New Years Eve",
+          "url": "https://newdecr.com/easy-comfort-effortless-champagne-jello-shots-for-new-years-eve/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-20",
+          "is_new": true,
+          "lastmod": "2026-10-19T05:34:14+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "key-lime-pound-cake-your-new-zesty-obsession",
+          "title": "Key Lime Pound Cake Your New Zesty Obsession",
+          "url": "https://newdecr.com/key-lime-pound-cake-your-new-zesty-obsession/",
+          "last_pinned_date": "2026-10-12",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:59+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+          "title": "Rum Soaked Fried Pineapple Tropical Treat",
+          "url": "https://newdecr.com/rum-soaked-fried-pineapple-your-new-favorite-tropical-treat/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-11T06:19:31+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "how-i-made-the-perfect-cheeseburger",
+          "title": "How I Made Cheeseburger",
+          "url": "https://newdecr.com/how-i-made-the-perfect-cheeseburger/",
+          "last_pinned_date": "2026-10-04",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:42:14+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+          "title": "Grandmas Crispy Potato Pancakes a Reimagined Comfort",
+          "url": "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-20",
+          "is_new": true,
+          "lastmod": "2026-10-19T05:48:14+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "homemade-cornbread-is-it-really-better-than-store-bought",
+          "title": "Homemade Cornbread Is It Really Better Than Store Bought",
+          "url": "https://newdecr.com/homemade-cornbread-is-it-really-better-than-store-bought/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-20",
+          "is_new": true,
+          "lastmod": "2026-10-19T06:02:59+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+          "title": "Ghost Oreo Balls Spooky Sweet Treats for Halloween",
+          "url": "https://newdecr.com/ghost-oreo-balls-spooky-sweet-treats-for-halloween/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:45:21+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "the-unforgettable-peppermint-bark-brownies-recipe",
+          "title": "The Unforgettable Peppermint Bark Brownies Recipe",
+          "url": "https://newdecr.com/the-unforgettable-peppermint-bark-brownies-recipe/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:32:31+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+          "title": "Crispy Flavorful Easy Air Fried Chicken Bread Roll",
+          "url": "https://newdecr.com/crispy-flavorful-easy-air-fried-chicken-bread-roll/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-28T05:14:40+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "savory-umami-creamy-ravioli-soup-a-comforting-bowl",
+          "title": "Savory Umami Creamy Ravioli Soup a Comforting Bowl",
+          "url": "https://newdecr.com/savory-umami-creamy-ravioli-soup-a-comforting-bowl/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:29:21+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "bakery-quality-fish-and-chips-crispy-perfection-at-home",
+          "title": "Bakery Quality Fish and Chips Crispy Perfection at Home",
+          "url": "https://newdecr.com/bakery-quality-fish-and-chips-crispy-perfection-at-home/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 2,
+          "first_seen_date": "2026-10-03",
+          "is_new": false,
+          "lastmod": "2026-10-02T14:43:35+00:00",
+          "days_since_pinned": 11
+        }
+      ],
+      "itemStatuses": {
+        "seafood-chowmein-the-perfect-weeknight-delight": "pending",
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": "pending",
+        "mini-lunchbox-pizza-back-to-school-favorite": "pending",
+        "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve": "pending",
+        "key-lime-pound-cake-your-new-zesty-obsession": "pending",
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": "pending",
+        "how-i-made-the-perfect-cheeseburger": "pending",
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": "pending",
+        "homemade-cornbread-is-it-really-better-than-store-bought": "pending",
+        "ghost-oreo-balls-spooky-sweet-treats-for-halloween": "pending",
+        "the-unforgettable-peppermint-bark-brownies-recipe": "pending",
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "savory-umami-creamy-ravioli-soup-a-comforting-bowl": "pending",
+        "bakery-quality-fish-and-chips-crispy-perfection-at-home": "pending"
+      },
+      "cardMessageIds": {
+        "seafood-chowmein-the-perfect-weeknight-delight": 1364,
+        "hearty-italian-meatball-soup-my-cherished-comfort-dish": 1365,
+        "mini-lunchbox-pizza-back-to-school-favorite": 1366,
+        "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve": 1367,
+        "key-lime-pound-cake-your-new-zesty-obsession": 1368,
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 1369,
+        "how-i-made-the-perfect-cheeseburger": 1370,
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": 1371,
+        "homemade-cornbread-is-it-really-better-than-store-bought": 1372,
+        "ghost-oreo-balls-spooky-sweet-treats-for-halloween": 1373,
+        "the-unforgettable-peppermint-bark-brownies-recipe": 1374,
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": 1375,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 1376,
+        "savory-umami-creamy-ravioli-soup-a-comforting-bowl": 1377,
+        "bakery-quality-fish-and-chips-crispy-perfection-at-home": 1378
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 74
     }
   },
   "daily_selections": {
@@ -13386,6 +13625,23 @@
       "no-fuss-gingerbread-cookies-chewy-spicy-perfection",
       "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
       "sundays-best-turkey-leftover-sandwich-for-family-dinner"
+    ],
+    "2026-10-20": [
+      "seafood-chowmein-the-perfect-weeknight-delight",
+      "hearty-italian-meatball-soup-my-cherished-comfort-dish",
+      "mini-lunchbox-pizza-back-to-school-favorite",
+      "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve",
+      "key-lime-pound-cake-your-new-zesty-obsession",
+      "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+      "how-i-made-the-perfect-cheeseburger",
+      "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+      "homemade-cornbread-is-it-really-better-than-store-bought",
+      "ghost-oreo-balls-spooky-sweet-treats-for-halloween",
+      "the-unforgettable-peppermint-bark-brownies-recipe",
+      "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "savory-umami-creamy-ravioli-soup-a-comforting-bowl",
+      "bakery-quality-fish-and-chips-crispy-perfection-at-home"
     ]
   }
 }
