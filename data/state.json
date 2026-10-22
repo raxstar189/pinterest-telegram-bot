@@ -12913,6 +12913,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 74
+    },
+    "2026-10-22": {
+      "date": "2026-10-22",
+      "recipes": [
+        {
+          "slug": "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+          "title": "Creamy Mushroom Chicken Comfort Dream",
+          "url": "https://newdecr.com/creamy-mushroom-chicken-your-weeknight-comfort-dream/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-10T17:04:16+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "delicious-wholesome-pumpkin-spice-latte-your-home-brew",
+          "title": "Delicious Wholesome Pumpkin Spice Latte Your Home Brew",
+          "url": "https://newdecr.com/delicious-wholesome-pumpkin-spice-latte-your-home-brew/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-11",
+          "is_new": false,
+          "lastmod": "2026-09-10T17:46:13+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
+          "title": "Homemade Gelato Ice Cream Italian Perfection",
+          "url": "https://newdecr.com/homemade-gelato-ice-cream-your-guide-to-italian-perfection/",
+          "last_pinned_date": "2026-10-11",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:35+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
+          "title": "One Pot Pumpkin Mac and Cheese My New Fall Favorite",
+          "url": "https://newdecr.com/one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-06T12:49:15+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+          "title": "Homemade Gulab Jamun Your Guide of Sweet Perfection of Indian Culture",
+          "url": "https://newdecr.com/homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture/",
+          "last_pinned_date": "2026-10-13",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T04:55:07+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+          "title": "This Cute Critter Cake for Kids Is Sure to Make Them Smile",
+          "url": "https://newdecr.com/this-cute-critter-cake-for-kids-is-sure-to-make-them-smile/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:45:10+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "start-the-healing-process-healthy-chia-tiramisu",
+          "title": "Start the Healing Process Healthy Chia Tiramisu",
+          "url": "https://newdecr.com/start-the-healing-process-healthy-chia-tiramisu/",
+          "last_pinned_date": "2026-10-13",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T17:08:52+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+          "title": "How Restaurant Chefs Make a Perfect Prime Rib Roast",
+          "url": "https://newdecr.com/how-restaurant-chefs-make-a-perfect-prime-rib-roast/",
+          "last_pinned_date": "2026-10-14",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:37:38+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+          "title": "The Showstopping Halloween Cheesecake a Holiday Menu Hero",
+          "url": "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:57:11+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost",
+          "title": "Budget Friendly Mummy Jalapeno Poppers 50 Taste 5 Cost",
+          "url": "https://newdecr.com/budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost/",
+          "last_pinned_date": "2026-10-15",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:42:03+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+          "title": "The Flavor Secret Behind Amazing Christmas Crockpot Candy",
+          "url": "https://newdecr.com/the-flavor-secret-behind-amazing-christmas-crockpot-candy/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T04:51:50+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "versatile-mini-pancake-bites-perfect-for-any-meal",
+          "title": "Versatile Mini Pancake Bites Perfect for Any Meal",
+          "url": "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
+          "last_pinned_date": "2026-10-15",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:01:05+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "how-to-make-puff-pastry-patties-in-haitian-style",
+          "title": "Puff Pastry Patties in Haitian Style",
+          "url": "https://newdecr.com/how-to-make-puff-pastry-patties-in-haitian-style/",
+          "last_pinned_date": "2026-10-07",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-02T17:38:23+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": "2026-10-16",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "warm-family-tradition-perfect-mango-sticky-rice-recipe",
+          "title": "Warm Family Tradition Perfect Mango Sticky Rice Recipe",
+          "url": "https://newdecr.com/warm-family-tradition-perfect-mango-sticky-rice-recipe/",
+          "last_pinned_date": "2026-10-12",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:44:44+00:00",
+          "days_since_pinned": 10
+        }
+      ],
+      "itemStatuses": {
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": "pending",
+        "delicious-wholesome-pumpkin-spice-latte-your-home-brew": "pending",
+        "homemade-gelato-ice-cream-your-guide-to-italian-perfection": "pending",
+        "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite": "pending",
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": "pending",
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": "pending",
+        "start-the-healing-process-healthy-chia-tiramisu": "pending",
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": "pending",
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": "pending",
+        "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost": "pending",
+        "the-flavor-secret-behind-amazing-christmas-crockpot-candy": "pending",
+        "versatile-mini-pancake-bites-perfect-for-any-meal": "pending",
+        "how-to-make-puff-pastry-patties-in-haitian-style": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending",
+        "warm-family-tradition-perfect-mango-sticky-rice-recipe": "pending"
+      },
+      "cardMessageIds": {
+        "creamy-mushroom-chicken-your-weeknight-comfort-dream": 1396,
+        "delicious-wholesome-pumpkin-spice-latte-your-home-brew": 1397,
+        "homemade-gelato-ice-cream-your-guide-to-italian-perfection": 1398,
+        "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite": 1399,
+        "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture": 1400,
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": 1401,
+        "start-the-healing-process-healthy-chia-tiramisu": 1402,
+        "how-restaurant-chefs-make-a-perfect-prime-rib-roast": 1403,
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": 1404,
+        "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost": 1405,
+        "the-flavor-secret-behind-amazing-christmas-crockpot-candy": 1406,
+        "versatile-mini-pancake-bites-perfect-for-any-meal": 1407,
+        "how-to-make-puff-pastry-patties-in-haitian-style": 1408,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 1409,
+        "warm-family-tradition-perfect-mango-sticky-rice-recipe": 1410
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 74
     }
   },
   "daily_selections": {
@@ -13865,6 +14071,23 @@
       "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
       "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
       "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh"
+    ],
+    "2026-10-22": [
+      "creamy-mushroom-chicken-your-weeknight-comfort-dream",
+      "delicious-wholesome-pumpkin-spice-latte-your-home-brew",
+      "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
+      "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
+      "homemade-gulab-jamun-your-guide-of-sweet-perfection-of-indian-culture",
+      "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+      "start-the-healing-process-healthy-chia-tiramisu",
+      "how-restaurant-chefs-make-a-perfect-prime-rib-roast",
+      "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+      "budget-friendly-mummy-jalapeno-poppers-50-taste-5-cost",
+      "the-flavor-secret-behind-amazing-christmas-crockpot-candy",
+      "versatile-mini-pancake-bites-perfect-for-any-meal",
+      "how-to-make-puff-pastry-patties-in-haitian-style",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe",
+      "warm-family-tradition-perfect-mango-sticky-rice-recipe"
     ]
   }
 }
