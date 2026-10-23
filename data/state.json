@@ -144,7 +144,8 @@
     "https://newdecr.com/instant-craving-cure-spicy-chipotle-egg-sandwiches/",
     "https://newdecr.com/easy-comfort-effortless-champagne-jello-shots-for-new-years-eve/",
     "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
-    "https://newdecr.com/homemade-cornbread-is-it-really-better-than-store-bought/"
+    "https://newdecr.com/homemade-cornbread-is-it-really-better-than-store-bought/",
+    "https://newdecr.com/5-ingredient-black-eyed-pea-skillet-quick-comforting/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1596,6 +1597,16 @@
       "first_seen_date": "2026-10-20",
       "is_new": false,
       "lastmod": "2026-10-19T06:02:59+00:00"
+    },
+    "5-ingredient-black-eyed-pea-skillet-quick-comforting": {
+      "slug": "5-ingredient-black-eyed-pea-skillet-quick-comforting",
+      "title": "5 Ingredient Black Eyed Pea Skillet Quick Comforting",
+      "url": "https://newdecr.com/5-ingredient-black-eyed-pea-skillet-quick-comforting/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-23",
+      "is_new": true,
+      "lastmod": "2026-10-22T06:47:22+00:00"
     }
   },
   "pending_messages": {
@@ -13119,6 +13130,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 74
+    },
+    "2026-10-23": {
+      "date": "2026-10-23",
+      "recipes": [
+        {
+          "slug": "tornado-potatoes-a-5-snack-with-50-restaurant-appeal",
+          "title": "Tornado Potatoes a 5 Snack with 50 Restaurant Appeal",
+          "url": "https://newdecr.com/tornado-potatoes-a-5-snack-with-50-restaurant-appeal/",
+          "last_pinned_date": "2026-10-15",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T04:28:20+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+          "title": "Escape to the Tropics with This Easy Pina Colada Chia Pudding",
+          "url": "https://newdecr.com/escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:19:22+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero",
+          "title": "Hearty Sausage Egg and Cheese Breakfast Casserole Your Weekend Brunch Hero",
+          "url": "https://newdecr.com/hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero/",
+          "last_pinned_date": "2026-10-16",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-04T19:28:55+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time",
+          "title": "Sheet Pan Chicken Pita Lifesaver When You Have Little Time",
+          "url": "https://newdecr.com/sheet-pan-chicken-pita-lifesaver-when-you-have-little-time/",
+          "last_pinned_date": "2026-10-16",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T04:03:33+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "instant-craving-cure-spicy-chipotle-egg-sandwiches",
+          "title": "Instant Craving Cure Spicy Chipotle Egg Sandwiches",
+          "url": "https://newdecr.com/instant-craving-cure-spicy-chipotle-egg-sandwiches/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 1,
+          "first_seen_date": "2026-10-17",
+          "is_new": false,
+          "lastmod": "2026-10-16T12:53:49+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "caramel-apple-pie-one-of-the-best-fall-dessert",
+          "title": "Caramel Apple Pie One of the Best Fall Dessert",
+          "url": "https://newdecr.com/caramel-apple-pie-one-of-the-best-fall-dessert/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:59:04+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "5-ingredient-black-eyed-pea-skillet-quick-comforting",
+          "title": "5 Ingredient Black Eyed Pea Skillet Quick Comforting",
+          "url": "https://newdecr.com/5-ingredient-black-eyed-pea-skillet-quick-comforting/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-23",
+          "is_new": true,
+          "lastmod": "2026-10-22T06:47:22+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "ditch-the-store-bake-your-best-homemade-carrot-cake",
+          "title": "Ditch the Store Bake Your Best Homemade Carrot Cake",
+          "url": "https://newdecr.com/ditch-the-store-bake-your-best-homemade-carrot-cake/",
+          "last_pinned_date": "2026-10-14",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-16",
+          "is_new": false,
+          "lastmod": "2026-09-15T04:57:06+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal",
+          "title": "Sweet and Spicy Jalapeno Raspberry Chicken Weeknight Meal",
+          "url": "https://newdecr.com/sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal/",
+          "last_pinned_date": "2026-10-13",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-08T19:04:49+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "can-four-ingredients-really-make-exquisite-bacon-cheese-rolls",
+          "title": "Can Four Ingredients Really Make Exquisite Bacon Cheese Rolls",
+          "url": "https://newdecr.com/can-four-ingredients-really-make-exquisite-bacon-cheese-rolls/",
+          "last_pinned_date": "2026-10-15",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-24",
+          "is_new": false,
+          "lastmod": "2026-09-23T06:13:26+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "get-ready-for-the-best-homemade-soft-pretzel-bites",
+          "title": "Get Ready for the Best Homemade Soft Pretzel Bites",
+          "url": "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/",
+          "last_pinned_date": "2026-10-14",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:36:07+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "60-minute-weeknight-baked-potato-fluffy-crispy",
+          "title": "60 Minute Weeknight Baked Potato Fluffy Crispy",
+          "url": "https://newdecr.com/60-minute-weeknight-baked-potato-fluffy-crispy/",
+          "last_pinned_date": "2026-10-12",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T08:42:44+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": "2026-10-16",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": 7
+        }
+      ],
+      "itemStatuses": {
+        "tornado-potatoes-a-5-snack-with-50-restaurant-appeal": "pending",
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending",
+        "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero": "pending",
+        "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time": "pending",
+        "instant-craving-cure-spicy-chipotle-egg-sandwiches": "pending",
+        "caramel-apple-pie-one-of-the-best-fall-dessert": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "5-ingredient-black-eyed-pea-skillet-quick-comforting": "pending",
+        "ditch-the-store-bake-your-best-homemade-carrot-cake": "pending",
+        "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": "pending",
+        "can-four-ingredients-really-make-exquisite-bacon-cheese-rolls": "pending",
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": "pending",
+        "60-minute-weeknight-baked-potato-fluffy-crispy": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending"
+      },
+      "cardMessageIds": {
+        "tornado-potatoes-a-5-snack-with-50-restaurant-appeal": 1428,
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": 1429,
+        "chicken-wellington-your-next-dinner-party-showstopper": 1430,
+        "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero": 1431,
+        "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time": 1432,
+        "instant-craving-cure-spicy-chipotle-egg-sandwiches": 1433,
+        "caramel-apple-pie-one-of-the-best-fall-dessert": 1434,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 1435,
+        "5-ingredient-black-eyed-pea-skillet-quick-comforting": 1436,
+        "ditch-the-store-bake-your-best-homemade-carrot-cake": 1437,
+        "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": 1438,
+        "can-four-ingredients-really-make-exquisite-bacon-cheese-rolls": 1439,
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": 1440,
+        "60-minute-weeknight-baked-potato-fluffy-crispy": 1441,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 1442
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 65
     }
   },
   "daily_selections": {
@@ -14088,6 +14305,23 @@
       "creamy-mushroom-chicken-your-weeknight-comfort-dream",
       "fudgy-irresistible-red-velvet-brownies",
       "bacon-mushroom-pasta-easy-dinner-recipe"
+    ],
+    "2026-10-23": [
+      "tornado-potatoes-a-5-snack-with-50-restaurant-appeal",
+      "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+      "chicken-wellington-your-next-dinner-party-showstopper",
+      "hearty-sausage-egg-and-cheese-breakfast-casserole-your-weekend-brunch-hero",
+      "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time",
+      "instant-craving-cure-spicy-chipotle-egg-sandwiches",
+      "caramel-apple-pie-one-of-the-best-fall-dessert",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "5-ingredient-black-eyed-pea-skillet-quick-comforting",
+      "ditch-the-store-bake-your-best-homemade-carrot-cake",
+      "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal",
+      "can-four-ingredients-really-make-exquisite-bacon-cheese-rolls",
+      "get-ready-for-the-best-homemade-soft-pretzel-bites",
+      "60-minute-weeknight-baked-potato-fluffy-crispy",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite"
     ]
   }
 }
