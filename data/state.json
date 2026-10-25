@@ -13542,6 +13542,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 80
+    },
+    "2026-10-25": {
+      "date": "2026-10-25",
+      "recipes": [
+        {
+          "slug": "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right",
+          "title": "My Go to One Pan Garlic Steak Tortellini Seriously Easy Dinner Done Right",
+          "url": "https://newdecr.com/my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-09T10:34:08+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+          "title": "Your New Weeknight Obsession Homemade Easy Stuffed Crust Pizza",
+          "url": "https://newdecr.com/your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza/",
+          "last_pinned_date": "2026-10-18",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-11T04:46:03+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+          "title": "Comforting Pumpkin Shepherds Pie Comforting Fall Meal",
+          "url": "https://newdecr.com/comforting-pumpkin-shepherds-pie-comforting-fall-meal/",
+          "last_pinned_date": "2026-10-18",
+          "times_pinned": 5,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:28:40+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "5-ingredient-black-eyed-pea-skillet-quick-comforting",
+          "title": "5 Ingredient Black Eyed Pea Skillet Quick Comforting",
+          "url": "https://newdecr.com/5-ingredient-black-eyed-pea-skillet-quick-comforting/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-23",
+          "is_new": false,
+          "lastmod": "2026-10-22T06:47:22+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+          "title": "Cinnamon Roll Apple Lasagna the Upgraded Cinnamon Roll",
+          "url": "https://newdecr.com/cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll/",
+          "last_pinned_date": "2026-10-14",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:08:08+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "get-ready-for-the-best-homemade-soft-pretzel-bites",
+          "title": "Get Ready for the Best Homemade Soft Pretzel Bites",
+          "url": "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/",
+          "last_pinned_date": "2026-10-14",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:36:07+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+          "title": "Escape to the Tropics with This Easy Pina Colada Chia Pudding",
+          "url": "https://newdecr.com/escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:19:22+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "stress-free-cream-roll-recipe-delightfully-crispy-sweet",
+          "title": "Stress Free Cream Roll Recipe Delightfully Crispy Sweet",
+          "url": "https://newdecr.com/stress-free-cream-roll-recipe-delightfully-crispy-sweet/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 2,
+          "first_seen_date": "2026-10-03",
+          "is_new": false,
+          "lastmod": "2026-10-02T14:59:52+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-10-09",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+          "title": "Air Fried Alfredo Chicken Pasta Your New Weeknight Obsession",
+          "url": "https://newdecr.com/air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-02T17:03:19+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+          "title": "Blueberry Cream Cheese Muffin Cake",
+          "url": "https://newdecr.com/your-new-favorite-blueberry-cream-cheese-muffin-cake/",
+          "last_pinned_date": "2026-10-16",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:25+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+          "title": "Crispy Air Fryer Shrimp Toast Easy Appetizer",
+          "url": "https://newdecr.com/crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer/",
+          "last_pinned_date": "2026-10-16",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:48:05+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "loaded-potato-taco-bowl-weeknight-obsession-justified",
+          "title": "Loaded Potato Taco Bowl Weeknight Obsession Justified",
+          "url": "https://newdecr.com/loaded-potato-taco-bowl-weeknight-obsession-justified/",
+          "last_pinned_date": "2026-10-16",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T16:27:24+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "how-restaurant-chefs-craft-delicious-shrimp-balls",
+          "title": "How Restaurant Chefs Craft Delicious Shrimp Balls",
+          "url": "https://newdecr.com/how-restaurant-chefs-craft-delicious-shrimp-balls/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-18",
+          "is_new": false,
+          "lastmod": "2026-09-17T18:37:42+00:00",
+          "days_since_pinned": 8
+        }
+      ],
+      "itemStatuses": {
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": "pending",
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": "pending",
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": "pending",
+        "5-ingredient-black-eyed-pea-skillet-quick-comforting": "pending",
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending",
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": "pending",
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": "pending",
+        "stress-free-cream-roll-recipe-delightfully-crispy-sweet": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": "pending",
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": "pending",
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": "pending",
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": "pending",
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": "pending"
+      },
+      "cardMessageIds": {
+        "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right": 1460,
+        "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza": 1461,
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": 1462,
+        "5-ingredient-black-eyed-pea-skillet-quick-comforting": 1463,
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": 1464,
+        "chicken-wellington-your-next-dinner-party-showstopper": 1465,
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": 1466,
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding": 1467,
+        "stress-free-cream-roll-recipe-delightfully-crispy-sweet": 1468,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 1469,
+        "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession": 1470,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 1471,
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": 1472,
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": 1473,
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": 1474
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 76
     }
   },
   "daily_selections": {
@@ -14545,6 +14751,23 @@
       "the-electric-blue-dream-your-guide-to-the-perfect-blue-lagoon-cocktail",
       "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
       "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies"
+    ],
+    "2026-10-25": [
+      "my-go-to-one-pan-garlic-steak-tortellini-seriously-easy-dinner-done-right",
+      "your-new-weeknight-obsession-homemade-easy-stuffed-crust-pizza",
+      "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+      "5-ingredient-black-eyed-pea-skillet-quick-comforting",
+      "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+      "chicken-wellington-your-next-dinner-party-showstopper",
+      "get-ready-for-the-best-homemade-soft-pretzel-bites",
+      "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudding",
+      "stress-free-cream-roll-recipe-delightfully-crispy-sweet",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "air-fried-alfredo-chicken-pasta-your-new-weeknight-obsession",
+      "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+      "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+      "loaded-potato-taco-bowl-weeknight-obsession-justified",
+      "how-restaurant-chefs-craft-delicious-shrimp-balls"
     ]
   }
 }
