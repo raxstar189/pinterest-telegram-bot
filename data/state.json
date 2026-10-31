@@ -145,7 +145,10 @@
     "https://newdecr.com/easy-comfort-effortless-champagne-jello-shots-for-new-years-eve/",
     "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
     "https://newdecr.com/homemade-cornbread-is-it-really-better-than-store-bought/",
-    "https://newdecr.com/5-ingredient-black-eyed-pea-skillet-quick-comforting/"
+    "https://newdecr.com/5-ingredient-black-eyed-pea-skillet-quick-comforting/",
+    "https://newdecr.com/5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made-easy/",
+    "https://newdecr.com/warm-family-tradition-classic-peanut-butter-blossoms/",
+    "https://newdecr.com/the-versatile-chocolate-panna-cotta-serve-any-way-you-like/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1607,6 +1610,36 @@
       "first_seen_date": "2026-10-23",
       "is_new": false,
       "lastmod": "2026-10-22T06:47:22+00:00"
+    },
+    "5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made-easy": {
+      "slug": "5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made-easy",
+      "title": "5 Ingredient Sausage Cheddar Stuffed Mushrooms Dinner Made Easy",
+      "url": "https://newdecr.com/5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made-easy/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-31",
+      "is_new": true,
+      "lastmod": "2026-10-31T06:01:35+00:00"
+    },
+    "warm-family-tradition-classic-peanut-butter-blossoms": {
+      "slug": "warm-family-tradition-classic-peanut-butter-blossoms",
+      "title": "Warm Family Tradition Classic Peanut Butter Blossoms",
+      "url": "https://newdecr.com/warm-family-tradition-classic-peanut-butter-blossoms/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-31",
+      "is_new": true,
+      "lastmod": "2026-10-31T06:18:52+00:00"
+    },
+    "the-versatile-chocolate-panna-cotta-serve-any-way-you-like": {
+      "slug": "the-versatile-chocolate-panna-cotta-serve-any-way-you-like",
+      "title": "The Versatile Chocolate Panna Cotta Serve Any Way You Like",
+      "url": "https://newdecr.com/the-versatile-chocolate-panna-cotta-serve-any-way-you-like/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-10-31",
+      "is_new": true,
+      "lastmod": "2026-10-31T06:54:17+00:00"
     }
   },
   "pending_messages": {
