@@ -148,7 +148,8 @@
     "https://newdecr.com/5-ingredient-black-eyed-pea-skillet-quick-comforting/",
     "https://newdecr.com/5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made-easy/",
     "https://newdecr.com/warm-family-tradition-classic-peanut-butter-blossoms/",
-    "https://newdecr.com/the-versatile-chocolate-panna-cotta-serve-any-way-you-like/"
+    "https://newdecr.com/the-versatile-chocolate-panna-cotta-serve-any-way-you-like/",
+    "https://newdecr.com/insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1640,6 +1641,16 @@
       "first_seen_date": "2026-10-31",
       "is_new": true,
       "lastmod": "2026-10-31T06:54:17+00:00"
+    },
+    "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer": {
+      "slug": "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer",
+      "title": "Insanely Good Baked Brie with Cranberry Super Easy Party Appetizer",
+      "url": "https://newdecr.com/insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-01",
+      "is_new": true,
+      "lastmod": "2026-10-31T18:05:32+00:00"
     }
   },
   "pending_messages": {
@@ -15017,6 +15028,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 78
+    },
+    "2026-11-01": {
+      "date": "2026-11-01",
+      "recipes": [
+        {
+          "slug": "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+          "title": "Tropical Mango Mousse Your Foolproof Guide to Perfect Dessert",
+          "url": "https://newdecr.com/tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert/",
+          "last_pinned_date": "2026-10-18",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:39:00+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "spicy-miso-ramen-your-ultimate-comfort-bowl",
+          "title": "Spicy Miso Ramen Your Ultimate Comfort Bowl",
+          "url": "https://newdecr.com/spicy-miso-ramen-your-ultimate-comfort-bowl/",
+          "last_pinned_date": "2026-10-19",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:46+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "how-to-make-puff-pastry-patties-in-haitian-style",
+          "title": "Puff Pastry Patties in Haitian Style",
+          "url": "https://newdecr.com/how-to-make-puff-pastry-patties-in-haitian-style/",
+          "last_pinned_date": "2026-10-22",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-02T17:38:23+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+          "title": "Corndog Crispy Golden and Totally Delicious",
+          "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
+          "last_pinned_date": "2026-10-21",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:57+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": "2026-10-25",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+          "title": "Lets Make Delicious Homemade Eggnog That Youll Crave Again",
+          "url": "https://newdecr.com/lets-make-delicious-homemade-eggnog-that-youll-crave-again/",
+          "last_pinned_date": "2026-10-21",
+          "times_pinned": 4,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:34:17+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "fudgy-brown-butter-brownies-explosion-of-flavor",
+          "title": "Fudgy Brown Butter Brownies Explosion of Flavor",
+          "url": "https://newdecr.com/fudgy-brown-butter-brownies-explosion-of-flavor/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-20T18:47:42+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+          "title": "Air Fryer Garlic Parmesan Shrimp Your New Weeknight Hero",
+          "url": "https://newdecr.com/air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero/",
+          "last_pinned_date": "2026-10-26",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:59:53+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "how-restaurant-chefs-craft-delicious-shrimp-balls",
+          "title": "How Restaurant Chefs Craft Delicious Shrimp Balls",
+          "url": "https://newdecr.com/how-restaurant-chefs-craft-delicious-shrimp-balls/",
+          "last_pinned_date": "2026-10-25",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-18",
+          "is_new": false,
+          "lastmod": "2026-09-17T18:37:42+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "key-lime-pound-cake-your-new-zesty-obsession",
+          "title": "Key Lime Pound Cake Your New Zesty Obsession",
+          "url": "https://newdecr.com/key-lime-pound-cake-your-new-zesty-obsession/",
+          "last_pinned_date": "2026-10-20",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:59+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+          "title": "Comforting Pumpkin Shepherds Pie Comforting Fall Meal",
+          "url": "https://newdecr.com/comforting-pumpkin-shepherds-pie-comforting-fall-meal/",
+          "last_pinned_date": "2026-10-25",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:28:40+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+          "title": "This Is the Best Chocolate Cake Recipe You Will Ever Make",
+          "url": "https://newdecr.com/this-is-the-best-chocolate-cake-recipe-you-will-ever-make/",
+          "last_pinned_date": "2026-10-18",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-20T09:29:27+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "christmas-sugar-cookies-your-family-will-adore",
+          "title": "Christmas Sugar Cookies Your Family Will Adore",
+          "url": "https://newdecr.com/christmas-sugar-cookies-your-family-will-adore/",
+          "last_pinned_date": "2026-10-10",
+          "times_pinned": 2,
+          "first_seen_date": "2026-09-24",
+          "is_new": false,
+          "lastmod": "2026-09-23T05:05:23+00:00",
+          "days_since_pinned": 22
+        },
+        {
+          "slug": "pumpkin-smores-very-unique-recipe",
+          "title": "Pumpkin Smores Very Unique Recipe",
+          "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+          "last_pinned_date": "2026-10-24",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:07:44+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "the-versatile-chocolate-panna-cotta-serve-any-way-you-like",
+          "title": "The Versatile Chocolate Panna Cotta Serve Any Way You Like",
+          "url": "https://newdecr.com/the-versatile-chocolate-panna-cotta-serve-any-way-you-like/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-10-31",
+          "is_new": true,
+          "lastmod": "2026-10-31T06:54:17+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": "pending",
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": "pending",
+        "how-to-make-puff-pastry-patties-in-haitian-style": "pending",
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending",
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": "pending",
+        "fudgy-brown-butter-brownies-explosion-of-flavor": "pending",
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": "pending",
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": "pending",
+        "key-lime-pound-cake-your-new-zesty-obsession": "pending",
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": "pending",
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": "pending",
+        "christmas-sugar-cookies-your-family-will-adore": "pending",
+        "pumpkin-smores-very-unique-recipe": "pending",
+        "the-versatile-chocolate-panna-cotta-serve-any-way-you-like": "pending"
+      },
+      "cardMessageIds": {
+        "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert": 1576,
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": 1577,
+        "how-to-make-puff-pastry-patties-in-haitian-style": 1578,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 1579,
+        "chicken-wellington-your-next-dinner-party-showstopper": 1580,
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": 1581,
+        "fudgy-brown-butter-brownies-explosion-of-flavor": 1582,
+        "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero": 1583,
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": 1584,
+        "key-lime-pound-cake-your-new-zesty-obsession": 1585,
+        "comforting-pumpkin-shepherds-pie-comforting-fall-meal": 1586,
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 1587,
+        "christmas-sugar-cookies-your-family-will-adore": 1588,
+        "pumpkin-smores-very-unique-recipe": 1589,
+        "the-versatile-chocolate-panna-cotta-serve-any-way-you-like": 1590
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 82
     }
   },
   "daily_selections": {
@@ -16139,6 +16356,23 @@
       "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
       "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
       "my-secret-for-unbelievably-crispy-air-fryer-chicken-wings"
+    ],
+    "2026-11-01": [
+      "tropical-mango-mousse-your-foolproof-guide-to-perfect-dessert",
+      "spicy-miso-ramen-your-ultimate-comfort-bowl",
+      "how-to-make-puff-pastry-patties-in-haitian-style",
+      "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+      "chicken-wellington-your-next-dinner-party-showstopper",
+      "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+      "fudgy-brown-butter-brownies-explosion-of-flavor",
+      "air-fryer-garlic-parmesan-shrimp-your-new-weeknight-hero",
+      "how-restaurant-chefs-craft-delicious-shrimp-balls",
+      "key-lime-pound-cake-your-new-zesty-obsession",
+      "comforting-pumpkin-shepherds-pie-comforting-fall-meal",
+      "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+      "christmas-sugar-cookies-your-family-will-adore",
+      "pumpkin-smores-very-unique-recipe",
+      "the-versatile-chocolate-panna-cotta-serve-any-way-you-like"
     ]
   }
 }
