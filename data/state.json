@@ -15852,6 +15852,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 76
+    },
+    "2026-11-05": {
+      "date": "2026-11-05",
+      "recipes": [
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-10-25",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+          "title": "Mess Free Classic Pecan Pie a Clean Kitchen Bake",
+          "url": "https://newdecr.com/mess-free-classic-pecan-pie-a-clean-kitchen-bake/",
+          "last_pinned_date": "2026-10-19",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-13",
+          "is_new": false,
+          "lastmod": "2026-09-12T08:23:17+00:00",
+          "days_since_pinned": 17
+        },
+        {
+          "slug": "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+          "title": "Grandmas Crispy Potato Pancakes a Reimagined Comfort",
+          "url": "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
+          "last_pinned_date": "2026-10-30",
+          "times_pinned": 2,
+          "first_seen_date": "2026-10-20",
+          "is_new": false,
+          "lastmod": "2026-10-19T05:48:14+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit",
+          "title": "Your New Go to Simple Italian Pasta Salad Thats Always a Hit",
+          "url": "https://newdecr.com/your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit/",
+          "last_pinned_date": "2026-10-27",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:55:10+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "sweet-tangy-garlic-herb-roasted-turkey-delight",
+          "title": "Sweet Tangy Garlic Herb Roasted Turkey Delight",
+          "url": "https://newdecr.com/sweet-tangy-garlic-herb-roasted-turkey-delight/",
+          "last_pinned_date": "2026-10-29",
+          "times_pinned": 7,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T09:12:46+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+          "title": "Brown Sugar Overnight Oats Your Easy Delicious Morning Fix",
+          "url": "https://newdecr.com/brown-sugar-overnight-oats-your-easy-delicious-morning-fix/",
+          "last_pinned_date": "2026-10-24",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T13:09:59+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+          "title": "Your New Signature Blueberry Cobbler the Simple Sweet Treat",
+          "url": "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/",
+          "last_pinned_date": "2026-10-21",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-11",
+          "is_new": false,
+          "lastmod": "2026-09-10T19:06:04+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": "2026-10-29",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "60-minute-weeknight-baked-potato-fluffy-crispy",
+          "title": "60 Minute Weeknight Baked Potato Fluffy Crispy",
+          "url": "https://newdecr.com/60-minute-weeknight-baked-potato-fluffy-crispy/",
+          "last_pinned_date": "2026-10-29",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T08:42:44+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+          "title": "Biscoff Cheesecake Your Favorite Cozy Cafe Dessert",
+          "url": "https://newdecr.com/biscoff-cheesecake-your-favorite-cozy-cafe-dessert/",
+          "last_pinned_date": "2026-10-27",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:29:22+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "your-new-favorite-spicy-bonchon-sauce-recipe",
+          "title": "Spicy Bonchon Sauce Recipe",
+          "url": "https://newdecr.com/your-new-favorite-spicy-bonchon-sauce-recipe/",
+          "last_pinned_date": "2026-10-24",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:13+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "get-ready-for-the-best-homemade-soft-pretzel-bites",
+          "title": "Get Ready for the Best Homemade Soft Pretzel Bites",
+          "url": "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/",
+          "last_pinned_date": "2026-10-25",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:36:07+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": "2026-10-30",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong",
+          "title": "Are You Baking Your Pumpkin Cream Cheese Muffins All Wrong",
+          "url": "https://newdecr.com/are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong/",
+          "last_pinned_date": "2026-10-22",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:20:17+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+          "title": "Blueberry Cream Cheese Muffin Cake",
+          "url": "https://newdecr.com/your-new-favorite-blueberry-cream-cheese-muffin-cake/",
+          "last_pinned_date": "2026-10-25",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:25+00:00",
+          "days_since_pinned": 11
+        }
+      ],
+      "itemStatuses": {
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": "pending",
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": "pending",
+        "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit": "pending",
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": "pending",
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": "pending",
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "60-minute-weeknight-baked-potato-fluffy-crispy": "pending",
+        "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": "pending",
+        "your-new-favorite-spicy-bonchon-sauce-recipe": "pending",
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": "pending",
+        "air-fried-crispy-chicken-drumsticks": "pending",
+        "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong": "pending",
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": "pending"
+      },
+      "cardMessageIds": {
+        "seriously-good-mango-habanero-honey-garlic-sauce": 1644,
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": 1645,
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": 1646,
+        "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit": 1647,
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": 1648,
+        "brown-sugar-overnight-oats-your-easy-delicious-morning-fix": 1649,
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": 1650,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 1651,
+        "60-minute-weeknight-baked-potato-fluffy-crispy": 1652,
+        "biscoff-cheesecake-your-favorite-cozy-cafe-dessert": 1653,
+        "your-new-favorite-spicy-bonchon-sauce-recipe": 1654,
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": 1655,
+        "air-fried-crispy-chicken-drumsticks": 1656,
+        "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong": 1657,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 1658
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 75
     }
   },
   "daily_selections": {
@@ -17042,6 +17248,23 @@
       "can-just-5-ingredients-really-make-the-best-corn-cheese-balls-ever",
       "how-i-made-the-perfect-cheeseburger",
       "everyones-favorite-sweet-soft-spongy-honey-buns"
+    ],
+    "2026-11-05": [
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+      "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+      "your-new-go-to-simple-italian-pasta-salad-thats-always-a-hit",
+      "sweet-tangy-garlic-herb-roasted-turkey-delight",
+      "brown-sugar-overnight-oats-your-easy-delicious-morning-fix",
+      "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "60-minute-weeknight-baked-potato-fluffy-crispy",
+      "biscoff-cheesecake-your-favorite-cozy-cafe-dessert",
+      "your-new-favorite-spicy-bonchon-sauce-recipe",
+      "get-ready-for-the-best-homemade-soft-pretzel-bites",
+      "air-fried-crispy-chicken-drumsticks",
+      "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong",
+      "your-new-favorite-blueberry-cream-cheese-muffin-cake"
     ]
   }
 }
