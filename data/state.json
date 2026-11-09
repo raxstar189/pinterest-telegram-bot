@@ -149,7 +149,9 @@
     "https://newdecr.com/5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made-easy/",
     "https://newdecr.com/warm-family-tradition-classic-peanut-butter-blossoms/",
     "https://newdecr.com/the-versatile-chocolate-panna-cotta-serve-any-way-you-like/",
-    "https://newdecr.com/insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer/"
+    "https://newdecr.com/insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer/",
+    "https://newdecr.com/the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world/",
+    "https://newdecr.com/perfecting-homemade-traditional-english-trifle-layers/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1651,6 +1653,26 @@
       "first_seen_date": "2026-11-01",
       "is_new": false,
       "lastmod": "2026-10-31T18:05:32+00:00"
+    },
+    "the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world": {
+      "slug": "the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world",
+      "title": "The 1 Tweak That Makes Your Sugar Cookies Truly Out of This World",
+      "url": "https://newdecr.com/the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-09",
+      "is_new": true,
+      "lastmod": "2026-11-08T07:23:43+00:00"
+    },
+    "perfecting-homemade-traditional-english-trifle-layers": {
+      "slug": "perfecting-homemade-traditional-english-trifle-layers",
+      "title": "Perfecting Homemade Traditional English Trifle Layers",
+      "url": "https://newdecr.com/perfecting-homemade-traditional-english-trifle-layers/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-09",
+      "is_new": true,
+      "lastmod": "2026-11-08T07:37:56+00:00"
     }
   },
   "pending_messages": {
@@ -16676,6 +16698,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 75
+    },
+    "2026-11-09": {
+      "date": "2026-11-09",
+      "recipes": [
+        {
+          "slug": "perfecting-homemade-traditional-english-trifle-layers",
+          "title": "Perfecting Homemade Traditional English Trifle Layers",
+          "url": "https://newdecr.com/perfecting-homemade-traditional-english-trifle-layers/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-09",
+          "is_new": true,
+          "lastmod": "2026-11-08T07:37:56+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+          "title": "Time Saving Scalloped Potatoes Rich Flavor Zero Compromise",
+          "url": "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/",
+          "last_pinned_date": "2026-11-03",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:58:18+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "the-picky-eater-approved-strawberry-chia-pudding",
+          "title": "The Picky Eater Approved Strawberry Chia Pudding",
+          "url": "https://newdecr.com/the-picky-eater-approved-strawberry-chia-pudding/",
+          "last_pinned_date": "2026-10-27",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T03:47:58+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+          "title": "Spooky Sweet Fun Full Guide to Making Best Halloween Decorative Cookies",
+          "url": "https://newdecr.com/spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies/",
+          "last_pinned_date": "2026-10-24",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T07:48:39+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "versatile-mini-pancake-bites-perfect-for-any-meal",
+          "title": "Versatile Mini Pancake Bites Perfect for Any Meal",
+          "url": "https://newdecr.com/versatile-mini-pancake-bites-perfect-for-any-meal/",
+          "last_pinned_date": "2026-11-02",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:01:05+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "the-versatile-chocolate-panna-cotta-serve-any-way-you-like",
+          "title": "The Versatile Chocolate Panna Cotta Serve Any Way You Like",
+          "url": "https://newdecr.com/the-versatile-chocolate-panna-cotta-serve-any-way-you-like/",
+          "last_pinned_date": "2026-11-01",
+          "times_pinned": 1,
+          "first_seen_date": "2026-10-31",
+          "is_new": false,
+          "lastmod": "2026-10-31T06:54:17+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world",
+          "title": "The 1 Tweak That Makes Your Sugar Cookies Truly Out of This World",
+          "url": "https://newdecr.com/the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-09",
+          "is_new": true,
+          "lastmod": "2026-11-08T07:23:43+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "sweet-potato-turkey-chili-fall-dinner-hack",
+          "title": "Sweet Potato Turkey Chili Fall Dinner Hack",
+          "url": "https://newdecr.com/sweet-potato-turkey-chili-fall-dinner-hack/",
+          "last_pinned_date": "2026-10-24",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-06T13:30:48+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+          "title": "Crispy Air Fried Chicken Dumplings Current New Favorite Appetiser",
+          "url": "https://newdecr.com/crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser/",
+          "last_pinned_date": "2026-11-03",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-01T04:07:10+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "instant-craving-cure-spicy-chipotle-egg-sandwiches",
+          "title": "Instant Craving Cure Spicy Chipotle Egg Sandwiches",
+          "url": "https://newdecr.com/instant-craving-cure-spicy-chipotle-egg-sandwiches/",
+          "last_pinned_date": "2026-10-17",
+          "times_pinned": 1,
+          "first_seen_date": "2026-10-17",
+          "is_new": false,
+          "lastmod": "2026-10-16T12:53:49+00:00",
+          "days_since_pinned": 23
+        },
+        {
+          "slug": "seafood-chowmein-the-perfect-weeknight-delight",
+          "title": "Seafood Chowmein Weeknight Delight",
+          "url": "https://newdecr.com/seafood-chowmein-the-perfect-weeknight-delight/",
+          "last_pinned_date": "2026-10-30",
+          "times_pinned": 11,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-29T13:49:12+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+          "title": "Lets Make Delicious Homemade Eggnog That Youll Crave Again",
+          "url": "https://newdecr.com/lets-make-delicious-homemade-eggnog-that-youll-crave-again/",
+          "last_pinned_date": "2026-11-01",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:34:17+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+          "title": "This Cute Critter Cake for Kids Is Sure to Make Them Smile",
+          "url": "https://newdecr.com/this-cute-critter-cake-for-kids-is-sure-to-make-them-smile/",
+          "last_pinned_date": "2026-11-02",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:45:10+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "baked-feta-eggs-your-new-favorite-easy-meal",
+          "title": "Baked Feta Eggs Easy Meal",
+          "url": "https://newdecr.com/baked-feta-eggs-your-new-favorite-easy-meal/",
+          "last_pinned_date": "2026-10-30",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:38:51+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "taco-sandwich-a-completeoy-new-take-on-sandwich",
+          "title": "Taco Sandwich a Completeoy New Take on Sandwich",
+          "url": "https://newdecr.com/taco-sandwich-a-completeoy-new-take-on-sandwich/",
+          "last_pinned_date": "2026-10-22",
+          "times_pinned": 7,
+          "first_seen_date": "2026-09-01",
+          "is_new": false,
+          "lastmod": "2026-09-01T04:14:20+00:00",
+          "days_since_pinned": 18
+        }
+      ],
+      "itemStatuses": {
+        "perfecting-homemade-traditional-english-trifle-layers": "pending",
+        "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": "pending",
+        "the-picky-eater-approved-strawberry-chia-pudding": "pending",
+        "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": "pending",
+        "versatile-mini-pancake-bites-perfect-for-any-meal": "pending",
+        "the-versatile-chocolate-panna-cotta-serve-any-way-you-like": "pending",
+        "the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world": "pending",
+        "sweet-potato-turkey-chili-fall-dinner-hack": "pending",
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": "pending",
+        "instant-craving-cure-spicy-chipotle-egg-sandwiches": "pending",
+        "seafood-chowmein-the-perfect-weeknight-delight": "pending",
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": "pending",
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": "pending",
+        "baked-feta-eggs-your-new-favorite-easy-meal": "pending",
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": "pending"
+      },
+      "cardMessageIds": {
+        "perfecting-homemade-traditional-english-trifle-layers": 1708,
+        "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": 1709,
+        "the-picky-eater-approved-strawberry-chia-pudding": 1710,
+        "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": 1711,
+        "versatile-mini-pancake-bites-perfect-for-any-meal": 1712,
+        "the-versatile-chocolate-panna-cotta-serve-any-way-you-like": 1713,
+        "the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world": 1714,
+        "sweet-potato-turkey-chili-fall-dinner-hack": 1715,
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": 1716,
+        "instant-craving-cure-spicy-chipotle-egg-sandwiches": 1717,
+        "seafood-chowmein-the-perfect-weeknight-delight": 1718,
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": 1719,
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": 1720,
+        "baked-feta-eggs-your-new-favorite-easy-meal": 1721,
+        "taco-sandwich-a-completeoy-new-take-on-sandwich": 1722
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 77
     }
   },
   "daily_selections": {
@@ -17934,6 +18162,23 @@
       "the-real-thai-comfort-authentic-tom-yum-soup",
       "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
       "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious"
+    ],
+    "2026-11-09": [
+      "perfecting-homemade-traditional-english-trifle-layers",
+      "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+      "the-picky-eater-approved-strawberry-chia-pudding",
+      "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+      "versatile-mini-pancake-bites-perfect-for-any-meal",
+      "the-versatile-chocolate-panna-cotta-serve-any-way-you-like",
+      "the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world",
+      "sweet-potato-turkey-chili-fall-dinner-hack",
+      "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+      "instant-craving-cure-spicy-chipotle-egg-sandwiches",
+      "seafood-chowmein-the-perfect-weeknight-delight",
+      "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+      "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+      "baked-feta-eggs-your-new-favorite-easy-meal",
+      "taco-sandwich-a-completeoy-new-take-on-sandwich"
     ]
   }
 }
