@@ -17522,6 +17522,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 77
+    },
+    "2026-11-13": {
+      "date": "2026-11-13",
+      "recipes": [
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": "2026-11-05",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+          "title": "Crispy Garlic Parmesan Sweet Potato One of the Easiest Side Dish",
+          "url": "https://newdecr.com/crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish/",
+          "last_pinned_date": "2026-11-07",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-17T18:13:31+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": "2026-11-05",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "mini-funfetti-yogurt-muffins-fun-in-every-bite",
+          "title": "Mini Funfetti Yogurt Muffins Fun in Every Bite",
+          "url": "https://newdecr.com/mini-funfetti-yogurt-muffins-fun-in-every-bite/",
+          "last_pinned_date": "2026-11-03",
+          "times_pinned": 5,
+          "first_seen_date": "2026-09-24",
+          "is_new": false,
+          "lastmod": "2026-09-23T05:35:57+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-11-05",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong",
+          "title": "Are You Baking Your Pumpkin Cream Cheese Muffins All Wrong",
+          "url": "https://newdecr.com/are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong/",
+          "last_pinned_date": "2026-11-05",
+          "times_pinned": 7,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:20:17+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "get-ready-for-the-best-homemade-soft-pretzel-bites",
+          "title": "Get Ready for the Best Homemade Soft Pretzel Bites",
+          "url": "https://newdecr.com/get-ready-for-the-best-homemade-soft-pretzel-bites/",
+          "last_pinned_date": "2026-11-05",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:36:07+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here",
+          "title": "Your Hunt for Crispy Cast Iron Skillet Pizza Ends Here",
+          "url": "https://newdecr.com/your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here/",
+          "last_pinned_date": "2026-10-31",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-09T10:16:30+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "hot-honey-shrimp-your-new-weeknight-obsession",
+          "title": "Hot Honey Shrimp Your New Weeknight Obsession",
+          "url": "https://newdecr.com/hot-honey-shrimp-your-new-weeknight-obsession/",
+          "last_pinned_date": "2026-11-07",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:00:08+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
+          "title": "The Best Chicken Avocado Cherry Tomato Salad Easy Fresh",
+          "url": "https://newdecr.com/the-best-chicken-avocado-cherry-tomato-salad-easy-fresh/",
+          "last_pinned_date": "2026-11-07",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:00+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+          "title": "Crispy Flavorful Easy Air Fried Chicken Bread Roll",
+          "url": "https://newdecr.com/crispy-flavorful-easy-air-fried-chicken-bread-roll/",
+          "last_pinned_date": "2026-10-29",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-28T05:14:40+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "warm-family-tradition-perfect-mango-sticky-rice-recipe",
+          "title": "Warm Family Tradition Perfect Mango Sticky Rice Recipe",
+          "url": "https://newdecr.com/warm-family-tradition-perfect-mango-sticky-rice-recipe/",
+          "last_pinned_date": "2026-10-30",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:44:44+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+          "title": "Grandmas Crispy Potato Pancakes a Reimagined Comfort",
+          "url": "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
+          "last_pinned_date": "2026-11-05",
+          "times_pinned": 3,
+          "first_seen_date": "2026-10-20",
+          "is_new": false,
+          "lastmod": "2026-10-19T05:48:14+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+          "title": "The Showstopping Halloween Cheesecake a Holiday Menu Hero",
+          "url": "https://newdecr.com/the-showstopping-halloween-cheesecake-a-holiday-menu-hero/",
+          "last_pinned_date": "2026-11-04",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-03",
+          "is_new": false,
+          "lastmod": "2026-09-03T16:57:11+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "homemade-gelato-ice-cream-your-guide-to-italian-perfection",
+          "title": "Homemade Gelato Ice Cream Italian Perfection",
+          "url": "https://newdecr.com/homemade-gelato-ice-cream-your-guide-to-italian-perfection/",
+          "last_pinned_date": "2026-10-31",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:35+00:00",
+          "days_since_pinned": 13
+        }
+      ],
+      "itemStatuses": {
+        "air-fried-crispy-chicken-drumsticks": "pending",
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "mini-funfetti-yogurt-muffins-fun-in-every-bite": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong": "pending",
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": "pending",
+        "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here": "pending",
+        "hot-honey-shrimp-your-new-weeknight-obsession": "pending",
+        "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh": "pending",
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": "pending",
+        "warm-family-tradition-perfect-mango-sticky-rice-recipe": "pending",
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": "pending",
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": "pending",
+        "homemade-gelato-ice-cream-your-guide-to-italian-perfection": "pending"
+      },
+      "cardMessageIds": {
+        "air-fried-crispy-chicken-drumsticks": 1772,
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish": 1773,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 1774,
+        "mini-funfetti-yogurt-muffins-fun-in-every-bite": 1775,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 1776,
+        "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong": 1777,
+        "get-ready-for-the-best-homemade-soft-pretzel-bites": 1778,
+        "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here": 1779,
+        "hot-honey-shrimp-your-new-weeknight-obsession": 1780,
+        "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh": 1781,
+        "crispy-flavorful-easy-air-fried-chicken-bread-roll": 1782,
+        "warm-family-tradition-perfect-mango-sticky-rice-recipe": 1783,
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": 1784,
+        "the-showstopping-halloween-cheesecake-a-holiday-menu-hero": 1785,
+        "homemade-gelato-ice-cream-your-guide-to-italian-perfection": 1786
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 77
     }
   },
   "daily_selections": {
@@ -18848,6 +19054,23 @@
       "one-pot-pumpkin-mac-and-cheese-my-new-fall-favorite",
       "cajun-potato-soup-your-new-favorite-comfort-food",
       "bacon-mushroom-pasta-easy-dinner-recipe"
+    ],
+    "2026-11-13": [
+      "air-fried-crispy-chicken-drumsticks",
+      "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-side-dish",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "mini-funfetti-yogurt-muffins-fun-in-every-bite",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "are-you-baking-your-pumpkin-cream-cheese-muffins-all-wrong",
+      "get-ready-for-the-best-homemade-soft-pretzel-bites",
+      "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here",
+      "hot-honey-shrimp-your-new-weeknight-obsession",
+      "the-best-chicken-avocado-cherry-tomato-salad-easy-fresh",
+      "crispy-flavorful-easy-air-fried-chicken-bread-roll",
+      "warm-family-tradition-perfect-mango-sticky-rice-recipe",
+      "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+      "the-showstopping-halloween-cheesecake-a-holiday-menu-hero",
+      "homemade-gelato-ice-cream-your-guide-to-italian-perfection"
     ]
   }
 }
