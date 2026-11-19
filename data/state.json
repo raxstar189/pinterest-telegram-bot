@@ -18758,6 +18758,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 77
+    },
+    "2026-11-19": {
+      "date": "2026-11-19",
+      "recipes": [
+        {
+          "slug": "fudgy-irresistible-red-velvet-brownies",
+          "title": "Fudgy Irresistible Red Velvet Brownies",
+          "url": "https://newdecr.com/fudgy-irresistible-red-velvet-brownies/",
+          "last_pinned_date": "2026-11-07",
+          "times_pinned": 6,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T16:32:16+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+          "title": "Grandmas Crispy Potato Pancakes a Reimagined Comfort",
+          "url": "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
+          "last_pinned_date": "2026-11-13",
+          "times_pinned": 4,
+          "first_seen_date": "2026-10-20",
+          "is_new": false,
+          "lastmod": "2026-10-19T05:48:14+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+          "title": "Cinnamon Roll Apple Lasagna the Upgraded Cinnamon Roll",
+          "url": "https://newdecr.com/cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll/",
+          "last_pinned_date": "2026-11-12",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:08:08+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer",
+          "title": "Insanely Good Baked Brie with Cranberry Super Easy Party Appetizer",
+          "url": "https://newdecr.com/insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer/",
+          "last_pinned_date": "2026-11-11",
+          "times_pinned": 2,
+          "first_seen_date": "2026-11-01",
+          "is_new": false,
+          "lastmod": "2026-10-31T18:05:32+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "fudgy-brown-butter-brownies-explosion-of-flavor",
+          "title": "Fudgy Brown Butter Brownies Explosion of Flavor",
+          "url": "https://newdecr.com/fudgy-brown-butter-brownies-explosion-of-flavor/",
+          "last_pinned_date": "2026-11-01",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-20T18:47:42+00:00",
+          "days_since_pinned": 18
+        },
+        {
+          "slug": "how-i-made-the-perfect-cheeseburger",
+          "title": "How I Made Cheeseburger",
+          "url": "https://newdecr.com/how-i-made-the-perfect-cheeseburger/",
+          "last_pinned_date": "2026-11-10",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:42:14+00:00",
+          "days_since_pinned": 9
+        },
+        {
+          "slug": "easy-to-make-spicy-sriracha-wings-for-dinner",
+          "title": "Easy to Make Spicy Sriracha Wings for Dinner",
+          "url": "https://newdecr.com/easy-to-make-spicy-sriracha-wings-for-dinner/",
+          "last_pinned_date": "2026-10-29",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-03T09:12:28+00:00",
+          "days_since_pinned": 21
+        },
+        {
+          "slug": "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+          "title": "Your New Signature Blueberry Cobbler the Simple Sweet Treat",
+          "url": "https://newdecr.com/your-new-signature-blueberry-cobbler-the-simple-sweet-treat/",
+          "last_pinned_date": "2026-11-05",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-11",
+          "is_new": false,
+          "lastmod": "2026-09-10T19:06:04+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits",
+          "title": "Make Perfect Easy Sponge Cake Your Fluffy Dreamy Dessert Awaits",
+          "url": "https://newdecr.com/make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits/",
+          "last_pinned_date": "2026-11-11",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-06-07T04:57:56+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+          "title": "Coconut Chia Pudding Easiest Creamiest Breakfast Ever",
+          "url": "https://newdecr.com/coconut-chia-pudding-easiest-creamiest-breakfast-ever/",
+          "last_pinned_date": "2026-11-13",
+          "times_pinned": 11,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T05:30:26+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "seriously-good-mango-habanero-honey-garlic-sauce",
+          "title": "Mango Habanero Honey Garlic Sauce",
+          "url": "https://newdecr.com/seriously-good-mango-habanero-honey-garlic-sauce/",
+          "last_pinned_date": "2026-11-13",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T20:01:17+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection",
+          "title": "Lets Try This Easiest Caramel Pudding Silky Smooth Perfection",
+          "url": "https://newdecr.com/lets-try-this-easiest-caramel-pudding-silky-smooth-perfection/",
+          "last_pinned_date": "2026-11-06",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-16T16:11:25+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "shareable-irresistible-crab-rangoon-rolls-recipe",
+          "title": "Shareable Irresistible Crab Rangoon Rolls Recipe",
+          "url": "https://newdecr.com/shareable-irresistible-crab-rangoon-rolls-recipe/",
+          "last_pinned_date": "2026-11-12",
+          "times_pinned": 7,
+          "first_seen_date": "2026-09-15",
+          "is_new": false,
+          "lastmod": "2026-09-14T18:47:45+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": "2026-11-06",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "chicken-wellington-your-next-dinner-party-showstopper",
+          "title": "Chicken Wellington Your Next Dinner Party Showstopper",
+          "url": "https://newdecr.com/chicken-wellington-your-next-dinner-party-showstopper/",
+          "last_pinned_date": "2026-11-11",
+          "times_pinned": 11,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:50:28+00:00",
+          "days_since_pinned": 8
+        }
+      ],
+      "itemStatuses": {
+        "fudgy-irresistible-red-velvet-brownies": "pending",
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": "pending",
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": "pending",
+        "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer": "pending",
+        "fudgy-brown-butter-brownies-explosion-of-flavor": "pending",
+        "how-i-made-the-perfect-cheeseburger": "pending",
+        "easy-to-make-spicy-sriracha-wings-for-dinner": "pending",
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": "pending",
+        "make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits": "pending",
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": "pending",
+        "seriously-good-mango-habanero-honey-garlic-sauce": "pending",
+        "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection": "pending",
+        "shareable-irresistible-crab-rangoon-rolls-recipe": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending",
+        "chicken-wellington-your-next-dinner-party-showstopper": "pending"
+      },
+      "cardMessageIds": {
+        "fudgy-irresistible-red-velvet-brownies": 1868,
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": 1869,
+        "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll": 1870,
+        "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer": 1871,
+        "fudgy-brown-butter-brownies-explosion-of-flavor": 1872,
+        "how-i-made-the-perfect-cheeseburger": 1873,
+        "easy-to-make-spicy-sriracha-wings-for-dinner": 1874,
+        "your-new-signature-blueberry-cobbler-the-simple-sweet-treat": 1875,
+        "make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits": 1876,
+        "coconut-chia-pudding-easiest-creamiest-breakfast-ever": 1877,
+        "seriously-good-mango-habanero-honey-garlic-sauce": 1878,
+        "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection": 1879,
+        "shareable-irresistible-crab-rangoon-rolls-recipe": 1880,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 1881,
+        "chicken-wellington-your-next-dinner-party-showstopper": 1882
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 77
     }
   },
   "daily_selections": {
@@ -20186,6 +20392,23 @@
       "sweet-tangy-perfectly-balanced-sweet-potato-casserole",
       "the-versatile-chocolate-panna-cotta-serve-any-way-you-like",
       "baked-feta-eggs-your-new-favorite-easy-meal"
+    ],
+    "2026-11-19": [
+      "fudgy-irresistible-red-velvet-brownies",
+      "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+      "cinnamon-roll-apple-lasagna-the-upgraded-cinnamon-roll",
+      "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer",
+      "fudgy-brown-butter-brownies-explosion-of-flavor",
+      "how-i-made-the-perfect-cheeseburger",
+      "easy-to-make-spicy-sriracha-wings-for-dinner",
+      "your-new-signature-blueberry-cobbler-the-simple-sweet-treat",
+      "make-perfect-easy-sponge-cake-your-fluffy-dreamy-dessert-awaits",
+      "coconut-chia-pudding-easiest-creamiest-breakfast-ever",
+      "seriously-good-mango-habanero-honey-garlic-sauce",
+      "lets-try-this-easiest-caramel-pudding-silky-smooth-perfection",
+      "shareable-irresistible-crab-rangoon-rolls-recipe",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe",
+      "chicken-wellington-your-next-dinner-party-showstopper"
     ]
   }
 }
