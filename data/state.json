@@ -151,7 +151,9 @@
     "https://newdecr.com/the-versatile-chocolate-panna-cotta-serve-any-way-you-like/",
     "https://newdecr.com/insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer/",
     "https://newdecr.com/the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world/",
-    "https://newdecr.com/perfecting-homemade-traditional-english-trifle-layers/"
+    "https://newdecr.com/perfecting-homemade-traditional-english-trifle-layers/",
+    "https://newdecr.com/old-fashioned-comfort-classic-spaghetti-meatballs/",
+    "https://newdecr.com/easy-comfort-glazed-brown-sugar-meatloaf-recipe/"
   ],
   "recipes": {
     "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": {
@@ -1673,6 +1675,26 @@
       "first_seen_date": "2026-11-09",
       "is_new": false,
       "lastmod": "2026-11-08T07:37:56+00:00"
+    },
+    "old-fashioned-comfort-classic-spaghetti-meatballs": {
+      "slug": "old-fashioned-comfort-classic-spaghetti-meatballs",
+      "title": "Old Fashioned Comfort Classic Spaghetti Meatballs",
+      "url": "https://newdecr.com/old-fashioned-comfort-classic-spaghetti-meatballs/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-23",
+      "is_new": true,
+      "lastmod": "2026-11-22T18:45:45+00:00"
+    },
+    "easy-comfort-glazed-brown-sugar-meatloaf-recipe": {
+      "slug": "easy-comfort-glazed-brown-sugar-meatloaf-recipe",
+      "title": "Easy Comfort Glazed Brown Sugar Meatloaf Recipe",
+      "url": "https://newdecr.com/easy-comfort-glazed-brown-sugar-meatloaf-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-23",
+      "is_new": true,
+      "lastmod": "2026-11-22T19:03:16+00:00"
     }
   },
   "pending_messages": {
@@ -19582,6 +19604,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 107
+    },
+    "2026-11-23": {
+      "date": "2026-11-23",
+      "recipes": [
+        {
+          "slug": "easy-comfort-glazed-brown-sugar-meatloaf-recipe",
+          "title": "Easy Comfort Glazed Brown Sugar Meatloaf Recipe",
+          "url": "https://newdecr.com/easy-comfort-glazed-brown-sugar-meatloaf-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-23",
+          "is_new": true,
+          "lastmod": "2026-11-22T19:03:16+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal",
+          "title": "Creamy Smothered Chicken and Rice Weeknight Meal",
+          "url": "https://newdecr.com/creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal/",
+          "last_pinned_date": "2026-11-16",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:11+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "the-picky-eater-approved-strawberry-chia-pudding",
+          "title": "The Picky Eater Approved Strawberry Chia Pudding",
+          "url": "https://newdecr.com/the-picky-eater-approved-strawberry-chia-pudding/",
+          "last_pinned_date": "2026-11-09",
+          "times_pinned": 7,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T03:47:58+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "light-zesty-completely-satisfying-crab-balls",
+          "title": "Light Zesty Completely Satisfying Crab Balls",
+          "url": "https://newdecr.com/light-zesty-completely-satisfying-crab-balls/",
+          "last_pinned_date": "2026-11-11",
+          "times_pinned": 8,
+          "first_seen_date": "2026-09-05",
+          "is_new": false,
+          "lastmod": "2026-09-04T04:00:32+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "old-fashioned-comfort-classic-spaghetti-meatballs",
+          "title": "Old Fashioned Comfort Classic Spaghetti Meatballs",
+          "url": "https://newdecr.com/old-fashioned-comfort-classic-spaghetti-meatballs/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-23",
+          "is_new": true,
+          "lastmod": "2026-11-22T18:45:45+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix",
+          "title": "Vegetable Egg Drop Soup Your Quick Cozy Comfort Fix",
+          "url": "https://newdecr.com/vegetable-egg-drop-soup-your-quick-cozy-comfort-fix/",
+          "last_pinned_date": "2026-11-03",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:55:08+00:00",
+          "days_since_pinned": 20
+        },
+        {
+          "slug": "bacon-mushroom-pasta-easy-dinner-recipe",
+          "title": "Bacon Mushroom Pasta Easy Dinner Recipe",
+          "url": "https://newdecr.com/bacon-mushroom-pasta-easy-dinner-recipe/",
+          "last_pinned_date": "2026-11-12",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-26",
+          "is_new": false,
+          "lastmod": "2026-08-26T06:08:33+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "hearty-tomato-minced-beef-soup-recipe",
+          "title": "Hearty Tomato Minced Beef Soup Recipe",
+          "url": "https://newdecr.com/hearty-tomato-minced-beef-soup-recipe/",
+          "last_pinned_date": "2026-11-15",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:54+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+          "title": "Rum Soaked Fried Pineapple Tropical Treat",
+          "url": "https://newdecr.com/rum-soaked-fried-pineapple-your-new-favorite-tropical-treat/",
+          "last_pinned_date": "2026-11-16",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-11T06:19:31+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+          "title": "Lets Make Delicious Homemade Eggnog That Youll Crave Again",
+          "url": "https://newdecr.com/lets-make-delicious-homemade-eggnog-that-youll-crave-again/",
+          "last_pinned_date": "2026-11-15",
+          "times_pinned": 7,
+          "first_seen_date": "2026-09-17",
+          "is_new": false,
+          "lastmod": "2026-09-16T19:34:17+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "spicy-miso-ramen-your-ultimate-comfort-bowl",
+          "title": "Spicy Miso Ramen Your Ultimate Comfort Bowl",
+          "url": "https://newdecr.com/spicy-miso-ramen-your-ultimate-comfort-bowl/",
+          "last_pinned_date": "2026-11-15",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:52:46+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+          "title": "Blueberry Cream Cheese Muffin Cake",
+          "url": "https://newdecr.com/your-new-favorite-blueberry-cream-cheese-muffin-cake/",
+          "last_pinned_date": "2026-11-11",
+          "times_pinned": 11,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:51:25+00:00",
+          "days_since_pinned": 12
+        },
+        {
+          "slug": "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+          "title": "This Cute Critter Cake for Kids Is Sure to Make Them Smile",
+          "url": "https://newdecr.com/this-cute-critter-cake-for-kids-is-sure-to-make-them-smile/",
+          "last_pinned_date": "2026-11-09",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:45:10+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "how-restaurant-chefs-craft-delicious-shrimp-balls",
+          "title": "How Restaurant Chefs Craft Delicious Shrimp Balls",
+          "url": "https://newdecr.com/how-restaurant-chefs-craft-delicious-shrimp-balls/",
+          "last_pinned_date": "2026-11-08",
+          "times_pinned": 7,
+          "first_seen_date": "2026-09-18",
+          "is_new": false,
+          "lastmod": "2026-09-17T18:37:42+00:00",
+          "days_since_pinned": 15
+        },
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": "2026-11-13",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": 10
+        }
+      ],
+      "itemStatuses": {
+        "easy-comfort-glazed-brown-sugar-meatloaf-recipe": "pending",
+        "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal": "pending",
+        "the-picky-eater-approved-strawberry-chia-pudding": "pending",
+        "light-zesty-completely-satisfying-crab-balls": "pending",
+        "old-fashioned-comfort-classic-spaghetti-meatballs": "pending",
+        "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix": "pending",
+        "bacon-mushroom-pasta-easy-dinner-recipe": "pending",
+        "hearty-tomato-minced-beef-soup-recipe": "pending",
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": "pending",
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": "pending",
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": "pending",
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": "pending",
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": "pending",
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": "pending",
+        "air-fried-crispy-chicken-drumsticks": "pending"
+      },
+      "cardMessageIds": {
+        "easy-comfort-glazed-brown-sugar-meatloaf-recipe": 1932,
+        "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal": 1933,
+        "the-picky-eater-approved-strawberry-chia-pudding": 1934,
+        "light-zesty-completely-satisfying-crab-balls": 1935,
+        "old-fashioned-comfort-classic-spaghetti-meatballs": 1936,
+        "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix": 1937,
+        "bacon-mushroom-pasta-easy-dinner-recipe": 1938,
+        "hearty-tomato-minced-beef-soup-recipe": 1939,
+        "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat": 1940,
+        "lets-make-delicious-homemade-eggnog-that-youll-crave-again": 1941,
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": 1942,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 1943,
+        "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile": 1944,
+        "how-restaurant-chefs-craft-delicious-shrimp-balls": 1945,
+        "air-fried-crispy-chicken-drumsticks": 1946
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 97
     }
   },
   "daily_selections": {
@@ -21078,6 +21306,23 @@
       "easy-ham-and-cheese-muffins-your-new-favorite-grab-and-go-treat",
       "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
       "everyones-favorite-sweet-soft-spongy-honey-buns"
+    ],
+    "2026-11-23": [
+      "easy-comfort-glazed-brown-sugar-meatloaf-recipe",
+      "creamy-smothered-chicken-and-rice-your-new-favorite-weeknight-meal",
+      "the-picky-eater-approved-strawberry-chia-pudding",
+      "light-zesty-completely-satisfying-crab-balls",
+      "old-fashioned-comfort-classic-spaghetti-meatballs",
+      "vegetable-egg-drop-soup-your-quick-cozy-comfort-fix",
+      "bacon-mushroom-pasta-easy-dinner-recipe",
+      "hearty-tomato-minced-beef-soup-recipe",
+      "rum-soaked-fried-pineapple-your-new-favorite-tropical-treat",
+      "lets-make-delicious-homemade-eggnog-that-youll-crave-again",
+      "spicy-miso-ramen-your-ultimate-comfort-bowl",
+      "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+      "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
+      "how-restaurant-chefs-craft-delicious-shrimp-balls",
+      "air-fried-crispy-chicken-drumsticks"
     ]
   }
 }
