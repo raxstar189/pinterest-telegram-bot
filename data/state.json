@@ -19810,6 +19810,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 97
+    },
+    "2026-11-24": {
+      "date": "2026-11-24",
+      "recipes": [
+        {
+          "slug": "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+          "title": "This Is the Best Chocolate Cake Recipe You Will Ever Make",
+          "url": "https://newdecr.com/this-is-the-best-chocolate-cake-recipe-you-will-ever-make/",
+          "last_pinned_date": "2026-11-14",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-07-20T09:29:27+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+          "title": "Corndog Crispy Golden and Totally Delicious",
+          "url": "https://newdecr.com/how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious/",
+          "last_pinned_date": "2026-11-08",
+          "times_pinned": 11,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:56:57+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+          "title": "Spooky Witch Finger Cookies a Family Sunday Dinner Treat",
+          "url": "https://newdecr.com/spooky-witch-finger-cookies-a-family-sunday-dinner-treat/",
+          "last_pinned_date": "2026-11-11",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-16",
+          "is_new": false,
+          "lastmod": "2026-09-15T04:46:01+00:00",
+          "days_since_pinned": 13
+        },
+        {
+          "slug": "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+          "title": "The Best Vegan Pumpkin Spice Cake Youll Ever Bake",
+          "url": "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
+          "last_pinned_date": "2026-11-18",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-21",
+          "is_new": false,
+          "lastmod": "2026-08-21T07:23:25+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time",
+          "title": "Sheet Pan Chicken Pita Lifesaver When You Have Little Time",
+          "url": "https://newdecr.com/sheet-pan-chicken-pita-lifesaver-when-you-have-little-time/",
+          "last_pinned_date": "2026-11-16",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-28",
+          "is_new": false,
+          "lastmod": "2026-08-27T04:03:33+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "pumpkin-smores-very-unique-recipe",
+          "title": "Pumpkin Smores Very Unique Recipe",
+          "url": "https://newdecr.com/pumpkin-smores-very-unique-recipe/",
+          "last_pinned_date": "2026-11-16",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-22",
+          "is_new": false,
+          "lastmod": "2026-08-22T17:07:44+00:00",
+          "days_since_pinned": 8
+        },
+        {
+          "slug": "caramel-apple-perfection-season-favorite",
+          "title": "Caramel Apple Perfection Season Favorite",
+          "url": "https://newdecr.com/caramel-apple-perfection-season-favorite/",
+          "last_pinned_date": "2026-11-08",
+          "times_pinned": 6,
+          "first_seen_date": "2026-09-24",
+          "is_new": false,
+          "lastmod": "2026-09-23T06:31:08+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "ditch-the-store-bake-your-best-homemade-carrot-cake",
+          "title": "Ditch the Store Bake Your Best Homemade Carrot Cake",
+          "url": "https://newdecr.com/ditch-the-store-bake-your-best-homemade-carrot-cake/",
+          "last_pinned_date": "2026-11-17",
+          "times_pinned": 7,
+          "first_seen_date": "2026-09-16",
+          "is_new": false,
+          "lastmod": "2026-09-15T04:57:06+00:00",
+          "days_since_pinned": 7
+        },
+        {
+          "slug": "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast",
+          "title": "My Go to Cinnamon Breakfast Roll Recipe for Breakfast",
+          "url": "https://newdecr.com/my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast/",
+          "last_pinned_date": "2026-10-27",
+          "times_pinned": 9,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-20T19:54:53+00:00",
+          "days_since_pinned": 28
+        },
+        {
+          "slug": "baked-feta-eggs-your-new-favorite-easy-meal",
+          "title": "Baked Feta Eggs Easy Meal",
+          "url": "https://newdecr.com/baked-feta-eggs-your-new-favorite-easy-meal/",
+          "last_pinned_date": "2026-11-18",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-05T06:38:51+00:00",
+          "days_since_pinned": 6
+        },
+        {
+          "slug": "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+          "title": "Fresh Mango Crepe Rolls Smooth and Buttery Dessert",
+          "url": "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
+          "last_pinned_date": "2026-11-08",
+          "times_pinned": 7,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T17:12:07+00:00",
+          "days_since_pinned": 16
+        },
+        {
+          "slug": "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+          "title": "The Unbelievably Delicious Homemade Granola Bars Youll Crave",
+          "url": "https://newdecr.com/the-unbelievably-delicious-homemade-granola-bars-youll-crave/",
+          "last_pinned_date": "2026-11-14",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T15:59:39+00:00",
+          "days_since_pinned": 10
+        },
+        {
+          "slug": "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here",
+          "title": "Your Hunt for Crispy Cast Iron Skillet Pizza Ends Here",
+          "url": "https://newdecr.com/your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here/",
+          "last_pinned_date": "2026-11-13",
+          "times_pinned": 8,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-04-09T10:16:30+00:00",
+          "days_since_pinned": 11
+        },
+        {
+          "slug": "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks",
+          "title": "Easy Duchess Potatoes Fluffy and Full of Flavor Evening Snacks",
+          "url": "https://newdecr.com/easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks/",
+          "last_pinned_date": "2026-11-10",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-31",
+          "is_new": false,
+          "lastmod": "2026-08-31T14:45:04+00:00",
+          "days_since_pinned": 14
+        },
+        {
+          "slug": "sweet-potato-turkey-chili-fall-dinner-hack",
+          "title": "Sweet Potato Turkey Chili Fall Dinner Hack",
+          "url": "https://newdecr.com/sweet-potato-turkey-chili-fall-dinner-hack/",
+          "last_pinned_date": "2026-11-17",
+          "times_pinned": 10,
+          "first_seen_date": "2026-08-18",
+          "is_new": false,
+          "lastmod": "2026-08-06T13:30:48+00:00",
+          "days_since_pinned": 7
+        }
+      ],
+      "itemStatuses": {
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": "pending",
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": "pending",
+        "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": "pending",
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": "pending",
+        "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time": "pending",
+        "pumpkin-smores-very-unique-recipe": "pending",
+        "caramel-apple-perfection-season-favorite": "pending",
+        "ditch-the-store-bake-your-best-homemade-carrot-cake": "pending",
+        "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast": "pending",
+        "baked-feta-eggs-your-new-favorite-easy-meal": "pending",
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": "pending",
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": "pending",
+        "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here": "pending",
+        "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": "pending",
+        "sweet-potato-turkey-chili-fall-dinner-hack": "pending"
+      },
+      "cardMessageIds": {
+        "this-is-the-best-chocolate-cake-recipe-you-will-ever-make": 1948,
+        "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious": 1949,
+        "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": 1950,
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": 1951,
+        "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time": 1952,
+        "pumpkin-smores-very-unique-recipe": 1953,
+        "caramel-apple-perfection-season-favorite": 1954,
+        "ditch-the-store-bake-your-best-homemade-carrot-cake": 1955,
+        "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast": 1956,
+        "baked-feta-eggs-your-new-favorite-easy-meal": 1957,
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": 1958,
+        "the-unbelievably-delicious-homemade-granola-bars-youll-crave": 1959,
+        "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here": 1960,
+        "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks": 1961,
+        "sweet-potato-turkey-chili-fall-dinner-hack": 1962
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 106
     }
   },
   "daily_selections": {
@@ -21323,6 +21529,23 @@
       "this-cute-critter-cake-for-kids-is-sure-to-make-them-smile",
       "how-restaurant-chefs-craft-delicious-shrimp-balls",
       "air-fried-crispy-chicken-drumsticks"
+    ],
+    "2026-11-24": [
+      "this-is-the-best-chocolate-cake-recipe-you-will-ever-make",
+      "how-to-make-the-perfect-corndog-crispy-golden-and-totally-delicious",
+      "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+      "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+      "sheet-pan-chicken-pita-lifesaver-when-you-have-little-time",
+      "pumpkin-smores-very-unique-recipe",
+      "caramel-apple-perfection-season-favorite",
+      "ditch-the-store-bake-your-best-homemade-carrot-cake",
+      "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast",
+      "baked-feta-eggs-your-new-favorite-easy-meal",
+      "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+      "the-unbelievably-delicious-homemade-granola-bars-youll-crave",
+      "your-hunt-for-the-ultimate-crispy-cast-iron-skillet-pizza-ends-here",
+      "easy-duchess-potatoes-fluffy-and-full-of-flavor-evening-snacks",
+      "sweet-potato-turkey-chili-fall-dinner-hack"
     ]
   }
 }
