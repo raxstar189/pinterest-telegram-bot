@@ -114,6 +114,189 @@
       "is_new": false
     }
   },
-  "pending_messages": {},
-  "daily_selections": {}
+  "pending_messages": {
+    "2026-11-26": {
+      "date": "2026-11-26",
+      "recipes": [
+        {
+          "slug": "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+          "title": "spooky witch finger cookies a family sunday dinner treat",
+          "url": "https://newdecr.com/spooky-witch-finger-cookies-a-family-sunday-dinner-treat/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "is_new": false,
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-timeless-classic-peanut-butter-spider-cookies",
+          "title": "the timeless classic peanut butter spider cookies",
+          "url": "https://newdecr.com/the-timeless-classic-peanut-butter-spider-cookies/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "is_new": false,
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-real-thai-comfort-authentic-tom-yum-soup",
+          "title": "the real thai comfort authentic tom yum soup",
+          "url": "https://newdecr.com/the-real-thai-comfort-authentic-tom-yum-soup/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made",
+          "title": "5 ingredient sausage cheddar stuffed mushrooms dinner made",
+          "url": "https://newdecr.com/5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "sweet-peach-lemonade-your-go-to-summer-sip",
+          "title": "sweet peach lemonade your go to summer sip",
+          "url": "https://newdecr.com/sweet-peach-lemonade-your-go-to-summer-sip/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "spicy-miso-ramen-your-ultimate-comfort-bowl",
+          "title": "spicy miso ramen your ultimate comfort bowl",
+          "url": "https://newdecr.com/spicy-miso-ramen-your-ultimate-comfort-bowl/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "sundays-best-turkey-leftover-sandwich-for-family-dinner",
+          "title": "sundays best turkey leftover sandwich for family dinner",
+          "url": "https://newdecr.com/sundays-best-turkey-leftover-sandwich-for-family-dinner/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
+          "title": "weekend brunch favorite crispy salt and vinegar wings",
+          "url": "https://newdecr.com/weekend-brunch-favorite-crispy-salt-and-vinegar-wings/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "nutella-cookies-pie-my-childrens-new-fav",
+          "title": "nutella cookies pie my childrens new fav",
+          "url": "https://newdecr.com/nutella-cookies-pie-my-childrens-new-fav/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "christmas-sugar-cookies-your-family-will-adore",
+          "title": "christmas sugar cookies your family will adore",
+          "url": "https://newdecr.com/christmas-sugar-cookies-your-family-will-adore/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "mushroom-stuffed-chicken-breast-your-new-weeknight-favorit",
+          "title": "mushroom stuffed chicken breast your new weeknight favorit",
+          "url": "https://newdecr.com/mushroom-stuffed-chicken-breast-your-new-weeknight-favorit/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudd",
+          "title": "escape to the tropics with this easy pina colada chia pudd",
+          "url": "https://newdecr.com/escape-to-the-tropics-with-this-easy-pina-colada-chia-pudd/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-sid",
+          "title": "crispy garlic parmesan sweet potato one of the easiest sid",
+          "url": "https://newdecr.com/crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-sid/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        },
+        {
+          "slug": "hearty-tomato-minced-beef-soup-recipe",
+          "title": "hearty tomato minced beef soup recipe",
+          "url": "https://newdecr.com/hearty-tomato-minced-beef-soup-recipe/",
+          "last_pinned_date": "2026-11-26",
+          "times_pinned": 1,
+          "is_new": false,
+          "days_since_pinned": 0
+        }
+      ],
+      "itemStatuses": {
+        "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": "pending",
+        "the-timeless-classic-peanut-butter-spider-cookies": "pending",
+        "the-real-thai-comfort-authentic-tom-yum-soup": "pending",
+        "5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made": "pending",
+        "sweet-peach-lemonade-your-go-to-summer-sip": "pending",
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": "pending",
+        "sundays-best-turkey-leftover-sandwich-for-family-dinner": "pending",
+        "weekend-brunch-favorite-crispy-salt-and-vinegar-wings": "pending",
+        "nutella-cookies-pie-my-childrens-new-fav": "pending",
+        "christmas-sugar-cookies-your-family-will-adore": "pending",
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorit": "pending",
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudd": "pending",
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-sid": "pending",
+        "hearty-tomato-minced-beef-soup-recipe": "pending"
+      },
+      "cardMessageIds": {
+        "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": 1980,
+        "the-timeless-classic-peanut-butter-spider-cookies": 1981,
+        "the-real-thai-comfort-authentic-tom-yum-soup": 1982,
+        "5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made": 1983,
+        "sweet-peach-lemonade-your-go-to-summer-sip": 1984,
+        "spicy-miso-ramen-your-ultimate-comfort-bowl": 1985,
+        "sundays-best-turkey-leftover-sandwich-for-family-dinner": 1986,
+        "weekend-brunch-favorite-crispy-salt-and-vinegar-wings": 1987,
+        "nutella-cookies-pie-my-childrens-new-fav": 1988,
+        "christmas-sugar-cookies-your-family-will-adore": 1989,
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorit": 1990,
+        "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudd": 1991,
+        "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-sid": 1992,
+        "hearty-tomato-minced-beef-soup-recipe": 1993
+      },
+      "thinPoolWarning": true,
+      "eligiblePoolSize": 2
+    }
+  },
+  "daily_selections": {
+    "2026-11-26": [
+      "spooky-witch-finger-cookies-a-family-sunday-dinner-treat",
+      "the-timeless-classic-peanut-butter-spider-cookies",
+      "the-real-thai-comfort-authentic-tom-yum-soup",
+      "5-ingredient-sausage-cheddar-stuffed-mushrooms-dinner-made",
+      "sweet-peach-lemonade-your-go-to-summer-sip",
+      "spicy-miso-ramen-your-ultimate-comfort-bowl",
+      "sundays-best-turkey-leftover-sandwich-for-family-dinner",
+      "weekend-brunch-favorite-crispy-salt-and-vinegar-wings",
+      "nutella-cookies-pie-my-childrens-new-fav",
+      "christmas-sugar-cookies-your-family-will-adore",
+      "mushroom-stuffed-chicken-breast-your-new-weeknight-favorit",
+      "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudd",
+      "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-sid",
+      "hearty-tomato-minced-beef-soup-recipe"
+    ]
+  }
 }
