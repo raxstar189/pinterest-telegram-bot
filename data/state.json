@@ -153,7 +153,10 @@
     "https://newdecr.com/the-1-tweak-that-makes-your-sugar-cookies-truly-out-of-this-world/",
     "https://newdecr.com/perfecting-homemade-traditional-english-trifle-layers/",
     "https://newdecr.com/old-fashioned-comfort-classic-spaghetti-meatballs/",
-    "https://newdecr.com/easy-comfort-glazed-brown-sugar-meatloaf-recipe/"
+    "https://newdecr.com/easy-comfort-glazed-brown-sugar-meatloaf-recipe/",
+    "https://newdecr.com/20-minute-colcannon-fast-creamy-irish-mashed-potatoes/",
+    "https://newdecr.com/shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting/",
+    "https://newdecr.com/bistro-style-comfort-at-home-rich-baileys-cheesecake/"
   ],
   "recipes": {
     "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": {
@@ -1707,6 +1710,36 @@
       "first_seen_date": "2026-11-26",
       "is_new": true,
       "lastmod": "2026-11-22T19:03:16+00:00"
+    },
+    "20-minute-colcannon-fast-creamy-irish-mashed-potatoes": {
+      "slug": "20-minute-colcannon-fast-creamy-irish-mashed-potatoes",
+      "title": "20 Minute Colcannon Fast Creamy Irish Mashed Potatoes",
+      "url": "https://newdecr.com/20-minute-colcannon-fast-creamy-irish-mashed-potatoes/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-27",
+      "is_new": true,
+      "lastmod": "2026-11-26T11:05:06+00:00"
+    },
+    "shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting": {
+      "slug": "shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting",
+      "title": "Shamrock Cupcakes the Trick to Perfectly Smooth Green Frosting",
+      "url": "https://newdecr.com/shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-27",
+      "is_new": true,
+      "lastmod": "2026-11-26T13:21:51+00:00"
+    },
+    "bistro-style-comfort-at-home-rich-baileys-cheesecake": {
+      "slug": "bistro-style-comfort-at-home-rich-baileys-cheesecake",
+      "title": "Bistro Style Comfort at Home Rich Baileys Cheesecake",
+      "url": "https://newdecr.com/bistro-style-comfort-at-home-rich-baileys-cheesecake/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-27",
+      "is_new": true,
+      "lastmod": "2026-11-26T17:37:07+00:00"
     }
   },
   "pending_messages": {
@@ -1860,6 +1893,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 146
+    },
+    "2026-11-27": {
+      "date": "2026-11-27",
+      "recipes": [
+        {
+          "slug": "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
+          "title": "Whip Up This Restaurant Style Hot Honey Ranch Sauce at Home",
+          "url": "https://newdecr.com/whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:01:24+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+          "title": "The Chocolate Bombolone Is an Italian Doughnut That Is a New Favorite",
+          "url": "https://newdecr.com/the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-06-09T04:05:12+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+          "title": "Time Saving Scalloped Potatoes Rich Flavor Zero Compromise",
+          "url": "https://newdecr.com/time-saving-scalloped-potatoes-rich-flavor-zero-compromise/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-09-14T18:58:18+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+          "title": "Grandmas Crispy Potato Pancakes a Reimagined Comfort",
+          "url": "https://newdecr.com/grandmas-crispy-potato-pancakes-a-reimagined-comfort/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-10-19T05:48:14+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+          "title": "Spooky Sweet Fun Full Guide to Making Best Halloween Decorative Cookies",
+          "url": "https://newdecr.com/spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-08-21T07:48:39+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+          "title": "Blueberry Cream Cheese Muffin Cake",
+          "url": "https://newdecr.com/your-new-favorite-blueberry-cream-cheese-muffin-cake/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:51:25+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal",
+          "title": "Sweet and Spicy Jalapeno Raspberry Chicken Weeknight Meal",
+          "url": "https://newdecr.com/sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-04-08T19:04:49+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "how-i-made-the-perfect-cheeseburger",
+          "title": "How I Made Cheeseburger",
+          "url": "https://newdecr.com/how-i-made-the-perfect-cheeseburger/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:42:14+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+          "title": "Mess Free Classic Pecan Pie a Clean Kitchen Bake",
+          "url": "https://newdecr.com/mess-free-classic-pecan-pie-a-clean-kitchen-bake/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-09-12T08:23:17+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+          "title": "Crispy Air Fried Chicken Dumplings Current New Favorite Appetiser",
+          "url": "https://newdecr.com/crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-07-01T04:07:10+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve",
+          "title": "Easy Comfort Effortless Champagne Jello Shots for New Years Eve",
+          "url": "https://newdecr.com/easy-comfort-effortless-champagne-jello-shots-for-new-years-eve/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-10-19T05:34:14+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting",
+          "title": "Shamrock Cupcakes the Trick to Perfectly Smooth Green Frosting",
+          "url": "https://newdecr.com/shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-27",
+          "is_new": true,
+          "lastmod": "2026-11-26T13:21:51+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "no-fuss-gingerbread-cookies-chewy-spicy-perfection",
+          "title": "No Fuss Gingerbread Cookies Chewy Spicy Perfection",
+          "url": "https://newdecr.com/no-fuss-gingerbread-cookies-chewy-spicy-perfection/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-09-10T18:55:23+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "perfecting-homemade-traditional-english-trifle-layers",
+          "title": "Perfecting Homemade Traditional English Trifle Layers",
+          "url": "https://newdecr.com/perfecting-homemade-traditional-english-trifle-layers/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-11-08T07:37:56+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite",
+          "title": "Mushroom Stuffed Chicken Breast Your New Weeknight Favorite",
+          "url": "https://newdecr.com/mushroom-stuffed-chicken-breast-your-new-weeknight-favorite/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:04:16+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home": "pending",
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": "pending",
+        "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": "pending",
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": "pending",
+        "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": "pending",
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": "pending",
+        "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": "pending",
+        "how-i-made-the-perfect-cheeseburger": "pending",
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": "pending",
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": "pending",
+        "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve": "pending",
+        "shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting": "pending",
+        "no-fuss-gingerbread-cookies-chewy-spicy-perfection": "pending",
+        "perfecting-homemade-traditional-english-trifle-layers": "pending",
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": "pending"
+      },
+      "cardMessageIds": {
+        "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home": 2013,
+        "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite": 2014,
+        "time-saving-scalloped-potatoes-rich-flavor-zero-compromise": 2015,
+        "grandmas-crispy-potato-pancakes-a-reimagined-comfort": 2016,
+        "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies": 2017,
+        "your-new-favorite-blueberry-cream-cheese-muffin-cake": 2018,
+        "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal": 2019,
+        "how-i-made-the-perfect-cheeseburger": 2020,
+        "mess-free-classic-pecan-pie-a-clean-kitchen-bake": 2021,
+        "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser": 2022,
+        "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve": 2023,
+        "shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting": 2024,
+        "no-fuss-gingerbread-cookies-chewy-spicy-perfection": 2025,
+        "perfecting-homemade-traditional-english-trifle-layers": 2026,
+        "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite": 2027
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 147
     }
   },
   "daily_selections": {
@@ -1878,6 +2117,23 @@
       "escape-to-the-tropics-with-this-easy-pina-colada-chia-pudd",
       "crispy-garlic-parmesan-sweet-potato-one-of-the-easiest-sid",
       "hearty-tomato-minced-beef-soup-recipe"
+    ],
+    "2026-11-27": [
+      "whip-up-this-restaurant-style-hot-honey-ranch-sauce-at-home",
+      "the-chocolate-bombolone-is-an-italian-doughnut-that-is-a-new-favorite",
+      "time-saving-scalloped-potatoes-rich-flavor-zero-compromise",
+      "grandmas-crispy-potato-pancakes-a-reimagined-comfort",
+      "spooky-sweet-fun-full-guide-to-making-best-halloween-decorative-cookies",
+      "your-new-favorite-blueberry-cream-cheese-muffin-cake",
+      "sweet-and-spicy-jalapeno-raspberry-chicken-your-new-favorite-weeknight-meal",
+      "how-i-made-the-perfect-cheeseburger",
+      "mess-free-classic-pecan-pie-a-clean-kitchen-bake",
+      "crispy-air-fried-chicken-dumplings-current-new-favorite-appetiser",
+      "easy-comfort-effortless-champagne-jello-shots-for-new-years-eve",
+      "shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting",
+      "no-fuss-gingerbread-cookies-chewy-spicy-perfection",
+      "perfecting-homemade-traditional-english-trifle-layers",
+      "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite"
     ]
   }
 }
