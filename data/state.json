@@ -156,7 +156,8 @@
     "https://newdecr.com/easy-comfort-glazed-brown-sugar-meatloaf-recipe/",
     "https://newdecr.com/20-minute-colcannon-fast-creamy-irish-mashed-potatoes/",
     "https://newdecr.com/shamrock-cupcakes-the-trick-to-perfectly-smooth-green-frosting/",
-    "https://newdecr.com/bistro-style-comfort-at-home-rich-baileys-cheesecake/"
+    "https://newdecr.com/bistro-style-comfort-at-home-rich-baileys-cheesecake/",
+    "https://newdecr.com/warm-family-tradition-classic-irish-stew-recipe/"
   ],
   "recipes": {
     "spooky-witch-finger-cookies-a-family-sunday-dinner-treat": {
@@ -1740,6 +1741,16 @@
       "first_seen_date": "2026-11-27",
       "is_new": true,
       "lastmod": "2026-11-26T17:37:07+00:00"
+    },
+    "warm-family-tradition-classic-irish-stew-recipe": {
+      "slug": "warm-family-tradition-classic-irish-stew-recipe",
+      "title": "Warm Family Tradition Classic Irish Stew Recipe",
+      "url": "https://newdecr.com/warm-family-tradition-classic-irish-stew-recipe/",
+      "last_pinned_date": null,
+      "times_pinned": 0,
+      "first_seen_date": "2026-11-28",
+      "is_new": true,
+      "lastmod": "2026-11-27T07:49:48+00:00"
     }
   },
   "pending_messages": {
@@ -2099,6 +2110,212 @@
       },
       "thinPoolWarning": false,
       "eligiblePoolSize": 147
+    },
+    "2026-11-28": {
+      "date": "2026-11-28",
+      "recipes": [
+        {
+          "slug": "air-fried-crispy-chicken-drumsticks",
+          "title": "Air Fried Crispy Chicken Drumsticks",
+          "url": "https://newdecr.com/air-fried-crispy-chicken-drumsticks/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-07-09T09:21:45+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+          "title": "Fresh Mango Crepe Rolls Smooth and Buttery Dessert",
+          "url": "https://newdecr.com/fresh-mango-crepe-rolls-smooth-and-buttery-dessert/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-08-31T17:12:07+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+          "title": "The Best Vegan Pumpkin Spice Cake Youll Ever Bake",
+          "url": "https://newdecr.com/the-best-vegan-pumpkin-spice-cake-youll-ever-bake/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-08-21T07:23:25+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+          "title": "Meal Authentic Middle Eastern Beef Shawarma",
+          "url": "https://newdecr.com/your-new-favorite-meal-authentic-middle-eastern-beef-shawarma/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-07-14T13:54:09+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "hot-honey-shrimp-your-new-weeknight-obsession",
+          "title": "Hot Honey Shrimp Your New Weeknight Obsession",
+          "url": "https://newdecr.com/hot-honey-shrimp-your-new-weeknight-obsession/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-04-20T20:00:08+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "easy-comfort-glazed-brown-sugar-meatloaf-recipe",
+          "title": "Easy Comfort Glazed Brown Sugar Meatloaf Recipe",
+          "url": "https://newdecr.com/easy-comfort-glazed-brown-sugar-meatloaf-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-11-22T19:03:16+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast",
+          "title": "My Go to Cinnamon Breakfast Roll Recipe for Breakfast",
+          "url": "https://newdecr.com/my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:54:53+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+          "title": "Crispy Air Fryer Shrimp Toast Easy Appetizer",
+          "url": "https://newdecr.com/crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-04-20T19:48:05+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "hands-down-the-best-honey-baked-ham-youll-ever-make",
+          "title": "Hands Down the Best Honey Baked Ham Youll Ever Make",
+          "url": "https://newdecr.com/hands-down-the-best-honey-baked-ham-youll-ever-make/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-10-09T05:22:30+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "easy-to-make-asian-style-beef-crescent-roll-recipe",
+          "title": "Easy to Make Asian Style Beef Crescent Roll Recipe",
+          "url": "https://newdecr.com/easy-to-make-asian-style-beef-crescent-roll-recipe/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-07-07T05:10:20+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "homemade-cornbread-is-it-really-better-than-store-bought",
+          "title": "Homemade Cornbread Is It Really Better Than Store Bought",
+          "url": "https://newdecr.com/homemade-cornbread-is-it-really-better-than-store-bought/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-10-19T06:02:59+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "graveyard-pudding-cups-spooky-fun-made-easy",
+          "title": "Graveyard Pudding Cups Spooky Fun Made Easy",
+          "url": "https://newdecr.com/graveyard-pudding-cups-spooky-fun-made-easy/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-09-16T19:25:29+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer",
+          "title": "Insanely Good Baked Brie with Cranberry Super Easy Party Appetizer",
+          "url": "https://newdecr.com/insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-10-31T18:05:32+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "loaded-potato-taco-bowl-weeknight-obsession-justified",
+          "title": "Loaded Potato Taco Bowl Weeknight Obsession Justified",
+          "url": "https://newdecr.com/loaded-potato-taco-bowl-weeknight-obsession-justified/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-08-21T16:27:24+00:00",
+          "days_since_pinned": null
+        },
+        {
+          "slug": "sweet-tangy-garlic-herb-roasted-turkey-delight",
+          "title": "Sweet Tangy Garlic Herb Roasted Turkey Delight",
+          "url": "https://newdecr.com/sweet-tangy-garlic-herb-roasted-turkey-delight/",
+          "last_pinned_date": null,
+          "times_pinned": 0,
+          "first_seen_date": "2026-11-26",
+          "is_new": true,
+          "lastmod": "2026-09-01T09:12:46+00:00",
+          "days_since_pinned": null
+        }
+      ],
+      "itemStatuses": {
+        "air-fried-crispy-chicken-drumsticks": "pending",
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": "pending",
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": "pending",
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": "pending",
+        "hot-honey-shrimp-your-new-weeknight-obsession": "pending",
+        "easy-comfort-glazed-brown-sugar-meatloaf-recipe": "pending",
+        "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast": "pending",
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": "pending",
+        "hands-down-the-best-honey-baked-ham-youll-ever-make": "pending",
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": "pending",
+        "homemade-cornbread-is-it-really-better-than-store-bought": "pending",
+        "graveyard-pudding-cups-spooky-fun-made-easy": "pending",
+        "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer": "pending",
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": "pending",
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": "pending"
+      },
+      "cardMessageIds": {
+        "air-fried-crispy-chicken-drumsticks": 2031,
+        "fresh-mango-crepe-rolls-smooth-and-buttery-dessert": 2032,
+        "the-best-vegan-pumpkin-spice-cake-youll-ever-bake": 2033,
+        "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma": 2034,
+        "hot-honey-shrimp-your-new-weeknight-obsession": 2035,
+        "easy-comfort-glazed-brown-sugar-meatloaf-recipe": 2036,
+        "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast": 2037,
+        "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer": 2038,
+        "hands-down-the-best-honey-baked-ham-youll-ever-make": 2039,
+        "easy-to-make-asian-style-beef-crescent-roll-recipe": 2040,
+        "homemade-cornbread-is-it-really-better-than-store-bought": 2041,
+        "graveyard-pudding-cups-spooky-fun-made-easy": 2042,
+        "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer": 2043,
+        "loaded-potato-taco-bowl-weeknight-obsession-justified": 2044,
+        "sweet-tangy-garlic-herb-roasted-turkey-delight": 2045
+      },
+      "thinPoolWarning": false,
+      "eligiblePoolSize": 134
     }
   },
   "daily_selections": {
@@ -2134,6 +2351,23 @@
       "no-fuss-gingerbread-cookies-chewy-spicy-perfection",
       "perfecting-homemade-traditional-english-trifle-layers",
       "mushroom-stuffed-chicken-breast-your-new-weeknight-favorite"
+    ],
+    "2026-11-28": [
+      "air-fried-crispy-chicken-drumsticks",
+      "fresh-mango-crepe-rolls-smooth-and-buttery-dessert",
+      "the-best-vegan-pumpkin-spice-cake-youll-ever-bake",
+      "your-new-favorite-meal-authentic-middle-eastern-beef-shawarma",
+      "hot-honey-shrimp-your-new-weeknight-obsession",
+      "easy-comfort-glazed-brown-sugar-meatloaf-recipe",
+      "my-go-to-cinnamon-breakfast-roll-recipe-for-breakfast",
+      "crispy-air-fryer-shrimp-toast-your-new-favorite-easy-appetizer",
+      "hands-down-the-best-honey-baked-ham-youll-ever-make",
+      "easy-to-make-asian-style-beef-crescent-roll-recipe",
+      "homemade-cornbread-is-it-really-better-than-store-bought",
+      "graveyard-pudding-cups-spooky-fun-made-easy",
+      "insanely-good-baked-brie-with-cranberry-super-easy-party-appetizer",
+      "loaded-potato-taco-bowl-weeknight-obsession-justified",
+      "sweet-tangy-garlic-herb-roasted-turkey-delight"
     ]
   }
 }
